@@ -11,12 +11,8 @@
             "id": "e8b63532f71d9315",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EAG.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EAG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EAG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "EAG.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,7 +140,7 @@
   },
   "active": "db5e2d821e05a9cc",
   "lastOpenFiles": [
-    "README.md",
-    "EAG.md"
+    "EAG.md",
+    "README.md"
   ]
 }
