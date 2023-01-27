@@ -1,11 +1,12 @@
 
 
-2023.01.06.
-	CT genetics case report -  SCI & KMJ	
-	CT xray -  ROC curve of entropy	
-	Pelvictilt - electrode  사기  3월달 2000개 정도 필요
+2023.01.27.
+	[[CTgenetics]]: inorganic phosphatase 는 hydroxy apatite를 촉진함
+	ABCC6
 
-2023.01.20
+
+2023.01.20.
+
 	CT genetics: alpl 이 마지막에 우리가 추가한 진을 보는 것임.
 			조경순님이 검사여부확인 - 인롤여부
 			다중석회 - 타이틀 - 케이스시리즈.
@@ -26,6 +27,10 @@
 			discussion
 			설날 끝나는 미팅
 
-inorganic phosphatase 는 hydroxy apatite를 촉진함
+2023.01.06.
+	CT genetics case report -  SCI & KMJ	
+	CT xray -  ROC curve of entropy	
+	Pelvictilt - electrode  사기  3월달 2000개 정도 필요
 
-ABCC6
+
+
