@@ -46,9 +46,9 @@
 ---
 
 
-|Papers|Books|People|YouTube|Articles|Thoughts|
-|--|--|--|--|--|--|
-|[[!]]|[[{]]|[[@]]|[[+]]|[[(]]|[[=]]|
+| Papers | Books | People | YouTube | Articles | Thoughts | Conference |
+| ------ | ----- | ------ | ------- | -------- | -------- | ---------- |
+| [[!]]  | [[{]] | [[@]]  | [[+]]   | [[(]]    | [[=]]    |    [[$]]        |
 
 unused: `)};'&%`
 
