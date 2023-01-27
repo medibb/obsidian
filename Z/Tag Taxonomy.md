@@ -48,27 +48,9 @@
 ---
 
 
-|Articles|Books|Papers|People|YouTube|Thoughts|
+|Books|People|YouTube|Articles|Papers|Thoughts|
 |--|--|--|--|--|--|
-|!|@|#$%
-
-[{](https://publish.obsidian.md/bryan-jenks/Z/%7B)
-
-[@](https://publish.obsidian.md/bryan-jenks/Z/%40)
-
-[!](https://publish.obsidian.md/bryan-jenks/Z/!)
-
-[%](https://publish.obsidian.md/bryan-jenks/Z/%25)
-
-[+](https://publish.obsidian.md/bryan-jenks/Z/%2B)
-
-[(](https://publish.obsidian.md/bryan-jenks/Z/()
-
-[&](https://publish.obsidian.md/bryan-jenks/Z/%26)
-
-[=](https://publish.obsidian.md/bryan-jenks/Z/%3D)
-
-[;](https://publish.obsidian.md/bryan-jenks/Z/%3B)
+|[[{]]|[[@]]|[[+]]|
 
 unused: `)};'`
 
