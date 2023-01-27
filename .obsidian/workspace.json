@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EAG.md",
+                "file": "obsidian/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f2c3be30c391f23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EAG.md",
+                "file": "note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EAG.md",
+                "file": "note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EAG.md"
+                "file": "note.md"
               }
             }
           }
@@ -146,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db5e2d821e05a9cc",
+  "active": "1f2c3be30c391f23",
   "lastOpenFiles": [
+    "obsidian/README.md",
+    "obsidian/EAG.md",
     "README.md",
     "EAG.md"
   ]
