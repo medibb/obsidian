@@ -5,8 +5,6 @@
 
 -   📥️ Seed box | Inputs | items that i am / will be actively working on
     -   📚️ Books
-    -   🐦️ Tweets
-    -   🎧️ Podcasts
     -   🎥️ Youtube Videos
     -   📰️ Articles
     -   📜️ Papers
@@ -48,14 +46,14 @@
 ---
 
 
-|Books|People|YouTube|Articles|Papers|Thoughts|
+|Papers|Books|People|YouTube|Articles|Thoughts|
 |--|--|--|--|--|--|
-|[[{]]|[[@]]|[[+]]|
+|[[!]]|[[{]]|[[@]]|[[+]]|[[(]]|[[=]]|
 
-unused: `)};'`
+unused: `)};'&%`
 
 LINKS TO THIS PAGE
 
-[INDEX](https://publish.obsidian.md/bryan-jenks/Z/INDEX)
+[[INDEX]]
 
 [Map Of Content](https://publish.obsidian.md/bryan-jenks/Z/Map+Of+Content)
