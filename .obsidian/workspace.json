@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z/INDEX.md",
+                "file": "Z/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
         ]
       },
       {
-        "id": "176f8aeabc68fedc",
+        "id": "9d42e4261bc783c8",
         "type": "tabs",
         "children": [
           {
@@ -112,25 +112,17 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z/INDEX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "9d42e4261bc783c8",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "ec67602e4ce55085",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z/INDEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,13 +149,10 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Z/INDEX.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,17 +169,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "db5e2d821e05a9cc",
+  "active": "d529772aab483137",
   "lastOpenFiles": [
+    "Z/Untitled.md",
+    "Z/Tag Taxonomy.md",
+    "Inbox/( Myotendinous junction.md",
+    "Z/INDEX.md",
     "Inbox/+👑️ My 2021 Comprehensive Obsidian Zettelkasten Workflow 👑️.md",
     "Template/Paper.md",
-    "Inbox/( Myotendinous junction.md",
     "Template/Book.md",
     "Template/Article.md",
     "note.md",
-    "Utility/🔌️ Plugins.md",
-    "Z/INDEX.md",
-    "Utility/💳️ Kanban Live.md",
-    "Z/(.md"
+    "Utility/🔌️ Plugins.md"
   ]
 }
