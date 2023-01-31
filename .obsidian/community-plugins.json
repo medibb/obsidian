@@ -3,5 +3,7 @@
   "obsidian-zotero-desktop-connector",
   "templater-obsidian",
   "cm-typewriter-scroll-obsidian",
-  "dataview"
+  "dataview",
+  "better-word-count",
+  "obsidian-emoji-toolbar"
 ]

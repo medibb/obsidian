@@ -18,8 +18,8 @@
     -   Lets people know you're working in Obsidian and what note you're looking at
 -   **Editor Syntax highlighting**
     -   See code highlighting in fenced code areas in _edit_ mode
--   **Emoji Picker**
-    -   pick from a command launcher the emoji to insert with `⌘+.`
+-   **Emoji Toolbar Picker**
+    -   pick from a command launcher the emoji to insert with `⌘/Ctrl+.`
 -   **Jump to link**
     -   In _edit_ mode highlight links like the vim browser plugins for navigation
     -   `^+'`
