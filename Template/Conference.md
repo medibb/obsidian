@@ -1,5 +1,5 @@
   
--   `Title:` [<%tp.file.title%>](https://publish.obsidian.md/bryan-jenks/%3C%25tp.file.title%25%3E)
+-   `Title:` [[<%tp.file.title%>]]
 -   `Type:` [[$]]
 -   `Tags:`
 -   `organizer:`   
