@@ -1,4 +1,10 @@
-  
+Frequent shortcuts 
+:crtl + o - travel to another note
+art + E - templator
+ctrl + V - paste link in clipboard
+crrl + + - emoji
+
+
 ---
 
 To manage all notes in their various stages of processing I use this General utility notes that are tagged with [#🧠️/⚙️](https://publish.obsidian.md/#%F0%9F%A7%A0%EF%B8%8F/%E2%9A%99%EF%B8%8F) such as this [💳️ Kanban](https://publish.obsidian.md/bryan-jenks/Utility/%F0%9F%92%B3%EF%B8%8F+Kanban) note or this one [Utility/💳️ Kanban Live](https://publish.obsidian.md/bryan-jenks/Utility/%F0%9F%92%B3%EF%B8%8F+Kanban+Live). I also keep track of input processing and daily notes with [ISO 8601](https://publish.obsidian.md/bryan-jenks/ISO+8601) date stamps in the titles of the notes which are laid out chronologically here: [Utility/🕓️ Timeline](https://publish.obsidian.md/bryan-jenks/Utility/%F0%9F%95%93%EF%B8%8F+Timeline).
