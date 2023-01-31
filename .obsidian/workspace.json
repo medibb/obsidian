@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Article.md",
+                "file": "Utility/✏️ Workbench.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "490aaaa874ed6718",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Electroarthrography MOC.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Article.md",
+                "file": "Inbox/Electroarthrography MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Article.md",
+                "file": "Inbox/Electroarthrography MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Article.md"
+                "file": "Inbox/Electroarthrography MOC.md"
               }
             }
           }
@@ -169,17 +182,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5df96589fb02c920",
+  "active": "490aaaa874ed6718",
   "lastOpenFiles": [
-    "Template/Book.md",
-    "Template/Conference.md",
-    "Template/Article.md",
+    "Utility/✏️ Workbench.md",
     "Inbox/$ 혁신형 의사과학자회의.md",
     "Inbox/+👑️ My 2021 Comprehensive Obsidian Zettelkasten Workflow 👑️.md",
     "Inbox/( Myotendinous junction.md",
+    "Template/Article.md",
+    "Template/Book.md",
+    "Template/Conference.md",
     "Z/!.md",
     "Z/{.md",
-    "Z/(.md",
-    "Utility/✏️ Workbench.md"
+    "Z/(.md"
   ]
 }
