@@ -1,3 +1,4 @@
+
 Frequent shortcuts 
 :crtl + o - travel to another note
 art + E - templator
