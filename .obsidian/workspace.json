@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utility/🔌️ Plugins.md",
+                "file": "note.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utility/🔌️ Plugins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +129,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utility/🔌️ Plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Utility/🔌️ Plugins.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -180,8 +176,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "080d2d48346a390c",
+  "active": "d529772aab483137",
   "lastOpenFiles": [
+    "note.md",
+    "Utility/🔌️ Plugins.md",
     "Z/INDEX.md",
     "Template/Article.md",
     "Utility/💳️ Kanban Live.md",
@@ -189,8 +187,6 @@
     "Z/(.md",
     "Z/{.md",
     "Z/!.md",
-    "Z/$.md",
-    "Z/=.md",
-    "Z/+.md"
+    "Z/$.md"
   ]
 }
