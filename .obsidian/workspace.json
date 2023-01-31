@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z/Untitled.md",
+                "file": "physiology.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "physiology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "physiology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "physiology.md"
+              }
             }
           }
         ]
@@ -169,8 +173,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d529772aab483137",
+  "active": "080d2d48346a390c",
   "lastOpenFiles": [
+    "note.md",
+    "physiology.md",
     "Z/Untitled.md",
     "Z/Tag Taxonomy.md",
     "Inbox/( Myotendinous junction.md",
@@ -178,8 +184,6 @@
     "Inbox/+👑️ My 2021 Comprehensive Obsidian Zettelkasten Workflow 👑️.md",
     "Template/Paper.md",
     "Template/Book.md",
-    "Template/Article.md",
-    "note.md",
-    "Utility/🔌️ Plugins.md"
+    "Template/Article.md"
   ]
 }
