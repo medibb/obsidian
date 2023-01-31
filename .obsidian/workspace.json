@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memo/연구아이디어.md",
+                "file": "Template/Paper.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "080d2d48346a390c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memo/연구아이디어.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memo/연구아이디어.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memo/연구아이디어.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -146,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b5615345097ccfe",
+  "active": "080d2d48346a390c",
   "lastOpenFiles": [
+    "Template/Paper.md",
+    "Memo/연구아이디어.md",
     "Inbox/$ 혁신형 의사과학자회의.md",
     "Memo/2023 Lab meeting.md",
-    "Memo/연구아이디어.md",
     "Memo/2022 Lab meeting.md",
     "Memo/0 연간 업무.md",
     "Inbox/+👑️ My 2021 Comprehensive Obsidian Zettelkasten Workflow 👑️.md",
     "note.md",
     "obsidian/README.md",
-    "obsidian/EAG.md",
-    "README.md"
+    "obsidian/EAG.md"
   ]
 }
