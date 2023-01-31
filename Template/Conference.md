@@ -4,6 +4,6 @@
 -   `Tags:`
 -   `organizer:`   
 -   `meeting Date:` 
--   `Reviewed Date:` [<%tp.date.now()%>](https://publish.obsidian.md/bryan-jenks/%3C%25tp.date.now()%25%3E)
+-   `Reviewed Date:` [[<%tp.date.now()%>]]
 
 ---

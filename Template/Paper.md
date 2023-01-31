@@ -1,7 +1,7 @@
 
 
 
-# Title:**[<%tp.file.title%>](https://publish.obsidian.md/bryan-jenks/%3C%25tp.file.title%25%3E)**
+# **Title: [[<%tp.file.title%>]]**
 
 ## Metadata:
 
@@ -14,7 +14,7 @@
 -   `DOI:` [DOI]
 -   `Zotero URL:` [Zotero]
 -   `Publish Date:`
--   `Reviewed Date:` [<%tp.date.now()%>](https://publish.obsidian.md/bryan-jenks/%3C%25tp.date.now()%25%3E)
+-   `Reviewed Date:` [[<%tp.date.now()%>]]
 
 ## Citation
 

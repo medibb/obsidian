@@ -1,5 +1,5 @@
   
--   `Title:` [<%tp.file.title%>]
+-   `Title:` [[<%tp.file.title%>]]
 -   `Type:` [[(]]
 -   `Tags:`
 -   `Author:`
@@ -7,6 +7,6 @@
 -   `Link:`
 -   `Reference:`
 -   `Publish Date:`
--   `Reviewed Date:` [<%tp.date.now()%>]
+-   `Reviewed Date:` [[<%tp.date.now()%>]]
 
 ---
