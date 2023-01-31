@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "556860c21c338352",
+        "id": "eba3765a99f0ac82",
         "type": "tabs",
         "children": [
           {
-            "id": "e8b63532f71d9315",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "1f2c3be30c391f23",
+            "id": "5b5615345097ccfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note.md",
+                "file": "Memo/연구아이디어.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note.md",
+                "file": "Memo/연구아이디어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note.md",
+                "file": "Memo/연구아이디어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note.md"
+                "file": "Memo/연구아이디어.md"
               }
             }
           }
@@ -155,11 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f2c3be30c391f23",
+  "active": "5b5615345097ccfe",
   "lastOpenFiles": [
+    "Inbox/$ 혁신형 의사과학자회의.md",
+    "Memo/2023 Lab meeting.md",
+    "Memo/연구아이디어.md",
+    "Memo/2022 Lab meeting.md",
+    "Memo/0 연간 업무.md",
+    "Inbox/+👑️ My 2021 Comprehensive Obsidian Zettelkasten Workflow 👑️.md",
+    "note.md",
     "obsidian/README.md",
     "obsidian/EAG.md",
-    "README.md",
-    "EAG.md"
+    "README.md"
   ]
 }
