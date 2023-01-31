@@ -5,7 +5,7 @@
 
 ## Metadata:
 
--   `Type:`  [[! ]]
+-   `Type:`  [[!]]
 -   `Author:`
     -   `Notable Authors:`
 -   `Keywords:`

@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "080d2d48346a390c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "physiology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "physiology.md",
+                "file": "Template/Paper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "physiology.md",
+                "file": "Template/Paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "physiology.md"
+                "file": "Template/Paper.md"
               }
             }
           }
@@ -173,17 +160,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "080d2d48346a390c",
+  "active": "5b5615345097ccfe",
   "lastOpenFiles": [
-    "note.md",
-    "physiology.md",
-    "Z/Untitled.md",
-    "Z/Tag Taxonomy.md",
     "Inbox/( Myotendinous junction.md",
-    "Z/INDEX.md",
+    "Z/Tag Taxonomy.md",
     "Inbox/+👑️ My 2021 Comprehensive Obsidian Zettelkasten Workflow 👑️.md",
-    "Template/Paper.md",
-    "Template/Book.md",
-    "Template/Article.md"
+    "Inbox/$ 혁신형 의사과학자회의.md",
+    "Template/Article.md",
+    "Memo/연구아이디어.md",
+    "Memo/2022 Lab meeting.md",
+    "Memo/0 연간 업무.md",
+    "physiology.md",
+    "note.md"
   ]
 }

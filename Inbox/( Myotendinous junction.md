@@ -1,11 +1,11 @@
   
 -   `Title:` [[( Myotendinous junction]]
 -   `Type:` [[(]]
--   `Tags:` #🧠️/📝️/🌱️ 
+-   `Tags:` #🧠️/📝️/🌱️ #🚹/🔬
 -   `Author:`
     -   `Notable Authors:`
--   `Link:` https://wikimsk.org/wiki/Myotendinous_Junction#Myotendinous_Junction_Structure_and_Function
--   `Reference:`
+-   `Link:` 
+-   `Reference:`https://wikimsk.org/wiki/Myotendinous_Junction#Myotendinous_Junction_Structure_and_Function
 -   `Publish Date:`
 -   `Reviewed Date:` [[2023-01-31]]
 
