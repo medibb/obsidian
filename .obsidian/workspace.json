@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utility/✏️ Workbench.md",
+                "file": "Z/INDEX.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utility/✏️ Workbench.md",
+                "file": "Z/INDEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utility/✏️ Workbench.md",
+                "file": "Z/INDEX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utility/✏️ Workbench.md"
+                "file": "Z/INDEX.md"
               }
             }
           }
@@ -172,17 +172,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5d1585ddc7539a12",
+  "active": "d529772aab483137",
   "lastOpenFiles": [
-    "muscle.md",
+    "Utility/💳️ Kanban Live.md",
     "Template/Paper.md",
-    "Inbox/( Myotendinous junction.md",
-    "Inbox/+👑️ My 2021 Comprehensive Obsidian Zettelkasten Workflow 👑️.md",
-    "2023-01-31.md",
-    "note.md",
-    "physiology.md",
-    "Untitled.md",
-    "The benefit 0f analog zettelkasten cards llaid out on a desk can be replicated with andy mode.md",
-    "Untitled 1.md"
+    "Z/(.md",
+    "Z/{.md",
+    "Z/!.md",
+    "Z/$.md",
+    "Z/=.md",
+    "Z/+.md",
+    "Z/@.md",
+    "2023-01-31.md"
   ]
 }

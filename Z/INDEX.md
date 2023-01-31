@@ -11,8 +11,8 @@ To really explore and jump off into this vault you should start with the [Maps 
 
 If you want to see my [Zettelkasten](https://publish.obsidian.md/bryan-jenks/Z/Zettelkasten) notes you can do so with this tag: [#🧠️/📝️](https://publish.obsidian.md/#%F0%9F%A7%A0%EF%B8%8F/%F0%9F%93%9D%EF%B8%8F) for tags in various stages of processing here's the breakdown:
 
-[#🧠️/📝️](https://publish.obsidian.md/#%F0%9F%A7%A0%EF%B8%8F/%F0%9F%93%9D%EF%B8%8F)    _<=>_ `All Notes`  
-[#🧠️/📝️/🌱️](https://publish.obsidian.md/#%F0%9F%A7%A0%EF%B8%8F/%F0%9F%93%9D%EF%B8%8F/%F0%9F%8C%B1%EF%B8%8F) _<=>_ `Seedling Notes`  
-[#🧠️/📝️/🌿️](https://publish.obsidian.md/#%F0%9F%A7%A0%EF%B8%8F/%F0%9F%93%9D%EF%B8%8F/%F0%9F%8C%BF%EF%B8%8F) _<=>_ `Fern Notes`  
-[#🧠️/📝️/🌞️](https://publish.obsidian.md/#%F0%9F%A7%A0%EF%B8%8F/%F0%9F%93%9D%EF%B8%8F/%F0%9F%8C%9E%EF%B8%8F) _<=>_ `Incubating Notes`  
-[#🧠️/📝️/🌲️](https://publish.obsidian.md/#%F0%9F%A7%A0%EF%B8%8F/%F0%9F%93%9D%EF%B8%8F/%F0%9F%8C%B2%EF%B8%8F) _<=>_ `Evergreen Notes`
+[#🧠️/📝️]    _<=>_ `All Notes`  
+[#🧠️/📝️/🌱️] _<=>_ `Seedling Notes`  
+[#🧠️/📝️/🌿️] _<=>_ `Fern Notes`  
+[#🧠️/📝️/🌞️] _<=>_ `Incubating Notes`  
+[#🧠️/📝️/🌲️] _<=>_ `Evergreen Notes`
