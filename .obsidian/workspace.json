@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/( Myotendinous junction.md",
+                "file": "Dataview/(.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/( Myotendinous junction.md",
+                "file": "Inbox/= EAG - Methodology.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -61,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "workbe",
+                "query": "tag:#🧠️/📝️/🌱️",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +79,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/( Myotendinous junction.md",
+                "file": "Inbox/= EAG - Methodology.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -148,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/( Myotendinous junction.md",
+                "file": "Inbox/= EAG - Methodology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/( Myotendinous junction.md",
+                "file": "Inbox/= EAG - Methodology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/( Myotendinous junction.md"
+                "file": "Inbox/= EAG - Methodology.md"
               }
             }
           }
@@ -211,17 +213,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e92599f2f3acd16d",
+  "active": "469f2a4195ff6ceb",
   "lastOpenFiles": [
     "Dataview/(.md",
-    "Dataview/$.md",
-    "Dataview/=.md",
-    "Dataview/{.md",
-    "Dataview/@.md",
-    "Dataview/!.md",
-    "Inbox/( Myotendinous junction.md",
     "Inbox/= EAG - Methodology.md",
-    "Dataview/INDEX.md",
-    "Utility/💳️ Kanban.md"
+    "Dataview/=.md",
+    "Inbox/( Myotendinous junction.md",
+    "Inbox/= EAG - MOC.md",
+    "Inbox/EAG - draft.md",
+    "Dataview/$.md",
+    "Dataview/!.md",
+    "Dataview/{.md",
+    "Dataview/@.md"
   ]
 }
