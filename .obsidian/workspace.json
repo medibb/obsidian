@@ -98,7 +98,7 @@
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -198,17 +198,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e92599f2f3acd16d",
+  "active": "d290314f6cbd1476",
   "lastOpenFiles": [
-    "Inbox/= EAG - MOC.md",
-    "Dataview/Tag Taxonomy.md",
-    "Dataview/INDEX.md",
-    "Memo/연구아이디어.md",
-    "Memo/0 연간 업무.md",
-    "Memo/2022 Lab meeting.md",
-    "Inbox/= EAG - Data Analysis.md",
-    "Inbox/= EAG - Methodology.md",
-    "Inbox/= EAG - cell biology.md",
-    "Inbox/= EAG - potentials.md"
+    "Inbox/EAG - draft.md",
+    "Template/Article.md",
+    "Template/Person.md",
+    "Template/Paper.md",
+    "muscle.md",
+    "Utility/🕓️ Timeline.md",
+    "Utility/🔌️ Plugins.md",
+    "Utility/💳️ Kanban.md",
+    "Utility/⌨️Hotkeys.md",
+    "Utility/✏️ Workbench.md"
   ]
 }
