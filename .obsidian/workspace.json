@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dataview/INDEX.md",
+                "file": "Inbox/+👑️ My 2021 Comprehensive Obsidian Zettelkasten Workflow 👑️.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bian",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dataview/INDEX.md",
+                "file": "Inbox/+👑️ My 2021 Comprehensive Obsidian Zettelkasten Workflow 👑️.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dataview/INDEX.md",
+                "file": "Inbox/+👑️ My 2021 Comprehensive Obsidian Zettelkasten Workflow 👑️.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dataview/INDEX.md"
+                "file": "Inbox/+👑️ My 2021 Comprehensive Obsidian Zettelkasten Workflow 👑️.md"
               }
             }
           }
@@ -201,15 +201,15 @@
   },
   "active": "01ea7326f4938cf0",
   "lastOpenFiles": [
-    "Dataview/!.md",
+    "Utility/✏️ Workbench.md",
+    "Utility/🔌️ Plugins.md",
+    "muscle.md",
+    "Utility/💳️ Kanban Live.md",
+    "Template/Youtube.md",
+    "Dataview/Tag Taxonomy.md",
     "Dataview/INDEX.md",
-    "Dataview/Pasted image 20230201093840.png",
-    "Inbox/EAG - Methodology.md",
-    "Inbox/EAG - Data Analysis.md",
     "Inbox/( Myotendinous junction.md",
-    "Inbox/@ Bianca.md",
-    "Inbox/+ journal developing process by bianca.md",
-    "Inbox/+👑️ My 2021 Comprehensive Obsidian Zettelkasten Workflow 👑️.md",
-    "Inbox/$ 혁신형 의사과학자회의.md"
+    "Dataview/Pasted image 20230201093840.png",
+    "Dataview/!.md"
   ]
 }

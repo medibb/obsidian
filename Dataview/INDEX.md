@@ -1,6 +1,7 @@
+link: [[Tag Taxonomy]]
 
 Frequent shortcuts 
-:crtl + o - travel to another note
+crtl + o - travel to another note
 art + E - templator
 ctrl + V - paste link in clipboard
 crrl + + - emoji
