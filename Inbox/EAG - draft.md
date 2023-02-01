@@ -22,7 +22,7 @@ Jae Hyun Lee, MD1,2, Ye-Seul Jang1, Dong-ju Kang1, Won-du Jang, PhD1*
 
 **Author Contributions Statement:**
 
-
+ 
 # ABSTRACT
 
 Electroarthrography are newly introduced concept for diagnosing arhtirits and cartilage degradation of knee joint by non-invasively observing the potential around the joint. However, reliable electrode systems are not clinically validated yet and the interpretation of signal are restricted. We investigated the reliable electrode position with anatomical relevance and how the electrical signal around knee joint differs by physical activities.

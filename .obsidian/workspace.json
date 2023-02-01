@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/= EAG - Data Analysis.md",
+                "file": "Inbox/= EAG - MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c3d1ec123b944f56",
@@ -95,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/= EAG - Data Analysis.md",
+                "file": "Inbox/= EAG - MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -137,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/= EAG - Data Analysis.md",
+                "file": "Inbox/= EAG - MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/= EAG - Data Analysis.md",
+                "file": "Inbox/= EAG - MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/= EAG - Data Analysis.md"
+                "file": "Inbox/= EAG - MOC.md"
               }
             }
           }
@@ -202,15 +201,15 @@
   },
   "active": "e92599f2f3acd16d",
   "lastOpenFiles": [
+    "Inbox/EAG - draft.md",
+    "Inbox/$ 혁신형 의사과학자회의.md",
+    "Inbox/= EAG - Data Analysis.md",
     "Inbox/= EAG - cell biology.md",
     "Inbox/@ Bianca.md",
     "Inbox/+ journal developing process by bianca.md",
     "Utility/⌨️Hotkeys.md",
     "Utility/✏️ Workbench.md",
     "Utility/💳️ Kanban.md",
-    "Inbox/= EAG - Data Analysis.md",
-    "Inbox/EAG - draft.md",
-    "Template/Article.md",
-    "Template/Person.md"
+    "Template/Article.md"
   ]
 }
