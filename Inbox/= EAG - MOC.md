@@ -38,7 +38,19 @@ EAG는 관절연골에서 발생하는 전위를 기록하는 것
 	- cartilage, loading area 로 부터, outer cartilage 및 surface 까지의 거리에 따른 전위의 크기 및 역전
 	- Synovial fluid 의 영향
 
-### ==4.1. 통계작업
+### ==4.1. Data analysis
+
+#### Data processing
+ - Env: 파이참, AWS(ID: sense0906@gmail.com / PW: )
+ - code(setting.py & main.py) 실행
+ -  측정순서.txt에서 각 동작 확인
+ - leg stretch(1) = 능동신전 (7-14)  
+ - 각도 (완전굴곡) = leg bend(2) (by each angle) (28-35) 애매
+
+스쿼트 (14-21) squat
+
+
+#### Statistical analysis
 
 -   raw data 분석에서 move별 boxplot 겹쳐그리기
 -   absolute & outlier 제거 코드(현재 에러남) 로도 구해보는 것 좋을
