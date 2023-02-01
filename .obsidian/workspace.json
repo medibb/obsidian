@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c3d1ec123b944f56",
@@ -97,17 +98,17 @@
                 "file": "Inbox/= EAG - Data Analysis.md",
                 "options": {
                   "collapse-filter": false,
-                  "search": "",
+                  "search": "-path:Dataview",
                   "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
                   "showTags": false,
                   "showAttachments": false,
-                  "hideUnresolved": false,
+                  "hideUnresolved": true,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": true,
+                  "collapse-display": false,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
@@ -117,7 +118,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0000000000000009,
+                  "scale": 1.0000000000000016,
                   "close": true
                 }
               }
@@ -185,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 552.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,17 +200,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d290314f6cbd1476",
+  "active": "e92599f2f3acd16d",
   "lastOpenFiles": [
+    "Inbox/= EAG - cell biology.md",
+    "Inbox/@ Bianca.md",
+    "Inbox/+ journal developing process by bianca.md",
+    "Utility/⌨️Hotkeys.md",
+    "Utility/✏️ Workbench.md",
+    "Utility/💳️ Kanban.md",
+    "Inbox/= EAG - Data Analysis.md",
     "Inbox/EAG - draft.md",
     "Template/Article.md",
-    "Template/Person.md",
-    "Template/Paper.md",
-    "muscle.md",
-    "Utility/🕓️ Timeline.md",
-    "Utility/🔌️ Plugins.md",
-    "Utility/💳️ Kanban.md",
-    "Utility/⌨️Hotkeys.md",
-    "Utility/✏️ Workbench.md"
+    "Template/Person.md"
   ]
 }
