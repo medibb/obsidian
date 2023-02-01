@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dataview/+.md",
+                "file": "Utility/💳️ Kanban Live.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dataview/+.md",
+                "file": "Utility/💳️ Kanban Live.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dataview/+.md",
+                "file": "Utility/💳️ Kanban Live.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dataview/+.md"
+                "file": "Utility/💳️ Kanban Live.md"
               }
             }
           }
@@ -213,15 +213,15 @@
   },
   "active": "02710a12f65dfae7",
   "lastOpenFiles": [
-    "Dataview/(.md",
-    "Dataview/{.md",
-    "Dataview/!.md",
+    "Inbox/EAG - MOC.md",
+    "Template/Thought.md",
     "Dataview/INDEX.md",
-    "Utility/💳️ Kanban Live.md",
-    "Dataview/@.md",
+    "Dataview/Tag Taxonomy.md",
     "Dataview/$.md",
-    "Memo/0 연간 업무.md",
-    "Memo/2022 Lab meeting.md",
-    "Inbox/+ journal developing process by bianca.md"
+    "muscle.md",
+    "note.md",
+    "physiology.md",
+    "2023-01-31.md",
+    "Dataview/!.md"
   ]
 }
