@@ -22,13 +22,15 @@
           {
             "id": "440ece6c91e63728",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Inbox/EAG - draft.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -92,6 +94,7 @@
       {
         "id": "1b74cb1d24ba4275",
         "type": "tabs",
+        "dimension": 39.86486486486486,
         "children": [
           {
             "id": "d529772aab483137",
@@ -106,6 +109,7 @@
       {
         "id": "9d42e4261bc783c8",
         "type": "tabs",
+        "dimension": 60.13513513513513,
         "children": [
           {
             "id": "5df96589fb02c920",

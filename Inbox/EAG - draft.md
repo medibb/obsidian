@@ -27,7 +27,7 @@ Jae Hyun Lee, MD1,2, Ye-Seul Jang1, Dong-ju Kang1, Won-du Jang, PhD1*
 
 Electroarthrography are newly introduced concept for diagnosing arhtirits and cartilage degradation of knee joint by non-invasively observing the potential around the joint. However, reliable electrode systems are not clinically validated yet and the interpretation of signal are restricted. We investigated the reliable electrode position with anatomical relevance and how the electrical signal around knee joint differs by physical activities.
 
- We analyzed 20 knees from 20subjects. 8 surface electrodes were attached to knee joint and sample the electrical signal with 200 Hz frequency. Passive range of motion at decubitus, active knee extension at chair sitting, and half squat were performed during the electrography and accompanying soft tissue changes (depth, composition) were recorded with ultrasound. Amplitude of knee joint at flexion &extension from each activity were compared. The noise signals and phasal reversal of knee joint were compared with ultrasonographic findings. Each potential at each angle of knee joint were also compared at passive ROM.
+We analyzed 20 knees from 20subjects. 8 surface electrodes were attached to knee joint and sample the electrical signal with 200 Hz frequency. Passive range of motion at decubitus, active knee extension at chair sitting, and half squat were performed during the electrography and accompanying soft tissue changes (depth, composition) were recorded with ultrasound. Amplitude of knee joint at flexion &extension from each activity were compared. The noise signals and phasal reversal of knee joint were compared with ultrasonographic findings. Each potential at each angle of knee joint were also compared at passive ROM.
 
 All graphs show significant potential changes according to flexion angles. Potentials during squat showed higher amplitudes(__±__mV) compared to passive & active extension. Full flexion showed most low amplitudes of __±__mV, but some potentials show reversal of amplitude. 90 to 0 degree show frequent phase reversal and mean amplitude were __±__mV.
 
@@ -37,27 +37,27 @@ Ultrasonographic findings show that large fat tissues and deep tissue depth are 
 
 # 1 INTRODUCTION
 
- **Knee cartilage is our main concern to understand and treat the knee joint pain**. Physicians usually observe the damaged cartilage after injury by performing diagnostic test from the physical examination to medical imaging such as magnetic resonance imaging, but early cartilage damage or only functional change except morphological deformity could not found. Some methodologic modalities such as nuclear medicine imaging show the hypermetabolism of subchondral bone, but the resolution is ambiguous and still do not show the cartilage function directly.
+==Knee cartilage is our main concern to understand and treat the knee joint pain==. Physicians usually observe the damaged cartilage after injury by performing diagnostic test from the physical examination to medical imaging such as magnetic resonance imaging, but early cartilage damage or only functional change except morphological deformity could not found. Some methodologic modalities such as nuclear medicine imaging show the hypermetabolism of subchondral bone, but the resolution is ambiguous and still do not show the cartilage function directly.
 
-**Determining the loads on joints based on their movements is a key element in the use of exercise techniques.** For that purpose, the impact of joint cartilage during physical activities were investigated and reported in several in vivo experiments using sensor in prosthetics and biomechanical method. But biomechanics of artificially replaced knee is already differed by itself, and mathematical computation using kinematic parameters are only an indirect estimate.
+==Determining the loads on joints based on their movements is a key element in the use of exercise techniques.== For that purpose, the impact of joint cartilage during physical activities were investigated and reported in several in vivo experiments using sensor in prosthetics and biomechanical method. But biomechanics of artificially replaced knee is already differed by itself, and mathematical computation using kinematic parameters are only an indirect estimate.
 
-The cartilage potential can be generated mainly by streaming potential due to the local force applied to cartilage and other physiologies such as electro-osmolality due to glycosaminoglycans also had a roll in producing the electrical potentials on cartilage. The new technique that recording the cartilage potentials, t**he electroarthrography was previously introduced as a novel method to assess articular cartilage** by a few previous research for knee and elbow. The authors show that reduced and absent EAG signal from osteoarthritic knee and replaced knee, respectively. And the authors also represent the affecting factors of EAG such as center of gravity, muscular contraction across the knee joint, and repeated loading. Thus, early physical change of the cartilage even before morphologic changes could be explored by observing the electric potentials of cartilage tissue during load bearing.  
+The cartilage potential can be generated mainly by streaming potential due to the local force applied to cartilage and other physiologies such as electro-osmolality due to glycosaminoglycans also had a roll in producing the electrical potentials on cartilage. The new technique that recording the cartilage potentials, ==the electroarthrography was previously introduced as a novel method to assess articular cartilage== by a few previous research for knee and elbow. The authors show that reduced and absent EAG signal from osteoarthritic knee and replaced knee, respectively. And the authors also represent the affecting factors of EAG such as center of gravity, muscular contraction across the knee joint, and repeated loading. Thus, early physical change of the cartilage even before morphologic changes could be explored by observing the electric potentials of cartilage tissue during load bearing.  
 
-**However, reliable electrode system is not clinically validated yet** (by mathematical modeling and bunch of electrode but not considered the conducting soft tissue even though they performed the in vivo study and animal study) and the interpretation of signal are restricted in standing posture. The methodological values of EAG could be reinforced by achieving reliability and reproducibility during actual exercise movements. For that, Standardized electrode position which reliably detect electrical signal of cartilage despite differences in individual anatomy and biomechanics of exercise of the knee joint is needed. Furthermore, through monitoring the EAG, evaluating the hazard of rehabilitative exercise could be achievable.
+==However, reliable electrode system is not clinically validated yet== (by mathematical modeling and bunch of electrode but not considered the conducting soft tissue even though they performed the in vivo study and animal study) and the interpretation of signal are restricted in standing posture. The methodological values of EAG could be reinforced by achieving reliability and reproducibility during actual exercise movements. For that, Standardized electrode position which reliably detect electrical signal of cartilage despite differences in individual anatomy and biomechanics of exercise of the knee joint is needed. Furthermore, through monitoring the EAG, evaluating the hazard of rehabilitative exercise could be achievable.
 
-To the knowledge of the authors, **it is the first study to report the electrical potentials of knee joints during exercise movement in vivo**. In this study, the authors identified the reliable surface electrode location that can obtain analyzable information of the knee cartilage, analyze the characteristics of the electric potentials, and develop feasible parameters in clinic.
+To the knowledge of the authors, ==it is the first study to report the electrical potentials of knee joints during exercise movement in vivo==. In this study, the authors identified the reliable surface electrode location that can obtain analyzable information of the knee cartilage, analyze the characteristics of the electric potentials, and develop feasible parameters in clinic.
 
   
 
-**2 METHODS**
+# 2 METHODS
 
 This study is a prospective cohort study with Level ___3 evidence.
 
-**2.1 Patients**
+## 2.1 Patients
 
 We enrolled the 18~40 years old healthy subjects and received the informed consent. Subjects who has recent trauma, or knee joint pain in recent 6 month, or diagnosed with knee joint disease were excluded. We intended to drop out the subjects who want to stop during experiments with discomfort, pain or any other reason, but no one dropped out from our experiments. Finally, 20 knees from 20 subjects were included. This study was approved by the Institutional Review Board of Pukyung National University and was performed in accordance with the guidelines of the Helsinki Declaration.
 
-**2.2 Clinical parameters**
+## 2.2 Clinical parameters
 
 Demographic data, including age, sex, height, weight, INBODY?, knee joint circumference, and the range of motion of tested knee were obtained. All subjects live in Korea, 1 subjects has ____  ethnity?. The subjects informed to perform the three activities. Active knee extension at chair sitting were performed first. At the resting phase, the chair height and depth was adjusted to lean the trunk and maintain the hip joint as 90 degree flexion, lower thigh just above the knee joint was rested in seat. The seat was raised to the enough height that the whole lower leg just naturally dropped with gravity and the knee joint maintain 90 degree. At the active extension, subject was informed to raising the lower leg in self-selected speed. during thigh are still rested in seat, so that the knee extended to end-range. Subjects extend and maintain the knee posture for 7 seconds and return to resting position.
 
@@ -65,23 +65,23 @@ Second, passive range of motion at decubitus position were performed. Subjects w
 
 Lastly, restricted half squat till 90 degrees of knee flexion was perfomed. 제한된 평행스쿼트: 무게를 사용하지 않고 맨몸으로 시행하는 평행 스쿼트로서, 어깨 넓이로 정면을 보고 바로 선 상태에서 양손을 앞으로 평행하게 뻗고, 무릎이 발끝보다 앞으로 나가지 않도록 제한하며, 허벅지가 지면과 평행이 될 때까지의 깊이까지 천천히 앉았다가 다시 바로 서는 스쿼트로서 균일한 속도로 총 2회 반복 시행한다.
 
-**2.3 Potential analysis from surface electrode**
+## 2.3 Potential analysis from surface electrode
 
 We used gel-type electrode which has advantage for accuracy of measure. The electrodes were placed around the knee joints such as upper 1/3 part of the patella according to midline, upper and lower retinaculum area at each medial and lateral sides, medial and lateral joint line according to previously reported area, and mid-point of popliteal crease (Figure 1).
 
 The 8 electrode were connected with ____ receiver and ____ (machine explanation). A sampling rate was 200 Hz and band pass filter were used with _____. The data stored in a local memory with ______.
 
-**2.5 Post**-**processing of electroarthrographic data**
+## 2.4 Post-processing of electroarthrographic data
 
 The raw electric signals were transformed to root mean square (RMS)____. The potentials were divided into each flexion degrees. To calculate the amplitudes, the initial and finish time points at just before and after knee joint movement were annotated on the electrical potentials. However, even though all subjects were changed their knee angle during a second. In a second, they choose the speed as self-selected natural speed. So exact point that the movements ends were identified as the inflection point which were observed in all graphs. If there are the noise signals around the movements, the time point annotated before the start of the noise signal or after its end. most obvious time points which maintain the potentials shown at least 1 electrode were regarded as the true time point.
 
 In many potentials detected at ant. Knee. the potential changes after end of movements were observed and reached to some values. (Similar  shape were observed in active and passive extension, squat show different graphs). so total changed potential was also measured during maintain the positions
 
-**2.3 Ultrasonographic procedure**
+## 2.5 Ultrasonographic procedure
 
  연골두께, 연골말단으로부터 체표면까지의 거리, soft tissue depth? 를 초음파를 이용하여 측정한다. The ultrasonography was done by a physiatrist with more than 10 years of musculoskeletal practice who was blinded to the patients’ electroarthrographic characteristics and clinical information. Subjects were sitting on the chair with the same resting position as the active knee extension. While the subjects were asked to same movements as much as possible, a 13 MHz linear ultrasound probe (Clarius L15 HD3; Clarius Mobile health, Vancouver, Canada) was spread with coupling gel and placed on the area that surface electrodes were placed in the axial orientation to the femur (Figure 2). We identified the vertical depth and underlying soft tissue characteristics under the electrode attaching positions. At 90-degree flexion, electrode 1 always lying on patellar bone….etc
 
-**2.6 Statistical analysis**
+2.6 Statistical analysis
 
 were analyzed with the Wilcoxon signed-rank test with a significance of _p_ < 0.05. To adjust for baseline imbalance between groups, we proceeded with a multivariable analysis using generalized linear (GLM) model with gamma identity link function. The demographic and clinical parameters were used as covariates and magnitude of effects were reported with the effect size based on estimate of GLM All statistical analyses were performed using R Statistical software version 3.5.3 (Foundation for Statistical Computing, Vienna, Austria).
 

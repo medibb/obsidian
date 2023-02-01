@@ -8,13 +8,20 @@
       "key": "="
     }
   ],
-  "url-into-selection:paste-url-into-selection": [
+  "editor:open-search-replace": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Mod"
       ],
-      "key": "V"
+      "key": "R"
+    }
+  ],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
     }
   ]
 }
