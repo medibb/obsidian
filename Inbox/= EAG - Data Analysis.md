@@ -1,12 +1,12 @@
 #### Metadata 
-  -   `Title:` [[EAG - Data Analysis]]
-  -   `Type:` [🌲️/=](https://publish.obsidian.md/bryan-jenks/%F0%9F%8C%B2%EF%B8%8F/%3D)
-  -   `Tags:` #EAG
-  -   `Formation Date:` [[2023-02-01]]
+-   `Title:` [[= EAG - Data Analysis]]
+-   `Type:` [[=]]
+-   `Tags:` #🧠️/📝️
+-   `Formation Date:` [[2023-02-01]]
 ---
 
 ## EAG - Data Analysis
->The data was colleced following the [[EAG - Methodology]].  After collection, the data was anlysed following a multi-stageinductive analysis of the data.
+>The data was colleced following the [[= EAG - Methodology]].  After collection, the data was anlysed following a multi-stageinductive analysis of the data.
 
 The results of each stage are available below:
 

@@ -1,0 +1,12 @@
+-   `Title:` [[= EAG - Methodology]]
+-   `Type:` [[=]]
+-   `Tags:` #🧠️/📝️
+-   `Formation Date:` [[2023-02-01]]
+---
+
+-   `The Thought:`
+    -   `tl;dr`
+    -   `Chew On It:`
+    -   `Refined`
+-   `Relevant Context:`
+-   `What Led Me Here:`
