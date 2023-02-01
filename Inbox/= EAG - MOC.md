@@ -81,7 +81,7 @@ Correlation between ultrasonographic parameters versus EAG signals
 스쿼트 (14-21) squat
 
 
-#### Statistical analysis
+#### Statistical analysis: [[= EAG - Data Analysis]]
 
 -   raw data 분석에서 move별 boxplot 겹쳐그리기
 -   absolute & outlier 제거 코드(현재 에러남) 로도 구해보는 것 좋을
