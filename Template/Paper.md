@@ -4,7 +4,6 @@
 # **Title: [[<%tp.file.title%>]]**
 
 ### Metadata:
-
 -   `Type:`  [[!]]
 -   `Author:`
     -   `Notable Authors:`
@@ -15,10 +14,10 @@
 -   `Zotero URL:` [Zotero]
 -   `Publish Date:`
 -   `Reviewed Date:` [[<%tp.date.now()%>]]
-
 ---
+  
+
 ### Bibliographic information:
-
 -   `Type:`  [[!]]
 -   `Author:`
     -   `Notable Authors:`
@@ -29,17 +28,11 @@
 -   `Zotero URL:` [Zotero]
 -   `Publish Date:`
 -   `Reviewed Date:` [[<%tp.date.now()%>]]
-
 ---
-
 ## Summary
   - Method&Result(s):
 
-## Analysis
-
-
-
-## Notes
+## Analysis:
 
 ## Context:
 
@@ -55,6 +48,13 @@
 
 ## Other Comments:
 
-## Cited References
 
-to follow up on (cite those obviously related to your topic AND any papers frequently cited by others because those works may well prove to be essential as you develop your own work):
+
+## Reference to explore
+
+
+## Cited by
+```query
+abc -path:Inbox
+```
+
