@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utility/💳️ Kanban Live.md",
+                "file": "Dataview/!.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utility/💳️ Kanban Live.md",
+                "file": "Dataview/!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utility/💳️ Kanban Live.md",
+                "file": "Dataview/!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utility/💳️ Kanban Live.md"
+                "file": "Dataview/!.md"
               }
             }
           }
@@ -211,8 +211,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "02710a12f65dfae7",
+  "active": "db5e2d821e05a9cc",
   "lastOpenFiles": [
+    "Utility/✏️ Workbench.md",
+    "Utility/💳️ Kanban Live.md",
     "Inbox/EAG - MOC.md",
     "Template/Thought.md",
     "Dataview/INDEX.md",
@@ -220,8 +222,6 @@
     "Dataview/$.md",
     "muscle.md",
     "note.md",
-    "physiology.md",
-    "2023-01-31.md",
-    "Dataview/!.md"
+    "physiology.md"
   ]
 }
