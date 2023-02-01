@@ -1,7 +1,7 @@
 #### Metadata 
   -   `Title:` [[EAG - Data Analysis]]
   -   `Type:` [🌲️/=](https://publish.obsidian.md/bryan-jenks/%F0%9F%8C%B2%EF%B8%8F/%3D)
-  -   `Tags:`
+  -   `Tags:` #EAG
   -   `Formation Date:` [[2023-02-01]]
 ---
 

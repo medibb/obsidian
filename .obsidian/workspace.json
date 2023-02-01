@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/+👑️ My 2021 Comprehensive Obsidian Zettelkasten Workflow 👑️.md",
+                "file": "Utility/✏️ Workbench.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/+👑️ My 2021 Comprehensive Obsidian Zettelkasten Workflow 👑️.md",
+                "file": "Utility/✏️ Workbench.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/+👑️ My 2021 Comprehensive Obsidian Zettelkasten Workflow 👑️.md",
+                "file": "Utility/✏️ Workbench.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/+👑️ My 2021 Comprehensive Obsidian Zettelkasten Workflow 👑️.md"
+                "file": "Utility/✏️ Workbench.md"
               }
             }
           }
@@ -201,15 +201,15 @@
   },
   "active": "01ea7326f4938cf0",
   "lastOpenFiles": [
+    "Inbox/EAG - Data Analysis.md",
     "Utility/✏️ Workbench.md",
+    "Inbox/+👑️ My 2021 Comprehensive Obsidian Zettelkasten Workflow 👑️.md",
     "Utility/🔌️ Plugins.md",
     "muscle.md",
     "Utility/💳️ Kanban Live.md",
     "Template/Youtube.md",
     "Dataview/Tag Taxonomy.md",
     "Dataview/INDEX.md",
-    "Inbox/( Myotendinous junction.md",
-    "Dataview/Pasted image 20230201093840.png",
-    "Dataview/!.md"
+    "Inbox/( Myotendinous junction.md"
   ]
 }

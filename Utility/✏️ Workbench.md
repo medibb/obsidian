@@ -1,6 +1,5 @@
 ```dataview
-table # as tags
+TABLE length(tags) as numtags , "#" + join(tags, ", #") as tags
 from ""
 where problems = dep
-group by
 ```
