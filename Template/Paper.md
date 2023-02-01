@@ -3,7 +3,7 @@
 
 # **Title: [[<%tp.file.title%>]]**
 
-## Metadata:
+### Metadata:
 
 -   `Type:`  [[!]]
 -   `Author:`
@@ -16,15 +16,28 @@
 -   `Publish Date:`
 -   `Reviewed Date:` [[<%tp.date.now()%>]]
 
-## Citation
+---
+### Bibliographic information:
 
-## Hypothesis:
+-   `Type:`  [[!]]
+-   `Author:`
+    -   `Notable Authors:`
+-   `Keywords:`
+-   `Specific Subject:`
+-   `General Subject:`
+-   `DOI:` [DOI]
+-   `Zotero URL:` [Zotero]
+-   `Publish Date:`
+-   `Reviewed Date:` [[<%tp.date.now()%>]]
 
-## Methodology:
+---
 
-## Result(s):
+## Summary
+  - Method&Result(s):
 
-## Summary of key points:
+## Analysis
+
+
 
 ## Notes
 
