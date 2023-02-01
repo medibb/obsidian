@@ -15,8 +15,13 @@ EAG는 관절연골에서 발생하는 전위를 기록하는 것
 	2. Elbow EAG에 대해 1가지 논문을 발표한 인도 그룹
 	3. 예전 cartilage streaming potential 및 strain-generated potential 에 대한 최신연구들
 
-### 2.1 Summary 
-	1. Buschmann 등의 연구에서는 OA 와 prosthetic knee 에서는 EAG가 적거나 같았다.
+### 2.1 Brief Summary 
+	1. Buschmann 등의 연구
+		1. OA 와 prosthetic knee 에서의 EAG 감소 및 소실
+		2. TFL & GCM 등의 knee joint crossing muscle  들이 COG 의 변화에 따라 자세유지를 위해 수축하는 것과 관련
+		3. 반복된 weight shift 에서 신호값이 줄어듦
+		4. movement는 weight shift 사용 - 연골 부하 위치가 일정했을 것
+		5. sensor point 는 joint line area - computer modeling하였음 - PF joint 의 정보는 없을 것
 
 ### 2.2. Significance
 ---
@@ -43,9 +48,13 @@ EAG는 관절연골에서 발생하는 전위를 기록하는 것
 #### Data processing
  - Env: 파이참, AWS(ID: sense0906@gmail.com / PW: )
  - code(setting.py & main.py) 실행
- -  측정순서.txt에서 각 동작 확인
- - leg stretch(1) = 능동신전 (7-14)  
- - 각도 (완전굴곡) = leg bend(2) (by each angle) (28-35) 애매
+ - 측정순서.txt에서 각 동작 확인
+ - GUI 사용
+	 - 능동신전 =   leg stretch(1) (7-14)
+	 - 수동신전 (완전굴곡포함) = leg bend(2) (by each angle) (28-35)
+	 - 스쿼트 = squat (14-21)
+	 - 텍스트추출(Win + Shift + T) & paste to 엑셀파일
+	 - 
 
 스쿼트 (14-21) squat
 

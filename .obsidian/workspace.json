@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/= EAG - Methodology.md",
+                "file": "Inbox/= EAG - Data Analysis.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -78,8 +79,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +107,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/= EAG - MOC.md",
+                "file": "Inbox/= EAG - Data Analysis.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -130,7 +130,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224425,
+                  "scale": 0.5087618855792589,
                   "close": true
                 }
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/= EAG - MOC.md",
+                "file": "Inbox/= EAG - Data Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/= EAG - MOC.md",
+                "file": "Inbox/= EAG - Data Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/= EAG - MOC.md"
+                "file": "Inbox/= EAG - Data Analysis.md"
               }
             }
           }
@@ -211,7 +211,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e92599f2f3acd16d",
+  "active": "469f2a4195ff6ceb",
   "lastOpenFiles": [
     "Inbox/= EAG - Methodology.md",
     "Inbox/= EAG - MOC.md",
