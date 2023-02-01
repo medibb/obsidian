@@ -24,5 +24,5 @@ If you want to see my [Zettelkasten](https://publish.obsidian.md/bryan-jenks/Z/
 [#🧠️/📝️/🌞️] _<=>_ `Incubating Notes`  
 [#🧠️/📝️/🌲️] _<=>_ `Evergreen Notes`
 
-journal developing process by bianca
+[[+ journal developing process by bianca]]
 ![[Pasted image 20230201093840.png]]

@@ -1,6 +1,3 @@
-  
-# [Person](https://publish.obsidian.md/bryan-jenks/Templates/Inputs/Person)
-
 -   `Type:` [[@]]
 -   `Keywords:`
 -   `Profession:`

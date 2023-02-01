@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Untitled.md",
+                "file": "Template/Person.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Untitled.md",
+                "file": "Template/Person.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Untitled.md",
+                "file": "Template/Person.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Untitled.md"
+                "file": "Template/Person.md"
               }
             }
           }
@@ -189,15 +189,15 @@
   },
   "active": "9fe2190be9fed904",
   "lastOpenFiles": [
-    "Inbox/+👑️ My 2021 Comprehensive Obsidian Zettelkasten Workflow 👑️.md",
-    "Inbox/Untitled.md",
-    "Z/INDEX.md",
-    "Inbox/Electroarthrography.md",
-    "Inbox/EAG - Data Analysis.md",
-    "Inbox/EAG - Methodology.md",
-    "Inbox/$ 혁신형 의사과학자회의.md",
-    "Z/Pasted image 20230201093840.png",
     "Template/Paper.md",
-    "Template/Person.md"
+    "Template/Article.md",
+    "Template/Conference.md",
+    "Template/Person.md",
+    "Inbox/+ journal developing process by bianca.md",
+    "Inbox/( Myotendinous junction.md",
+    "Inbox/+👑️ My 2021 Comprehensive Obsidian Zettelkasten Workflow 👑️.md",
+    "Z/INDEX.md",
+    "Z/Tag Taxonomy.md",
+    "2023-01-31.md"
   ]
 }
