@@ -81,7 +81,7 @@ In many potentials detected at ant. Knee. the potential changes after end of mov
 
  연골두께, 연골말단으로부터 체표면까지의 거리, soft tissue depth? 를 초음파를 이용하여 측정한다. The ultrasonography was done by a physiatrist with more than 10 years of musculoskeletal practice who was blinded to the patients’ electroarthrographic characteristics and clinical information. Subjects were sitting on the chair with the same resting position as the active knee extension. While the subjects were asked to same movements as much as possible, a 13 MHz linear ultrasound probe (Clarius L15 HD3; Clarius Mobile health, Vancouver, Canada) was spread with coupling gel and placed on the area that surface electrodes were placed in the axial orientation to the femur (Figure 2). We identified the vertical depth and underlying soft tissue characteristics under the electrode attaching positions. At 90-degree flexion, electrode 1 always lying on patellar bone….etc
 
-2.6 Statistical analysis
+## 2.6 Statistical analysis
 
 were analyzed with the Wilcoxon signed-rank test with a significance of _p_ < 0.05. To adjust for baseline imbalance between groups, we proceeded with a multivariable analysis using generalized linear (GLM) model with gamma identity link function. The demographic and clinical parameters were used as covariates and magnitude of effects were reported with the effect size based on estimate of GLM All statistical analyses were performed using R Statistical software version 3.5.3 (Foundation for Statistical Computing, Vienna, Austria).
 
@@ -97,11 +97,11 @@ were analyzed with the Wilcoxon signed-rank test with a significance of _p_ < 0.
 
 이번 연구주제에 관한 사전연구가 진행된 적이 없고 본 연구는 탐색적 의미를 지닌 연구이므로 목표 연구 대상자를 10명으로 설정하였다.
 
-**3 RESULTS**
+# 3 RESULTS
 
  The mean age of 20 subjects were __+__ and, _ were women. (table 1)
 
-**3.1**  **electroarthrographic parameters according to exercise types**
+## 3.1 electroarthrographic parameters according to exercise types
 
 **Maximal differences for 7 sec**
 
@@ -123,11 +123,12 @@ Post hoc analysis : The amplitude of potentials changes at active extension vers
 
 Loading on knee cartilage phase (knee extension 90->180 versus squat 180->90)
 
-**3.2** **electroarthrographic versus ultrasonographic parameters**
+## 3.2 electroarthrographic versus ultrasonographic parameters
 
-**4.6 Limitations**
+# 4. Discussion
+## 4.6 Limitations
 
-**4.7 Conclusion**
+## 4.7 Conclusion
 
 동주 선생님 인턴쉽이라서 시간이 걸릴 것 같다.
 
@@ -135,17 +136,17 @@ Loading on knee cartilage phase (knee extension 90->180 versus squat 180->90)
 
   
 
-**ACKNOWLEDGMENTS**
+ACKNOWLEDGMENTS
 
-**Funding:**
+Funding:
 
-**Competing interest statement:** None declared.
+Competing interest statement:** None declared.
 
-**Data availability statement:**
+Data availability statement:
 
 ~~The data sets for this study are available on request.  The raw data supporting the conclusions of this manuscript will be made available by the authors to any qualified researcher. Contact: Jae Hyun Lee (ORCID 0000-0002-4927-9722).~~
 
-**REFERENCES**
+REFERENCES
 
   
 
