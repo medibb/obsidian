@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/= EAG - MOC.md",
+                "file": "Inbox/( Myotendinous junction.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/= EAG - Methodology.md",
+                "file": "Inbox/( Myotendinous junction.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/= EAG - MOC.md",
+                "file": "Inbox/( Myotendinous junction.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/= EAG - MOC.md",
+                "file": "Inbox/( Myotendinous junction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/= EAG - MOC.md",
+                "file": "Inbox/( Myotendinous junction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/= EAG - MOC.md"
+                "file": "Inbox/( Myotendinous junction.md"
               }
             }
           }
@@ -213,15 +213,15 @@
   },
   "active": "e92599f2f3acd16d",
   "lastOpenFiles": [
+    "Dataview/(.md",
+    "Dataview/$.md",
+    "Dataview/=.md",
+    "Dataview/{.md",
+    "Dataview/@.md",
+    "Dataview/!.md",
+    "Inbox/( Myotendinous junction.md",
     "Inbox/= EAG - Methodology.md",
-    "Inbox/= EAG - Data Analysis.md",
-    "Inbox/= EAG - MOC.md",
-    "Inbox/Untitled 2.md",
-    "Inbox/EAG - draft.md",
-    "Inbox/$ 혁신형 의사과학자회의.md",
-    "Inbox/Untitled.md",
-    "Inbox/Untitled 1.md",
-    "Inbox/Electroarthrography.md",
-    "Template/Person.md"
+    "Dataview/INDEX.md",
+    "Utility/💳️ Kanban.md"
   ]
 }

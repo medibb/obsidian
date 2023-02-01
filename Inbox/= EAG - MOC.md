@@ -15,8 +15,20 @@ EAG는 관절연골에서 발생하는 전위를 기록하는 것
 	2. Elbow EAG에 대해 1가지 논문을 발표한 인도 그룹
 	3. 예전 cartilage streaming potential 및 strain-generated potential 에 대한 최신연구들
 
+### 2.1 Summary 
+
+### 2.2. Significance
 ---
-## ==3. Method
+
+## ==3. Future work
+
+- 선행연구에서 보고되지 않았던 관절각도변화에 따른 EAG 관찰
+- 
+
+
+---
+
+## ==4. Method
 
 - 능동신전/수동신전/스쿼트 에서 무릎관절의 각도변화에 따른 EAG를 측정하고자 함.
 - 8군데에서 측정함, 4군데는 patellar 주변의 retinaculum,  나머지는 joint line 을 따라서
@@ -25,8 +37,7 @@ EAG는 관절연골에서 발생하는 전위를 기록하는 것
 	- cartilage, loading area 로 부터, outer cartilage 및 surface 까지의 거리에 따른 전위의 크기 및 역전
 	- Synovial fluid 의 영향
 
----
-## ==n. 통계작업
+### ==4.1. 통계작업
 
 -   raw data 분석에서 move별 boxplot 겹쳐그리기
 -   absolute & outlier 제거 코드(현재 에러남) 로도 구해보는 것 좋을
