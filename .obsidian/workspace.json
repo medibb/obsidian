@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utility/✏️ Workbench.md",
+                "file": "Template/Thought.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#EAG",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utility/✏️ Workbench.md",
+                "file": "Template/Thought.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utility/✏️ Workbench.md",
+                "file": "Template/Thought.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utility/✏️ Workbench.md"
+                "file": "Template/Thought.md"
               }
             }
           }
@@ -201,15 +201,15 @@
   },
   "active": "01ea7326f4938cf0",
   "lastOpenFiles": [
-    "Inbox/EAG - Data Analysis.md",
-    "Utility/✏️ Workbench.md",
-    "Inbox/+👑️ My 2021 Comprehensive Obsidian Zettelkasten Workflow 👑️.md",
-    "Utility/🔌️ Plugins.md",
-    "muscle.md",
-    "Utility/💳️ Kanban Live.md",
-    "Template/Youtube.md",
     "Dataview/Tag Taxonomy.md",
-    "Dataview/INDEX.md",
-    "Inbox/( Myotendinous junction.md"
+    "Template/Thought.md",
+    "Template/Person.md",
+    "Template/Conference.md",
+    "Template/Book.md",
+    "Template/Article.md",
+    "Template/Paper.md",
+    "Inbox/EAG - MOC.md",
+    "Inbox/EAG - Methodology.md",
+    "Inbox/EAG - Data Analysis.md"
   ]
 }
