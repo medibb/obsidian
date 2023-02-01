@@ -8,8 +8,7 @@
 # Title page
 
 **Title1:** **The optimal electrode location for analyzing (electroarthrography of the knee) at different physical activities**
-
-**Potential analysis around knee joint at different physical activities**
+Title2: **Potential analysis around knee joint at different physical activities**
 
 Jae Hyun Lee, MD1,2, Ye-Seul Jang1, Dong-ju Kang1, Won-du Jang, PhD1*
 

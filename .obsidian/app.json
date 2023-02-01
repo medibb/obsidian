@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "Inbox",
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "tabSize": 3
 }
