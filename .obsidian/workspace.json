@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/= EAG - MOC.md",
+                "file": "Dataview/INDEX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2864ca0b17c7c30e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Hotkeys.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,6 +56,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -90,8 +103,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/= EAG - MOC.md",
+                "file": "Inbox/Hotkeys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/= EAG - MOC.md",
+                "file": "Inbox/Hotkeys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/= EAG - MOC.md"
+                "file": "Inbox/Hotkeys.md"
               }
             }
           },
@@ -181,17 +193,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6a4cbfc2a7da5ead",
+  "active": "2864ca0b17c7c30e",
   "lastOpenFiles": [
-    "Inbox/= EAG - Methodology.md",
+    "Template/Notes.md",
+    "Inbox/Hotkeys.md",
+    "Inbox/Untitled.md",
+    "Dataview/INDEX.md",
     "Inbox/= EAG - MOC.md",
+    "Inbox/= EAG - Methodology.md",
     "Inbox/EAG - draft.md",
     "Inbox/Untitled 1.md",
-    "Inbox/Untitled.md",
     "Inbox/+👑️ My Comprehensive Obsidian Zettelkasten Workflow 👑️.md",
-    "Inbox/+ journal developing process by bianca.md",
-    "Inbox/@ Bianca.md",
-    "Inbox/( Myotendinous junction.md",
-    "Template/Notes.md"
+    "Inbox/+ journal developing process by bianca.md"
   ]
 }
