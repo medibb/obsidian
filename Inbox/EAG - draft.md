@@ -135,18 +135,19 @@ Loading on knee cartilage phase (knee extension 90->180 versus squat 180->90)
 초음파 하기 전에 데이터 확인할 부분, 이상치 부분을 측정해서 재현되는 상황이면 살펴보도록
 
   
+# Accesory Page
+## ACKNOWLEDGMENTS
 
-ACKNOWLEDGMENTS
+## Funding:
 
-Funding:
+## Competing interest statement:
+None declared.
 
-Competing interest statement:** None declared.
-
-Data availability statement:
+## Data availability statement:
 
 ~~The data sets for this study are available on request.  The raw data supporting the conclusions of this manuscript will be made available by the authors to any qualified researcher. Contact: Jae Hyun Lee (ORCID 0000-0002-4927-9722).~~
 
-REFERENCES
+# REFERENCES
 
   
 
