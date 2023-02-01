@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utility/💳️ Kanban Live.md",
+                "file": "Inbox/= EAG - MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utility/💳️ Kanban Live.md",
+                "file": "Inbox/= EAG - MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utility/💳️ Kanban Live.md",
+                "file": "Inbox/= EAG - MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utility/💳️ Kanban Live.md"
+                "file": "Inbox/= EAG - MOC.md"
               }
             }
           }
@@ -174,15 +174,15 @@
   },
   "active": "5b5615345097ccfe",
   "lastOpenFiles": [
-    "Memo/연구아이디어.md",
-    "Utility/💳️ Kanban Live.md",
-    "Utility/✏️ Workbench.md",
-    "Template/Youtube.md",
-    "Template/Book.md",
+    "Inbox/= EAG - Methodology.md",
+    "Inbox/= EAG - Data Analysis.md",
     "Inbox/= EAG - MOC.md",
-    "Inbox/( Myotendinous junction.md",
-    "Inbox/= 2023-02-01 EAG - Data Analysis.md",
+    "Utility/💳️ Kanban.md",
+    "Dataview/INDEX.md",
     "Inbox/+👑️ My Comprehensive Obsidian Zettelkasten Workflow 👑️.md",
+    "Inbox/( Myotendinous junction.md",
+    "Dataview/$.md",
+    "Utility/✏️ Workbench.md",
     "Dataview/=.md"
   ]
 }
