@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utility/💳️ Kanban Live.md",
+                "file": "Inbox/= 2023-02-01 EAG - Data Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utility/💳️ Kanban Live.md",
+                "file": "Inbox/= 2023-02-01 EAG - Data Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utility/💳️ Kanban Live.md",
+                "file": "Inbox/= 2023-02-01 EAG - Data Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utility/💳️ Kanban Live.md"
+                "file": "Inbox/= 2023-02-01 EAG - Data Analysis.md"
               }
             }
           }
@@ -174,15 +174,15 @@
   },
   "active": "5b5615345097ccfe",
   "lastOpenFiles": [
-    "Dataview/+.md",
+    "Utility/💳️ Kanban Live.md",
+    "Inbox/= 2023-02-01 EAG - Data Analysis.md",
     "Dataview/=.md",
+    "Dataview/+.md",
     "Inbox/+👑️ My Comprehensive Obsidian Zettelkasten Workflow 👑️.md",
     "Inbox/+ journal developing process by bianca.md",
     "Inbox/= EAG - Methodology.md",
     "Dataview/$.md",
     "Dataview/!.md",
-    "Utility/💳️ Kanban Live.md",
-    "Inbox/= EAG - Data Analysis.md",
     "Inbox/Untitled Kanban.md"
   ]
 }

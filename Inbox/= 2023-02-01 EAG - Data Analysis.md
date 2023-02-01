@@ -1,5 +1,5 @@
 #### Metadata 
--   `Title:` [[= EAG - Data Analysis]]
+-   `Title:` [[= 2023-02-01 EAG - Data Analysis]]
 -   `Type:` [[=]]
 -   `Tags:` #🧠️/📝️/🌱️ 
 -   `Formation Date:` [[2023-02-01]]
