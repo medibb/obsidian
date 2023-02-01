@@ -10,7 +10,11 @@
 
 The results of each stage are available below:
 
+
 #### Stage 3
+#### Stage 2
+#### Stage 1
+#### Stage 0
   - raw data 분석에서 move별 boxplot 겹쳐그리기
   - absolute & outlier 제거 코드(현재 에러남) 로도 구해보는 것 좋을
   - AP 데이터에서 move 별 boxplot 겹쳐그리기

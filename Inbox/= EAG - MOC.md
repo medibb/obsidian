@@ -1,13 +1,13 @@
 This is the MOC about EAG; Electroarthrography
 
 ---
-## ==1. definition
+## 1. definition
 
 EAG는 관절연골에서 발생하는 전위를 기록하는 것
 임상에서 활용할 수 있다면 진단적 가치를 가질 수 있음
 
 ---
-## ==2. Related work
+## 2. Related work
 
 선행연구는 3가지로 나뉠 수 있다.
 
@@ -26,7 +26,9 @@ EAG는 관절연골에서 발생하는 전위를 기록하는 것
 ### 2.2. Significance
 ---
 
-## ==3. Future work
+## 3. Future work
+
+### 3.1. Knowledge gap
 
 - 선행연구에서 보고되지 않았던 관절각도변화에 따른 EAG 관찰
 - 
@@ -46,9 +48,15 @@ Immediate difference to the inflection point in 1sec
 Correlation between ultrasonographic parameters versus EAG signals
 
 
+### 3.2 Target journal
+
+1.  [https://www.clinbiomech.com/](https://www.clinbiomech.com/) IF 2.034 Clinical Biomechanics is an international multidisciplinary journal of biomechanics with a focus on medical and clinical applications of new knowledge in the field.The science of biomechanics helps explain the causes of cell, tissue, organ and body system disorders, and supports clinicians in the diagnosis, prognosis and evaluation of treatment methods and technologies. Clinical Biomechanics aims to strengthen the links between laboratory and clinic by publishing cutting-edge biomechanics research which helps to explain the causes of injury and disease, and which provides evidence contributing to improved clinical management. Clinical Biomechanics explores all facets of body system, organ, tissue and cell biomechanics, with an emphasis on medical and clinical applications of the basic science aspects. The role of basic science is therefore recognized in a medical or clinical context. The readership of the journal closely reflects its multi-disciplinary contents, being a balance of scientists, engineers and clinicians.
+2.  [https://onlinelibrary.wiley.com/page/journal/1554527x/homepage/productinformation.html](https://onlinelibrary.wiley.com/page/journal/1554527x/homepage/productinformation.html) IF 3.102 The Journal of Orthopaedic Research, a publication of the Orthopaedic Research Society (ORS), is the forum for the rapid publication of high quality reports of new information on the full spectrum of orthopaedic research, including life sciences, engineering, translational, and clinical studies.
+3.  [https://journals.lww.com/clinorthop/pages/default.aspx](https://journals.lww.com/clinorthop/pages/default.aspx) IF 4.755 Research articles providing the latest in basic biological or engineering research on musculoskeletal diseases.
 ---
 
-## ==4. Method
+
+## 4. Method
 
 - 능동신전/수동신전/스쿼트 에서 무릎관절의 각도변화에 따른 EAG를 측정하고자 함.
 - 8군데에서 측정함, 4군데는 patellar 주변의 retinaculum,  나머지는 joint line 을 따라서
@@ -57,7 +65,7 @@ Correlation between ultrasonographic parameters versus EAG signals
 	- cartilage, loading area 로 부터, outer cartilage 및 surface 까지의 거리에 따른 전위의 크기 및 역전
 	- Synovial fluid 의 영향
 
-### ==4.1. Data analysis
+### 4.1. Data analysis
 
 #### Data processing
  - Env: 파이참, AWS(ID: sense0906@gmail.com / PW: )
