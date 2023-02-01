@@ -156,7 +156,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -176,15 +177,15 @@
   },
   "active": "01ea7326f4938cf0",
   "lastOpenFiles": [
-    "Inbox/Electroarthrography.md",
+    "Inbox/EAG - Methodology.md",
     "Inbox/EAG - Data Analysis.md",
+    "Inbox/Electroarthrography.md",
     "Template/Paper.md",
     "Template/Person.md",
     "Template/Thought.md",
     "Template/Article.md",
     "Template/Book.md",
     "Template/Conference.md",
-    "Z/+.md",
-    "Z/@.md"
+    "Z/+.md"
   ]
 }
