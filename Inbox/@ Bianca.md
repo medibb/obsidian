@@ -1,9 +1,8 @@
 -   `Title:` [[@ Bianca]]
 -   `Type:` [[@]]
--   `Keywords:` 
--   `Profession:`
+-   `link:` [[+ journal developing process by bianca]]
+-   `Keywords:`
 -   `If / How we met:`
--   `Shared interests:` LTK
+-   `Shared interests:`
 -   `Connection Points:`
--   `Web site:` https://biancapereira.me/
-
+-   [`Web site`](https://biancapereira.me/)

@@ -1,7 +1,7 @@
 -   `Title:` [[<%tp.file.title%>]]
 -   `Type:` [[@]]
+-   `link:` 
 -   `Keywords:`
--   `Profession:`
 -   `If / How we met:`
 -   `Shared interests:`
 -   `Connection Points:`

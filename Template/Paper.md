@@ -10,16 +10,26 @@
 -   `Keywords:`
 -   `Specific Subject:`
 -   `General Subject:`
--   `DOI:` [DOI]
--   `Zotero URL:` [Zotero]
 -   `Publish Date:`
 -   `Reviewed Date:` [[<%tp.date.now()%>]]
 ---
   
 
 ### Bibliographic information:
--   `DOI:` [DOI]
--   `Zotero URL:` [Zotero]
+-   author:: {{author}}
+    -   notable_authors::
+-   keywords:: {{Tags}}
+-   specific_subject::
+-   general_subject::
+-   doi:: {{DOI}}
+-   zotero_url:: {{localLibrary}}
+-   publish_date::
+-   reviewed_date::
+-   {{dateAdded}}
+-   collections:: {{collections}}
+-   related:: {{related}}
+-   pdf_attachments:: {{pdfAttachments}}
+-   abstract_note:: {{abstractNote}}
 ---
 ## Summary
   - Method&Result(s):

@@ -1,9 +1,7 @@
-This is the MOC about EAG
+This is the MOC about EAG; Electroarthrography
 
 ---
 ## ==1. definition
-
-	
 
 EAG는 관절연골에서 발생하는 전위를 기록하는 것
 임상에서 활용할 수 있다면 진단적 가치를 가질 수 있음

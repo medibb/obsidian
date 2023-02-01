@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Electroarthrography.md",
+                "file": "Inbox/EAG - MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Article.md",
+                "file": "Inbox/+ journal developing process by bianca.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Article.md",
+                "file": "Inbox/+ journal developing process by bianca.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Article.md",
+                "file": "Inbox/+ journal developing process by bianca.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Article.md"
+                "file": "Inbox/+ journal developing process by bianca.md"
               }
             }
           }
@@ -201,15 +202,15 @@
   },
   "active": "27b08d2f037caa63",
   "lastOpenFiles": [
-    "Inbox/@ Bianca.md",
-    "Memo/연구아이디어.md",
-    "Z/!.md",
-    "Template/Person.md",
+    "Memo/0 연간 업무.md",
+    "Memo/2022 Lab meeting.md",
+    "Template/Book.md",
+    "Template/Article.md",
+    "Template/Conference.md",
     "Template/Paper.md",
-    "2023-01-31.md",
+    "Template/Person.md",
+    "Template/Thought.md",
     "Template/Youtube.md",
-    "Inbox/$ 혁신형 의사과학자회의.md",
-    "Inbox/Electroarthrography.md",
-    "Inbox/EAG - Methodology.md"
+    "Inbox/EAG - Data Analysis.md"
   ]
 }

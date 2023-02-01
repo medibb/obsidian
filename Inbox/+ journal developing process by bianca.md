@@ -13,9 +13,3 @@
 ---
 
 LINKS TO THIS PAGE
-
-[@Danny Hatcher](https://publish.obsidian.md/bryan-jenks/Z/%40Danny+Hatcher)
-
-[@Justin DiRose](https://publish.obsidian.md/bryan-jenks/Z/%40Justin+DiRose)
-
-[Business](https://publish.obsidian.md/bryan-jenks/Z/Business)
