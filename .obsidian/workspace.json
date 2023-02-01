@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/EAG - Data Analysis.md",
+                "file": "Z/INDEX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fe2190be9fed904",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/EAG - Data Analysis.md",
+                "file": "Inbox/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/EAG - Data Analysis.md",
+                "file": "Inbox/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/EAG - Data Analysis.md"
+                "file": "Inbox/Untitled.md"
               }
             }
           }
@@ -175,17 +187,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "01ea7326f4938cf0",
+  "active": "9fe2190be9fed904",
   "lastOpenFiles": [
-    "Inbox/EAG - Methodology.md",
-    "Inbox/EAG - Data Analysis.md",
+    "Inbox/+👑️ My 2021 Comprehensive Obsidian Zettelkasten Workflow 👑️.md",
+    "Inbox/Untitled.md",
+    "Z/INDEX.md",
     "Inbox/Electroarthrography.md",
+    "Inbox/EAG - Data Analysis.md",
+    "Inbox/EAG - Methodology.md",
+    "Inbox/$ 혁신형 의사과학자회의.md",
+    "Z/Pasted image 20230201093840.png",
     "Template/Paper.md",
-    "Template/Person.md",
-    "Template/Thought.md",
-    "Template/Article.md",
-    "Template/Book.md",
-    "Template/Conference.md",
-    "Z/+.md"
+    "Template/Person.md"
   ]
 }
