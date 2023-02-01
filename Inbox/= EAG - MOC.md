@@ -23,7 +23,7 @@ EAG는 관절연골에서 발생하는 전위를 기록하는 것
 - 명료화해야하는 부분
 	- 수동신전에서도 연골변형이 생기는지 - 논문찾기
 	- cartilage, loading area 로 부터, outer cartilage 및 surface 까지의 거리에 따른 전위의 크기 및 역전
-	- Sy
+	- Synovial fluid 의 영향
 
 ---
 ## ==n. 통계작업
