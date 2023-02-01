@@ -18,16 +18,8 @@
   
 
 ### Bibliographic information:
--   `Type:`  [[!]]
--   `Author:`
-    -   `Notable Authors:`
--   `Keywords:`
--   `Specific Subject:`
--   `General Subject:`
 -   `DOI:` [DOI]
 -   `Zotero URL:` [Zotero]
--   `Publish Date:`
--   `Reviewed Date:` [[<%tp.date.now()%>]]
 ---
 ## Summary
   - Method&Result(s):

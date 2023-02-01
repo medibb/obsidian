@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Paper.md",
+                "file": "Inbox/Electroarthrography.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01ea7326f4938cf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/EAG - Data Analysis.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Paper.md",
+                "file": "Inbox/EAG - Data Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Paper.md",
+                "file": "Inbox/EAG - Data Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Paper.md"
+                "file": "Inbox/EAG - Data Analysis.md"
               }
             }
           }
@@ -161,17 +174,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "db5e2d821e05a9cc",
+  "active": "01ea7326f4938cf0",
   "lastOpenFiles": [
+    "Inbox/Electroarthrography.md",
+    "Inbox/EAG - Data Analysis.md",
     "Template/Paper.md",
-    "Z/!.md",
-    "Inbox/( Myotendinous junction.md",
-    "Z/Tag Taxonomy.md",
-    "Inbox/+👑️ My 2021 Comprehensive Obsidian Zettelkasten Workflow 👑️.md",
-    "Inbox/$ 혁신형 의사과학자회의.md",
+    "Template/Person.md",
+    "Template/Thought.md",
     "Template/Article.md",
-    "Memo/연구아이디어.md",
-    "Memo/2022 Lab meeting.md",
-    "Memo/0 연간 업무.md"
+    "Template/Book.md",
+    "Template/Conference.md",
+    "Z/+.md",
+    "Z/@.md"
   ]
 }
