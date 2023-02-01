@@ -1,6 +1,6 @@
 
 -   `Title:` [<%tp.file.title%>](https://publish.obsidian.md/bryan-jenks/%3C%25tp.file.title%25%3E)
--   `Type:` [[+]]
+-   `Type:` [[+]] / #🌿
 -   `Tags:` <%tp.file.cursor(1)%>
 -   `URL:` <https://youtu.be/wB89lJs5A3s>
 -   `Channel/Host:` <%tp.file.cursor(3)%>

@@ -11,9 +11,11 @@
             "id": "5b5615345097ccfe",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Inbox/Untitled Kanban.md"
+                "file": "Utility/💳️ Kanban Live.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Untitled Kanban.md",
+                "file": "Utility/💳️ Kanban Live.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Untitled Kanban.md",
+                "file": "Utility/💳️ Kanban Live.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Untitled Kanban.md"
+                "file": "Utility/💳️ Kanban Live.md"
               }
             }
           }
@@ -172,15 +174,15 @@
   },
   "active": "5b5615345097ccfe",
   "lastOpenFiles": [
-    "Inbox/$ 혁신형 의사과학자회의.md",
-    "Inbox/Untitled Kanban.md",
-    "Inbox/= EAG - MOC.md",
+    "Dataview/+.md",
+    "Dataview/=.md",
+    "Inbox/+👑️ My Comprehensive Obsidian Zettelkasten Workflow 👑️.md",
+    "Inbox/+ journal developing process by bianca.md",
     "Inbox/= EAG - Methodology.md",
-    "Inbox/= EAG - Data Analysis.md",
-    "Inbox/+👑️ My 2021 Comprehensive Obsidian Zettelkasten Workflow 👑️.md",
-    "Inbox/( Myotendinous junction.md",
+    "Dataview/$.md",
+    "Dataview/!.md",
     "Utility/💳️ Kanban Live.md",
-    "Dataview/INDEX.md",
-    "Template/Notes.md"
+    "Inbox/= EAG - Data Analysis.md",
+    "Inbox/Untitled Kanban.md"
   ]
 }

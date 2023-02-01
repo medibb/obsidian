@@ -1,7 +1,7 @@
 #### Metadata 
 -   `Title:` [[= EAG - Data Analysis]]
 -   `Type:` [[=]]
--   `Tags:` #🧠️/📝️
+-   `Tags:` #🧠️/📝️/🌱️ 
 -   `Formation Date:` [[2023-02-01]]
 ---
 
