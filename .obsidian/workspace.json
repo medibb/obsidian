@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dataview/!.md",
+                "file": "Inbox/EAG - draft.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -155,7 +156,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -174,15 +176,15 @@
   },
   "active": "5b5615345097ccfe",
   "lastOpenFiles": [
+    "Inbox/EAG - draft.md",
+    "Template/Notes.md",
+    "Template/Article.md",
+    "Inbox/= EAG - MOC.md",
+    "Dataview/!.md",
+    "Dataview/INDEX.md",
     "Inbox/= EAG - Methodology.md",
     "Inbox/= EAG - Data Analysis.md",
-    "Inbox/= EAG - MOC.md",
     "Utility/💳️ Kanban.md",
-    "Dataview/INDEX.md",
-    "Inbox/+👑️ My Comprehensive Obsidian Zettelkasten Workflow 👑️.md",
-    "Inbox/( Myotendinous junction.md",
-    "Dataview/$.md",
-    "Utility/✏️ Workbench.md",
-    "Dataview/=.md"
+    "Inbox/+👑️ My Comprehensive Obsidian Zettelkasten Workflow 👑️.md"
   ]
 }
