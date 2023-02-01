@@ -16,6 +16,7 @@ EAG는 관절연골에서 발생하는 전위를 기록하는 것
 	3. 예전 cartilage streaming potential 및 strain-generated potential 에 대한 최신연구들
 
 ### 2.1 Summary 
+	1. Buschmann 등의 연구에서는 OA 와 prosthetic knee 에서는 EAG가 적거나 같았다.
 
 ### 2.2. Significance
 ---
