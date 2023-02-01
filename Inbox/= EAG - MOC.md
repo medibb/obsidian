@@ -31,6 +31,20 @@ EAG는 관절연골에서 발생하는 전위를 기록하는 것
 - 선행연구에서 보고되지 않았던 관절각도변화에 따른 EAG 관찰
 - 
 
+Maximal differences for 7 sec
+
+Amplitude difference from 90 ->180
+
+The amplitude of potentials changes at active extension versus passive extension
+
+Amplitude difference from 180-> 90
+
+Loading on knee cartilage phase (knee extension 90->180 versus squat 180->90)
+
+Immediate difference to the inflection point in 1sec
+
+Correlation between ultrasonographic parameters versus EAG signals
+
 
 ---
 

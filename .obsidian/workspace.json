@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b94c431cc0fa8b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/= EAG - MOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -107,7 +119,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/= EAG - Data Analysis.md",
+                "file": "Inbox/= EAG - MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -130,7 +142,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5087618855792589,
+                  "scale": 1.0000000000000009,
                   "close": true
                 }
               }
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/= EAG - Data Analysis.md",
+                "file": "Inbox/= EAG - MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/= EAG - Data Analysis.md",
+                "file": "Inbox/= EAG - MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/= EAG - Data Analysis.md"
+                "file": "Inbox/= EAG - MOC.md"
               }
             }
           }
@@ -211,17 +223,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "469f2a4195ff6ceb",
+  "active": "6b94c431cc0fa8b5",
   "lastOpenFiles": [
-    "Inbox/= EAG - Methodology.md",
+    "Inbox/= EAG - cell biology.md",
+    "Inbox/= EAG - potentials.md",
+    "Template/Article.md",
     "Inbox/= EAG - MOC.md",
-    "Dataview/=.md",
-    "Dataview/(.md",
-    "Inbox/( Myotendinous junction.md",
-    "Inbox/EAG - draft.md",
-    "Dataview/$.md",
-    "Dataview/!.md",
-    "Dataview/{.md",
-    "Dataview/@.md"
+    "Template/Book.md",
+    "Template/Conference.md",
+    "Template/Notes.md",
+    "Template/Paper.md",
+    "Template/Person.md",
+    "Template/Youtube.md"
   ]
 }
