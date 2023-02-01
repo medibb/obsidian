@@ -25,4 +25,5 @@ If you want to see my [Zettelkasten](https://publish.obsidian.md/bryan-jenks/Z/
 [#🧠️/📝️/🌲️] _<=>_ `Evergreen Notes`
 
 [[+ journal developing process by bianca]]
+: Capture to extracting(highligting) 은 조테로에서 이후는 Obsidian 에서
 ![[Pasted image 20230201093840.png]]

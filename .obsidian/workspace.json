@@ -54,21 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "02710a12f65dfae7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dataview/!.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dataview/!.md",
+                "file": "Dataview/INDEX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dataview/!.md",
+                "file": "Dataview/INDEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dataview/!.md"
+                "file": "Dataview/INDEX.md"
               }
             }
           }
@@ -211,17 +199,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "db5e2d821e05a9cc",
+  "active": "01ea7326f4938cf0",
   "lastOpenFiles": [
-    "Utility/✏️ Workbench.md",
-    "Utility/💳️ Kanban Live.md",
-    "Inbox/EAG - MOC.md",
-    "Template/Thought.md",
+    "Dataview/!.md",
     "Dataview/INDEX.md",
-    "Dataview/Tag Taxonomy.md",
-    "Dataview/$.md",
-    "muscle.md",
-    "note.md",
-    "physiology.md"
+    "Dataview/Pasted image 20230201093840.png",
+    "Inbox/EAG - Methodology.md",
+    "Inbox/EAG - Data Analysis.md",
+    "Inbox/( Myotendinous junction.md",
+    "Inbox/@ Bianca.md",
+    "Inbox/+ journal developing process by bianca.md",
+    "Inbox/+👑️ My 2021 Comprehensive Obsidian Zettelkasten Workflow 👑️.md",
+    "Inbox/$ 혁신형 의사과학자회의.md"
   ]
 }
