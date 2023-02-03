@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Draft.md",
+                "file": "Dataview/💳️ Kanban.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Template/Draft.md",
+                "file": "Dataview/💳️ Kanban.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Draft.md",
+                "file": "Dataview/💳️ Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Draft.md",
+                "file": "Dataview/💳️ Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Draft.md"
+                "file": "Dataview/💳️ Kanban.md"
               }
             }
           }
@@ -225,15 +225,15 @@
   },
   "active": "da9323ef61c40936",
   "lastOpenFiles": [
-    "Inbox/Untitled 1.md",
-    "Template/Draft.md",
-    "Template/Paper.md",
-    "Template/Article.md",
-    "Inbox/EAG - draft.md",
-    "Utility/💳️ Kanban.md",
-    "Inbox/= EAG - cell biology.md",
-    "Dataview/=.md",
-    "Utility/✏️ Workbench.md",
-    "Dataview/INDEX.md"
+    "Dataview/✏️ Workbench.md",
+    "Utility/🕓️ Timeline.md",
+    "Utility/🔌️ Plugins.md",
+    "Utility/⌨️Hotkeys.md",
+    "Dataview/💳️ Kanban.md",
+    "Template/Presentation.md",
+    "Template/Notes.md",
+    "Template/Person.md",
+    "Template/Youtube.md",
+    "Template/Paper.md"
   ]
 }
