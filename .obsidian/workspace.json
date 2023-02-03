@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "e24026235def2d6d",
+            "id": "beb3e15552842cd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/= PelvicTilt - Development.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#20221125랩미팅",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,7 +107,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/= EAG - Development.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -150,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/= EAG - Development.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/= EAG - Development.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/= EAG - Development.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -213,17 +212,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f461ea0fae99147a",
+  "active": "beb3e15552842cd6",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Inbox/= EAG - Development.md",
     "Inbox/$ 혁신형 의사과학자회의.md",
     "Inbox/= PelvicTilt - Development.md",
-    "Inbox/= EAG - Development.md",
     "Inbox/= EAG - potentials.md",
     "Inbox/= EAG - Methodology.md",
     "Inbox/= EAG - Data Analysis.md",
     "Dataview/INDEX.md",
     "Dataview/Pasted image 20230201093840.png",
-    "Inbox/= EAG - cell biology.md",
-    "Inbox/EAG - draft.md"
+    "Inbox/= EAG - cell biology.md"
   ]
 }
