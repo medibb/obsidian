@@ -3,10 +3,10 @@
   "obsidian-zotero-desktop-connector",
   "templater-obsidian",
   "cm-typewriter-scroll-obsidian",
-  "dataview",
   "better-word-count",
   "obsidian-emoji-toolbar",
   "nldates-obsidian",
   "url-into-selection",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "dataview"
 ]

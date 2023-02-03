@@ -46,14 +46,16 @@
 ---
 
 
-| Papers | Books | People | YouTube | Articles | Thoughts | Conference |
+| Papers | Books | People | YouTube | Articles | Atomic Notes | Conference |
 | ------ | ----- | ------ | ------- | -------- | -------- | ---------- |
 | [[!]]  | [[{]] | [[@]]  | [[+]]   | [[(]]    | [[=]]    |    [[$]]        |
 
 unused: `)};'&%`
 
-LINKS TO THIS PAGE
 
+
+
+
+
+🔗LINKS TO THIS PAGE
 [[INDEX]]
-
-[Map Of Content](https://publish.obsidian.md/bryan-jenks/Z/Map+Of+Content)

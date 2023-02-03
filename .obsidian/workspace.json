@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utility/✏️ Workbench.md",
+                "file": "Utility/💳️ Kanban.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "2834b34804446e77",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -86,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utility/✏️ Workbench.md",
+                "file": "Utility/💳️ Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utility/✏️ Workbench.md",
+                "file": "Utility/💳️ Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utility/✏️ Workbench.md"
+                "file": "Utility/💳️ Kanban.md"
               }
             }
           },
@@ -158,15 +166,15 @@
   },
   "active": "d3d3744c5753457b",
   "lastOpenFiles": [
-    "Utility/💳️ Kanban.md",
-    "Utility/✏️ Workbench.md",
     "Utility/⌨️Hotkeys.md",
+    "Utility/✏️ Workbench.md",
+    "conflict-files-obsidian-git.md",
+    "Utility/💳️ Kanban.md",
     "Dataview/INDEX.md",
     "Inbox/$ 혁신형 의사과학자회의.md",
     "Dataview/=.md",
     "Dataview/!.md",
     "Template/Conference.md",
-    "Template/Book.md",
-    "Template/Paper.md"
+    "Template/Book.md"
   ]
 }
