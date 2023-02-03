@@ -28,7 +28,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -103,6 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Inbox/= EAG - Development.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -144,6 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Inbox/= EAG - Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,6 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/= EAG - Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inbox/= EAG - Development.md"
+              }
             }
           }
         ],
@@ -203,7 +207,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "beb3e15552842cd6",
+  "active": "e92599f2f3acd16d",
   "lastOpenFiles": [
     "Inbox/= EAG - Development.md",
     "conflict-files-obsidian-git.md",
