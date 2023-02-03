@@ -1,11 +1,5 @@
 link: [[Tag Taxonomy]]
 
-Frequent shortcuts 
-crtl + o - travel to another note
-art + E - templator
-ctrl + V - paste link in clipboard
-crrl + + - emoji
-
 
 tag: [#🧠️/📝️](https://publish.obsidian.md/#%F0%9F%A7%A0%EF%B8%8F/%F0%9F%93%9D%EF%B8%8F) for tags in various stages of processing here's the breakdown:
 

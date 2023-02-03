@@ -1,5 +1,9 @@
+
 ```dataview
-TABLE length(tags) as numtags , "#" + join(tags, ", #") as tags
-from ""
+TABLE dateformat(file.mtime, "dd.MM.yyyy - HH:mm") AS "Last modified"
+FROM -"Utility" AND -"Dataview"
+SORT file.mtime DESC
+LIMIT 10
 where problems = dep
 ```
+
