@@ -126,17 +126,18 @@ Loading on knee cartilage phase (knee extension 90->180 versus squat 180->90)
 ## 3.2 electroarthrographic versus ultrasonographic parameters
 
 # 4. Discussion
-## 4.6 Limitations
 
-## 4.7 Conclusion
+## Limitations
 
-동주 선생님 인턴쉽이라서 시간이 걸릴 것 같다.
+## Conclusion
 
-초음파 하기 전에 데이터 확인할 부분, 이상치 부분을 측정해서 재현되는 상황이면 살펴보도록
+
+# REFERENCES
+
 
   
-# Accesory Page
-## ACKNOWLEDGMENTS
+# Accesory informations
+## ACKNOWLEDGMENTS:
 
 ## Funding:
 
@@ -144,27 +145,24 @@ Loading on knee cartilage phase (knee extension 90->180 versus squat 180->90)
 None declared.
 
 ## Data availability statement:
+The data sets for this study are available on request.  The raw data supporting the conclusions of this manuscript will be made available by the authors to any qualified researcher. Contact: Jae Hyun Lee (ORCID 0000-0002-4927-9722).
 
-~~The data sets for this study are available on request.  The raw data supporting the conclusions of this manuscript will be made available by the authors to any qualified researcher. Contact: Jae Hyun Lee (ORCID 0000-0002-4927-9722).~~
 
-# REFERENCES
 
-  
 
-**Table 1.** Demographic, ultrasonographic, and electroarthrographic parameters
 
-**Table 2**. Correlation between electroarthrographic parameters with exercise types on ANOVA.
-
-**Table 3**. Correlation between electroarthrographic and ultrasonographic parameters on student t-test.
+# Tables
+Table 1. Demographic, anthropometric parameters
+Table 2. Correlation between A parameters with B.
 
   
 
-**FIGURE LEGENDS**
+# FIGURE LEGENDS
 
-**Figure 1.** The surface electrode position around the knee joints (**A**) Anterior view (**B**) Medial view (**C**) Lateral view, and (D) Posterior view
+Figure 1. Title of figure. (**A**) Anterior view (**B**) Medial view (**C**) Lateral view, and (D) Posterior view
 
-**Figure 2.** electroarthrography curves from the subjects. Straight red lines represent the labaled value by physician. (A) ~ (H) represent the surface electrode 1 ~ 8.
+Figure 2. Title of figure. Straight red lines represent NA. (A) ~ (H) represent NAs.
 
-**Figure 4**. Ultrasonographic images of the soft tissues under the surface electrodes. (**A**) The meniscofemoral ligament, which is the proximal part of the deep medial collateral ligament (arrows), lies on the medial epicondyle of the femur.
+Figure 3. Title of figure. (**A**) contents (arrows), (B) contents2 (arrow heads)
 
-* F = femur; M = medial meniscus; T = tibia; GCM = gastrocnemius muscle.. Medial retinaculum, femoral cartilage…
+* A = A things; B = B things; ...
