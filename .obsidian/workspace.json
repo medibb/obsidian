@@ -13,18 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utility/💳️ Kanban.md",
+                "file": "Inbox/= EAG - cell biology.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "2834b34804446e77",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
@@ -85,6 +77,47 @@
     "type": "split",
     "children": [
       {
+        "id": "fa2cd2db35093943",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3f545f40d29c3f6",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Inbox/= EAG - cell biology.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "path:-Dataview AND -Template ",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224425,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "9d42e4261bc783c8",
         "type": "tabs",
         "children": [
@@ -94,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utility/💳️ Kanban.md",
+                "file": "Inbox/= EAG - cell biology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utility/💳️ Kanban.md",
+                "file": "Inbox/= EAG - cell biology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,16 +156,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utility/💳️ Kanban.md"
+                "file": "Inbox/= EAG - cell biology.md"
               }
-            }
-          },
-          {
-            "id": "d529772aab483137",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           },
           {
@@ -151,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 250.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,15 +191,15 @@
   },
   "active": "d3d3744c5753457b",
   "lastOpenFiles": [
-    "Utility/⌨️Hotkeys.md",
+    "Inbox/= EAG - cell biology.md",
+    "Inbox/= EAG - Data Analysis.md",
     "Utility/✏️ Workbench.md",
-    "conflict-files-obsidian-git.md",
     "Utility/💳️ Kanban.md",
-    "Dataview/INDEX.md",
+    "Inbox/= EAG - potentials.md",
     "Inbox/$ 혁신형 의사과학자회의.md",
-    "Dataview/=.md",
-    "Dataview/!.md",
-    "Template/Conference.md",
-    "Template/Book.md"
+    "Inbox/EAG - draft.md",
+    "Inbox/= EAG - Methodology.md",
+    "Inbox/= EAG - MOC.md",
+    "Inbox/+ journal developing process by bianca.md"
   ]
 }
