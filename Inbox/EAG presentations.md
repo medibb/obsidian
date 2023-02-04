@@ -8,7 +8,6 @@
 
 ---
 # Data analysis
- *link: [[= EAG - Data Analysis]]
 
 # Stage 0 Analysis of amplitude
 ## stage 0.1 Analysis of Maximal diff.
@@ -44,7 +43,6 @@
 
 ---
 # Background knowledge 
- *link:[[= EAG - potentials]]*
 
 ## EAG potentials
 

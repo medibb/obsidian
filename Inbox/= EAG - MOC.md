@@ -6,16 +6,16 @@ This is the MOC about EAG; Electroarthrography
 EAG는 관절연골에서 발생하는 전위를 기록하는 것
 임상에서 활용할 수 있다면 진단적 가치를 가질 수 있음
 
+
 ---
-## 2. Related work
-
-선행연구는 3가지로 나뉠 수 있다.
-
+## 2.  # Background knowledge
+### 2.1 Related work
+	선행연구는 3가지로 나뉠 수 있다.
 	1. Buschmann et al. 의 메인 연구그룹의 논문들
 	2. Elbow EAG에 대해 1가지 논문을 발표한 인도 그룹
 	3. 예전 cartilage streaming potential 및 strain-generated potential 에 대한 최신연구들
 
-### 2.1 Brief Summary 
+### 2.1.1 Brief Summary 
 	1. Buschmann 등의 연구
 		1. OA 와 prosthetic knee 에서의 EAG 감소 및 소실
 		2. TFL & GCM 등의 knee joint crossing muscle  들이 COG 의 변화에 따라 자세유지를 위해 수축하는 것과 관련
@@ -23,7 +23,15 @@ EAG는 관절연골에서 발생하는 전위를 기록하는 것
 		4. movement는 weight shift 사용 - 연골 부하 위치가 일정했을 것
 		5. sensor point 는 joint line area - computer modeling하였음 - PF joint 의 정보는 없을 것
 
-### 2.2. Significance
+### 2.1.2 Significance
+
+### 2.2 EAG potentials([[= EAG - potentials]])
+    
+### 2.3 synovial fluid
+
+### 2.4 intra-articular pressure
+
+
 ---
 
 ## 3. Future work
@@ -47,6 +55,15 @@ Immediate difference to the inflection point in 1sec
 
 Correlation between ultrasonographic parameters versus EAG signals
 
+신호역전의 원인 탐색(역전횟수탐색?)
+
+각 센서의 비율의 비교 - 개인에 따른 비율로 변환, 각 위치에서 측정되는 신호혹은 2번 노이즈의 절대값 크기나 방향, 3번 신호의 방향이 대충 예상 가능할지,
+
+3번 신호의 상승하강량 조사
+
+신호 유사성의 비교 - 센서의 개수를 줄이거나, 위치를 추가할 수 있는 가능성
+
+Outlier의 기준?
 
 ### 3.2 Target journal
 
@@ -65,7 +82,7 @@ Correlation between ultrasonographic parameters versus EAG signals
 	- cartilage, loading area 로 부터, outer cartilage 및 surface 까지의 거리에 따른 전위의 크기 및 역전
 	- Synovial fluid 의 영향
 
-### 4.1. Data analysis
+### 4.1. Data analysis ([[= EAG - Data Analysis]])
 
 #### Data processing
  - Env: 파이참, AWS(ID: sense0906@gmail.com / PW: )
@@ -81,7 +98,7 @@ Correlation between ultrasonographic parameters versus EAG signals
 스쿼트 (14-21) squat
 
 
-#### Statistical analysis: [[= EAG - Data Analysis]]
+#### Statistical analysis
 
 -   raw data 분석에서 move별 boxplot 겹쳐그리기
 -   absolute & outlier 제거 코드(현재 에러남) 로도 구해보는 것 좋을

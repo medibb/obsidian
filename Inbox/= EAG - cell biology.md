@@ -22,4 +22,4 @@ AC similarly undergoes a diurnal cycle of fluid exudation/recovery of water cont
 
 
 🔗LINKS TO THIS PAGE
-[[= EAG - MOC]]
+[[= EAG - potentials]]
