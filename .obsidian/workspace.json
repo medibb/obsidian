@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/EAG presentations.md",
+                "file": "Inbox/= EAG - MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
       {
         "id": "1b74cb1d24ba4275",
         "type": "tabs",
-        "dimension": 27.932960893854748,
+        "dimension": 49.581005586592184,
         "children": [
           {
             "id": "4f27332bc05aceb0",
@@ -96,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/EAG presentations.md",
+                "file": "Inbox/= EAG - MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -119,7 +119,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0000000000000016,
+                  "scale": 1.0000000000000018,
                   "close": true
                 }
               }
@@ -131,7 +131,7 @@
       {
         "id": "9d42e4261bc783c8",
         "type": "tabs",
-        "dimension": 72.06703910614524,
+        "dimension": 50.41899441340782,
         "children": [
           {
             "id": "5df96589fb02c920",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/EAG presentations.md",
+                "file": "Inbox/= EAG - MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/EAG presentations.md",
+                "file": "Inbox/= EAG - MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/EAG presentations.md"
+                "file": "Inbox/= EAG - MOC.md"
               }
             }
           }
@@ -203,15 +203,15 @@
   },
   "active": "9de96b44bc48d08a",
   "lastOpenFiles": [
+    "Inbox/= EAG - potentials.md",
     "Inbox/= EAG - Data Analysis.md",
-    "Inbox/= EAG - Development.md",
     "Inbox/EAG presentations.md",
+    "Dataview/INDEX.md",
+    "Dataview/Tag Taxonomy.md",
+    "Utility/⌨️Hotkeys.md",
+    "Inbox/= EAG - MOC.md",
     "Dataview/✏️ Workbench.md",
     "Template/Presentation.md",
-    "Inbox/EAG - draft.md",
-    "Inbox/$ 혁신형 의사과학자회의.md",
-    "Inbox/Map Of Content.md",
-    "Dataview/💳️ Kanban.md",
-    "Utility/🕓️ Timeline.md"
+    "Inbox/EAG - draft.md"
   ]
 }
