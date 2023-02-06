@@ -130,7 +130,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0000000000000022,
+                  "scale": 0.25883865621816343,
                   "close": true
                 }
               }
@@ -213,7 +213,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "36ae47abafcf6595",
+  "active": "db5e2d821e05a9cc",
   "lastOpenFiles": [
     "Dataview/%.md",
     "Dataview/&.md",
