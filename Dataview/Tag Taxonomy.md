@@ -46,11 +46,11 @@
 ---
 
 
-| Papers | Books | People | YouTube | Articles | Atomic Notes | Conference |
-| ------ | ----- | ------ | ------- | -------- | -------- | ---------- |
-| [[!]]  | [[{]] | [[@]]  | [[+]]   | [[(]]    | [[=]]    |    [[$]]        |
+| Papers | Books | People | YouTube | Articles | Atomic Notes | Conference | Manuscript|
+| ------ | ----- | ------ | ------- | -------- | -------- | ---------- | --- | 
+| [[!]]  | [[{]] | [[@]]  | [[+]]   | [[(]]    | [[=]]|[[$]]|[[&]]|
 
-unused: `)};'&%`
+unused: `)};'%`
 
 
 
