@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f217eec2b1baeac8",
+            "id": "36ae47abafcf6595",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Manuscript.md",
+                "file": "Dataview/$.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d32488be740a6624",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dataview/%.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +107,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Template/Manuscript.md",
+                "file": "Dataview/$.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -138,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Manuscript.md",
+                "file": "Dataview/$.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Manuscript.md",
+                "file": "Dataview/$.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Manuscript.md"
+                "file": "Dataview/$.md"
               }
             }
           }
@@ -197,20 +209,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f217eec2b1baeac8",
+  "active": "36ae47abafcf6595",
   "lastOpenFiles": [
-    "Template/Article.md",
-    "Template/Conference.md",
-    "Inbox/& EAG - draft.md",
-    "Inbox/= EAG - MOC.md",
-    "Template/Manuscript.md",
-    "Template/Paper.md",
-    "Template/Draft.md",
-    "Template/Notes.md",
-    "Inbox/EAG presentations.md",
-    "Dataview/Tag Taxonomy.md"
+    "Dataview/%.md",
+    "Dataview/&.md",
+    "Dataview/+.md",
+    "Dataview/$.md",
+    "Dataview/@.md",
+    "Dataview/!.md",
+    "Dataview/✏️ Workbench.md",
+    "Dataview/💳️ Kanban.md",
+    "Dataview/(.md",
+    "Dataview/=.md"
   ]
 }
