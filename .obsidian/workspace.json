@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/= EAG - Methodology.md",
+                "file": "Utility/⌨️Hotkeys.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/= EAG - Methodology.md",
+                "file": "Utility/⌨️Hotkeys.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/= EAG - Methodology.md",
+                "file": "Utility/⌨️Hotkeys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/= EAG - Methodology.md",
+                "file": "Utility/⌨️Hotkeys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/= EAG - Methodology.md"
+                "file": "Utility/⌨️Hotkeys.md"
               }
             }
           }
@@ -215,6 +215,7 @@
   },
   "active": "36ae47abafcf6595",
   "lastOpenFiles": [
+    "Inbox/= EAG - Methodology.md",
     "Dataview/💳️ Kanban.md",
     "Dataview/$.md",
     "Dataview/%.md",
@@ -223,7 +224,6 @@
     "Dataview/@.md",
     "Dataview/!.md",
     "Dataview/✏️ Workbench.md",
-    "Dataview/(.md",
-    "Dataview/=.md"
+    "Dataview/(.md"
   ]
 }
