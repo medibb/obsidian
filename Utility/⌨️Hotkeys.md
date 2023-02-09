@@ -24,10 +24,9 @@
 - Ctrl + Shift + n : 새폴더 생성
 - F2 : 이름바꾸기 
 	- Tab 하면 이동
-- Alt + ⬆️: 한 계층 위로 이동
-- Alt + ⬅️: 직전에 열린 폴더로 이동
 - F4 : 주소창 목록보기 
 	- Alt + Shift + d : 주소창으로 포커스
+	- Alt  + f + numkeys : ==자주가는 폴더 ==
 - Alt + p : 내용 미리보기
 - Alt + Enter : 파일 속성 표시
 
