@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2a2797e101919ac1",
+        "id": "c882e216312c7489",
         "type": "tabs",
         "children": [
           {
-            "id": "36ae47abafcf6595",
+            "id": "acbe2322624aad18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utility/⌨️Hotkeys.md",
+                "file": "Inbox/% 병원보 - 어깨의 운동치료.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 224.50403594970703
   },
   "right": {
     "id": "c3d1ec123b944f56",
@@ -96,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Utility/⌨️Hotkeys.md",
+                "file": "Inbox/% 병원보 - 어깨의 운동치료.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utility/⌨️Hotkeys.md",
+                "file": "Inbox/% 병원보 - 어깨의 운동치료.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utility/⌨️Hotkeys.md",
+                "file": "Inbox/% 병원보 - 어깨의 운동치료.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utility/⌨️Hotkeys.md"
+                "file": "Inbox/% 병원보 - 어깨의 운동치료.md"
               }
             }
           }
@@ -203,17 +202,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "36ae47abafcf6595",
+  "active": "acbe2322624aad18",
   "lastOpenFiles": [
-    "Dataview/%.md",
-    "Utility/⌨️Hotkeys.md",
-    "Inbox/= EAG - Methodology.md",
-    "Dataview/💳️ Kanban.md",
-    "Dataview/$.md",
-    "Dataview/&.md",
-    "Dataview/+.md",
-    "Dataview/@.md",
-    "Dataview/!.md",
-    "Dataview/✏️ Workbench.md"
+    "Template/Article.md",
+    "Inbox/% 병원보 - 어깨의 운동치료.md",
+    "Inbox/% 0208 PRML lab meeting.md",
+    "Inbox/& EAG - draft.md",
+    "Template/Presentation.md",
+    "Template/Youtube.md",
+    "Template/Person.md",
+    "Template/Paper.md",
+    "Template/Manuscript.md",
+    "Template/Notes.md"
   ]
 }
