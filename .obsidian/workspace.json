@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/= CT xray - MOC.md",
+                "file": "Utility/⌨️Hotkeys.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/= CT xray - MOC.md",
+                "file": "Utility/⌨️Hotkeys.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/= CT xray - MOC.md",
+                "file": "Utility/⌨️Hotkeys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/= CT xray - MOC.md",
+                "file": "Utility/⌨️Hotkeys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/= CT xray - MOC.md"
+                "file": "Utility/⌨️Hotkeys.md"
               }
             }
           }
@@ -204,9 +204,9 @@
   },
   "active": "b84af26f9750f66a",
   "lastOpenFiles": [
+    "Inbox/= CT xray - MOC.md",
     "Inbox/& EAG - draft.md",
     "Inbox/= EAG - MOC.md",
-    "Inbox/= CT xray - MOC.md",
     "Inbox/Untitled.md",
     "Inbox/EAG presentations.md",
     "Inbox/= EAG - Data Analysis.md",
