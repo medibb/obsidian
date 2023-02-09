@@ -32,10 +32,11 @@
 - window + SPACE : 입력기 전환 (==한영전환 안될때==)
 
 # Gmail
+- 대화선택 x
 - 삭제 #
+- 사이드바와 받은편지함 간 전환 Ctrl + Alt + , (==Todoist 사용==) 
 - 답장 r
 - 새창에서 답장 Shift + r
 - 전달 f
-- - 커서를 툴바로 ,
+- 커서를 툴바로 ,
 - 마지막작업 취소 z
-- Calendar/Keep/Tasks 사이드바와 받은편지함 간 전환 Ctrl + Alt + , (==Todoist 사용==) 
