@@ -11,8 +11,12 @@
             "id": "b84af26f9750f66a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/= CT xray - MOC.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -91,6 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Inbox/= CT xray - MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -133,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Inbox/= CT xray - MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,6 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/= CT xray - MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inbox/= CT xray - MOC.md"
+              }
             }
           }
         ],
@@ -194,15 +203,15 @@
   },
   "active": "b84af26f9750f66a",
   "lastOpenFiles": [
-    "Inbox/Untitled.md",
+    "Inbox/& EAG - draft.md",
     "Inbox/= EAG - MOC.md",
+    "Inbox/= CT xray - MOC.md",
+    "Inbox/Untitled.md",
     "Inbox/EAG presentations.md",
     "Inbox/= EAG - Data Analysis.md",
     "Inbox/= EAG - Methodology.md",
     "Inbox/= EAG - potentials.md",
     "Inbox/= EAG - cell biology.md",
-    "Dataview/INDEX.md",
-    "Dataview/Tag Taxonomy.md",
-    "Utility/⌨️Hotkeys.md"
+    "Dataview/INDEX.md"
   ]
 }
