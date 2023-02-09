@@ -12,7 +12,7 @@ This is the MOC about CT-xray; calcific tendinitis radiographic analysis
 
 spartial heterogenicity analysis  를 하는 것
 
-resorptive phase 에 대한 정량적인 분석을 시행하겠다.
+resorptive phase를 radiograph 로 확인하는 그간의 semi-quantitative analysis 들에 대해서 정량적인 분석을 시행하겠다.
 
 
 ---
@@ -27,6 +27,8 @@ resorptive phase 에 대한 정량적인 분석을 시행하겠다.
 ### 2.1.2 Significance
 
 
+
+
 ---
 
 ## 3. Future work
@@ -35,35 +37,35 @@ resorptive phase 에 대한 정량적인 분석을 시행하겠다.
 
 - poor reliability 를 보이는 분석 방법에 대해서 정량적인 분석을 하겠다. 
 - 해당 정량적 분석이 임상증상 혹은 초음파 분석과 상관이 있는지 알아보겠다.
-- 
 
+### 3.2. Expecting findings
+- grey scale value 
+	1. tendon 과의 유의한 차이 보고
+	2. 영상의학과 진단되지 않은 석회와 진단된 석회의 value 비교
+	3. clinical factors 들과의 비교
+	4. USG parameters 들과의 비교
+- Heterogenicity parameters
+	1. tendon 과의 유의한 차이 보고
+	2. Gartner classifications 와의 비교
+	3. clinical factors 들과의 비교
+	4. USG parameters 들과의 비교
 ### 3.2 Target journal
 ---
-
-
 ## 4. Method
 
-- 능동신전/수동신전/스쿼트 에서 무릎관절의 각도변화에 따른 EAG를 측정하고자 함.
-- 8군데에서 측정함, 4군데는 patellar 주변의 retinaculum,  나머지는 joint line 을 따라서
-- 명료화해야하는 부분
-	- 수동신전에서도 연골변형이 생기는지 - 논문찾기
-	- cartilage, loading area 로 부터, outer cartilage 및 surface 까지의 거리에 따른 전위의 크기 및 역전
-	- Synovial fluid 의 영향
+8 bit grayscale histogram was used, which classifies the black-and-white brightness level of the picture into 256 intensities ranging from 0 to 255. Spatial heterogeneity was assessed by skewness, kurtosis, entropy, and complexity. The relationship with pain assessed by numeric rating scale (NRS) was investigated by Mann-Whitney U test and Pearson chi-square test.
 
-### 4.1. Data analysis ([[= EAG - Data Analysis]])
+### 4.1 Parameter definitions
+- Clinical paramters : n
+
+### 4.2. Data analysis ([[= EAG - Data Analysis]])
 
 #### Data processing
- - Env: 파이참, AWS(ID: sense0906@gmail.com / PW: )
- - code(setting.py & main.py) 실행
- - 측정순서.txt에서 각 동작 확인
- - GUI 사용
-	 - 능동신전 =   leg stretch(1) (7-14)
-	 - 수동신전 (완전굴곡포함) = leg bend(2) (by each angle) (28-35)
-	 - 스쿼트 = squat (14-21)
-	 - 텍스트추출(Win + Shift + T) & paste to 엑셀파일
-	 - 
+ - Env: R
+ - code: 
 
-스쿼트 (14-21) squat
+
+
 
 
 #### Statistical analysis
