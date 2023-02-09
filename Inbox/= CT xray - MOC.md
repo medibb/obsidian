@@ -34,7 +34,7 @@ resorptive phase를 radiograph 로 확인하는 그간의 semi-quantitative anal
 ### 2.1 Related work
 	 Histogram analysis 를 사용했던 사전논문들
 	 semi-quantitative analysis 의 poor reliabilty 논문들
-	 introductive factors 를 받쳐주는 논문들
+	 introductive factors 를 받쳐주는 논문
 
 ### 2.1.1 Brief Summary 
 	1. Histogram analysis
