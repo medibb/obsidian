@@ -17,21 +17,39 @@
 - Shift + ESC , Enter : 표 밖으로 커서 꺼내기
 - Crtl + Enter: 쪽 나누기 
 
-# Word
+
+
+# Microsoft
+## Windows Explorer
+- Ctrl + Shift + n : 새폴더 생성
+- F2 : 이름바꾸기 (Tab 하면 이동)
+- Alt + ⬆️: 한 계층 위로 이동
+- Alt + ⬅️: 직전에 열린 폴더로 이동
+- Alt + Shift + d : 주소창으로 포커스
+- F4 : 주소창 목록보기
+- Alt + Shift + p : 내용 미리보기
+- Alt + Enter : 파일 속성 표시
+
+## Word
 - Ctrl + Shift + N: 표준 스타일 적용
 - Ctrl + Shift + C: 서식 복사
 - Ctrl + Shift + V: 서식 붙여넣기
 
-# Chrome
+## Window
+- window + SPACE : 입력기 전환 (==한영전환 안될때==)
+
+
+
+# Google
+---
+
+## Chrome
 -  F6 : 전체 툴바로 포커스 전환 (==북마크바로 이동할때 3번 클릭==)
 - Shift + Alt + t : 툴바의 첫 번째 항목에 포커스 설정
 - F10 : 툴바의 가장 오른쪽에 있는 항목(창옵션)에 포커스 설정
 -- F12 + Ctrl + Shift + M : 모바일모드 보기 (==고신닥터스 사용시==)
 
-# Window
-- window + SPACE : 입력기 전환 (==한영전환 안될때==)
-
-# Gmail
+## Gmail
 - 대화선택 x
 - 삭제 #
 - 사이드바와 받은편지함 간 전환 Ctrl + Alt + , (==Todoist 사용==) 
