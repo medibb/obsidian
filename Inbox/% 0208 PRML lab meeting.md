@@ -1,6 +1,6 @@
 
--   `Title:` [[EAG presentations]]
--   `Type:` [[=]]
+-   `Title:` [[% 0208 PRML lab meeting]]
+-   `Type:` [[%]]
 -   `Tags:` #🧠️/📝️/🌞️ 
 -   `Formation Date:` [[2023-02-04]]
 ---

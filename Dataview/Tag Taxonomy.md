@@ -45,12 +45,17 @@
 
 ---
 
+INPUTs
+| Papers | Books | People | YouTube | Articles | Notes | Conference |  
+| ------ | ----- | ------ | ------- | -------- | ----- | ---------- | 
+| [[!]]  | [[{]] | [[@]]  | [[+]]   | [[(]]    | [[=]] | [[$]]      |
 
-| Papers | Books | People | YouTube | Articles | Atomic Notes | Conference |
-| ------ | ----- | ------ | ------- | -------- | -------- | ---------- |
-| [[!]]  | [[{]] | [[@]]  | [[+]]   | [[(]]    | [[=]]    |    [[$]]        |
+Outputs
+| Manuscript | Presentation |
+| ---------- | ------------ |
+| [[&]]|    [[%]]|
 
-unused: `)};'&%`
+unused: `)};'%`
 
 
 

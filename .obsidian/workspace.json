@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2a2797e101919ac1",
+        "id": "c882e216312c7489",
         "type": "tabs",
         "children": [
           {
-            "id": "9de96b44bc48d08a",
+            "id": "acbe2322624aad18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/= EAG - MOC.md",
+                "file": "Inbox/% 병원보 - 어깨의 운동치료.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 224.50403594970703
   },
   "right": {
     "id": "c3d1ec123b944f56",
@@ -96,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/= EAG - MOC.md",
+                "file": "Inbox/% 병원보 - 어깨의 운동치료.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -119,7 +118,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0000000000000022,
+                  "scale": 0.36288736930121274,
                   "close": true
                 }
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/= EAG - MOC.md",
+                "file": "Inbox/% 병원보 - 어깨의 운동치료.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/= EAG - MOC.md",
+                "file": "Inbox/% 병원보 - 어깨의 운동치료.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/= EAG - MOC.md"
+                "file": "Inbox/% 병원보 - 어깨의 운동치료.md"
               }
             }
           }
@@ -198,20 +197,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9de96b44bc48d08a",
+  "active": "acbe2322624aad18",
   "lastOpenFiles": [
-    "Inbox/EAG presentations.md",
-    "Inbox/= EAG - MOC.md",
-    "Inbox/= EAG - Data Analysis.md",
-    "Inbox/= EAG - Methodology.md",
-    "Inbox/= EAG - potentials.md",
-    "Inbox/= EAG - cell biology.md",
-    "Dataview/INDEX.md",
-    "Dataview/Tag Taxonomy.md",
-    "Utility/⌨️Hotkeys.md",
-    "Dataview/✏️ Workbench.md"
+    "Inbox/오십견치료 가이드라인.md",
+    "Inbox/% 병원보 - 어깨의 운동치료.md",
+    "Template/Presentation.md",
+    "Template/Conference.md",
+    "Template/Article.md",
+    "Inbox/% 0208 PRML lab meeting.md",
+    "Inbox/& EAG - draft.md",
+    "Template/Youtube.md",
+    "Template/Person.md",
+    "Template/Paper.md"
   ]
 }

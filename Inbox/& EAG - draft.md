@@ -1,6 +1,6 @@
 
--   `Title:` [[EAG - draft]]
--   `Type:` [[=]]
+-   `Title:` [[& EAG - draft]]
+-   `Type:` [[&]]
 -   `Tags:` #🧠️/📝️/🌞️ 
 -   `Formation Date:` [[2023-02-01]]
 ---
