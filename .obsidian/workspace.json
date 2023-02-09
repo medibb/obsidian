@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Presentation.md",
+                "file": "Inbox/% 병원보 - 어깨의 운동치료.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Template/Presentation.md",
+                "file": "Inbox/% 병원보 - 어깨의 운동치료.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Presentation.md",
+                "file": "Inbox/% 병원보 - 어깨의 운동치료.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Presentation.md",
+                "file": "Inbox/% 병원보 - 어깨의 운동치료.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Presentation.md"
+                "file": "Inbox/% 병원보 - 어깨의 운동치료.md"
               }
             }
           }
@@ -203,15 +203,15 @@
   },
   "active": "acbe2322624aad18",
   "lastOpenFiles": [
-    "Template/Conference.md",
+    "Inbox/오십견치료 가이드라인.md",
     "Inbox/% 병원보 - 어깨의 운동치료.md",
+    "Template/Presentation.md",
+    "Template/Conference.md",
     "Template/Article.md",
     "Inbox/% 0208 PRML lab meeting.md",
     "Inbox/& EAG - draft.md",
-    "Template/Presentation.md",
     "Template/Youtube.md",
     "Template/Person.md",
-    "Template/Paper.md",
-    "Template/Manuscript.md"
+    "Template/Paper.md"
   ]
 }
