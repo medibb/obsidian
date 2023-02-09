@@ -22,12 +22,13 @@
 # Microsoft
 ## Windows Explorer
 - Ctrl + Shift + n : 새폴더 생성
-- F2 : 이름바꾸기 (Tab 하면 이동)
+- F2 : 이름바꾸기 
+	- Tab 하면 이동
 - Alt + ⬆️: 한 계층 위로 이동
 - Alt + ⬅️: 직전에 열린 폴더로 이동
-- Alt + Shift + d : 주소창으로 포커스
-- F4 : 주소창 목록보기
-- Alt + Shift + p : 내용 미리보기
+- F4 : 주소창 목록보기 
+	- Alt + Shift + d : 주소창으로 포커스
+- Alt + p : 내용 미리보기
 - Alt + Enter : 파일 속성 표시
 
 ## Word
