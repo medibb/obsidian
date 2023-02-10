@@ -33,7 +33,7 @@ resorptive phase를 radiograph 로 확인하는 그간의 semi-quantitative anal
 	- 최근 연구들에서 Grayscale histogram analysis  를 bias 를 줄이기 위한 방법으로 사용해 왔다.
 	- Semi-quantitative anslysis 들
 		- [[= Gartner classification]]
-		- 
+		- [[=Ultrasound classification]]
 ### 2.1 Related work
 	 Histogram analysis 를 사용했던 사전논문들
 	 semi-quantitative analysis 의 poor reliabilty 논문들
@@ -79,7 +79,7 @@ resorptive phase를 radiograph 로 확인하는 그간의 semi-quantitative anal
 - Clinical paramters : nRS, positive provocative test, capsular vs impinge sign
 - ultrasonographic paramters : grading system, shadow
 
-### 4.2. Data analysis ([[= EAG - Data Analysis]])
+### 4.2. Data analysis
 
 #### Data processing
  - Env: R
