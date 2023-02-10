@@ -14,6 +14,7 @@ Authors: Pieter Bas de Witte, Raymond A. van Adrichem, Jasmijn W. Selten, Jochem
 URL: http://link.springer.com/10.1007/s00330-016-4224-7
 Zotero Link: [de Witte 등 - 2016 - Radiological and clinical predictors of long-term .pdf](zotero://select/library/items/BRMUB89J)
 
+# cmt
 Many subjects have persisting shoulder complaints years after diagnosis, regardless of treatment."
 Blue Highlight [Page 1](zotero://open-pdf/library/items/BRMUB89J?page=1&annotation=9UG5N5JS)
 
@@ -22,7 +23,10 @@ Female gender, dominant arm involvement, bilateral disease, longer duration of s
 Yellow Highlight [Page 1](zotero://open-pdf/library/items/BRMUB89J?page=1&annotation=MFDTRFJC)
 
 [Page 1](zotero://open-pdf/library/items/BRMUB89J?page=1&annotation=MFDTRFJC)
+# img
 ![[Z/dewitteRadiologicalClinicalPredictors2016/MCH3UHST.png]]
+
+# cmt
 
 gartner example
 [Page 5](zotero://open-pdf/library/items/BRMUB89J?page=5&annotation=MCH3UHST)
@@ -38,8 +42,6 @@ Confirmatory to this, others have reported that symptoms and treatment outcome d
 Yellow Highlight [Page 8](zotero://open-pdf/library/items/BRMUB89J?page=8&annotation=JAF24QVY)
 
 [Page 8](zotero://open-pdf/library/items/BRMUB89J?page=8&annotation=JAF24QVY)
-
-
 🔗LINKS TO THIS PAGE
-[[= CT xray - MOC]]
-%% Import Date: 2023-02-10T11:28:25.625+09:00 %%
+
+%% Import Date: 2023-02-10T11:40:00.096+09:00 %%

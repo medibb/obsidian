@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Paper.md",
+                "file": "Inbox/= Gartner classification.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Template/Paper.md",
+                "file": "Inbox/= Gartner classification.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Paper.md",
+                "file": "Inbox/= Gartner classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Paper.md",
+                "file": "Inbox/= Gartner classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,17 +178,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Paper.md"
+                "file": "Inbox/= Gartner classification.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 283.5,
-    "collapsed": true
+    "width": 283.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,14 +204,14 @@
   "active": "acbe2322624aad18",
   "lastOpenFiles": [
     "Z/dewitteRadiologicalClinicalPredictors2016/dewitteRadiologicalClinicalPredictors2016.md",
+    "Template/Paper.md",
+    "Inbox/{{annotation.imageRelativePath}}.md",
     "Inbox/= Gartner classification.md",
     "Inbox/= CT xray - MOC.md",
-    "Template/Paper.md",
     "Dataview/Pasted image 20230201093840.png",
     "Z/dewitteRadiologicalClinicalPredictors2016/MCH3UHST.png",
     "Template/Article.md",
     "dewitteRadiologicalClinicalPredictors2016.md",
-    "Inbox/Untitled.md",
-    "Utility/⌨️Hotkeys.md"
+    "Inbox/Untitled.md"
   ]
 }

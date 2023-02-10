@@ -14,6 +14,7 @@ Authors: {{authors}}{{directors}}
 URL: {{url}}
 Zotero Link: {{pdfZoteroLink}}
 
+# cmt
 {% for annotation in annotations %}
 {%- if annotation.annotatedText -%}
 {{annotation.annotatedText}}"{% if annotation.color %}
@@ -22,8 +23,10 @@ Zotero Link: {{pdfZoteroLink}}
 {% endif %}
 {%- if annotation.imageRelativePath -%}
 
+# img
 ![[{{annotation.imageRelativePath}}]]
 
+# cmt
 {%- endif %}
 {% if annotation.comment %}
 {{annotation.comment}}
