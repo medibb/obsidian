@@ -21,20 +21,6 @@
           }
         ],
         "stacked": true
-      },
-      {
-        "id": "7cffef4fffacea78",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5aa713b439048643",
-            "type": "leaf",
-            "state": {
-              "type": "zdc-debug",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -218,15 +204,15 @@
   },
   "active": "acbe2322624aad18",
   "lastOpenFiles": [
-    "Inbox/Untitled.md",
     "Template/Paper.md",
     "Z/dewitteRadiologicalClinicalPredictors2016.md",
+    "Template/Article.md",
+    "dewitteRadiologicalClinicalPredictors2016.md",
+    "Inbox/Untitled.md",
     "Inbox/= Gartner classification.md",
     "Inbox/= CT xray - MOC.md",
     "Utility/⌨️Hotkeys.md",
     "Inbox/% 병원보 - 어깨의 운동치료.md",
-    "Inbox/오십견치료 가이드라인.md",
-    "Template/Presentation.md",
-    "Template/Conference.md"
+    "Inbox/오십견치료 가이드라인.md"
   ]
 }
