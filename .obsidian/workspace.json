@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/= Gartner classification.md",
+                "file": "Z/dewitteRadiologicalClinicalPredictors2016.md",
                 "mode": "source",
                 "source": false
               }
@@ -21,6 +21,20 @@
           }
         ],
         "stacked": true
+      },
+      {
+        "id": "7cffef4fffacea78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5aa713b439048643",
+            "type": "leaf",
+            "state": {
+              "type": "zdc-debug",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/= Gartner classification.md",
+                "file": "Z/dewitteRadiologicalClinicalPredictors2016.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -138,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/= Gartner classification.md",
+                "file": "Z/dewitteRadiologicalClinicalPredictors2016.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/= Gartner classification.md",
+                "file": "Z/dewitteRadiologicalClinicalPredictors2016.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/= Gartner classification.md"
+                "file": "Z/dewitteRadiologicalClinicalPredictors2016.md"
               }
             }
           }
@@ -204,11 +218,11 @@
   },
   "active": "acbe2322624aad18",
   "lastOpenFiles": [
+    "Inbox/Untitled.md",
+    "Template/Paper.md",
     "Z/dewitteRadiologicalClinicalPredictors2016.md",
     "Inbox/= Gartner classification.md",
     "Inbox/= CT xray - MOC.md",
-    "Template/Paper.md",
-    "Inbox/Untitled.md",
     "Utility/⌨️Hotkeys.md",
     "Inbox/% 병원보 - 어깨의 운동치료.md",
     "Inbox/오십견치료 가이드라인.md",

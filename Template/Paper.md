@@ -2,68 +2,51 @@
 
 
 # **Title: [[<%tp.file.title%>]]**
-
-### Metadata:
--   `Type:`  [[!]]
--   `Author:`
-    -   `Notable Authors:`
--   `Keywords:`
--   `Specific Subject:`
--   `General Subject:`
--   `Publish Date:`
--   `Reviewed Date:` [[<%tp.date.now()%>]]
 ---
-  
 
-### Bibliographic information:
--   author:: {{author}}
-    -   notable_authors::
--   keywords:: {{Tags}}
--   specific_subject::
--   general_subject::
--   doi:: {{DOI}}
--   zotero_url:: {{localLibrary}}
--   publish_date::
--   reviewed_date::
--   {{dateAdded}}
--   collections:: {{collections}}
--   related:: {{related}}
--   pdf_attachments:: {{pdfAttachments}}
--   abstract_note:: {{abstractNote}}
+Year: {{date | format("YYYY")}}
+
+tags: zotero
+
+Authors: {{authors}}{{directors}}
+
 ---
-\autocite{papatheodorouUSShoulderRotator2006}
 
-## Summary
-  - Method&Result(s):
+​
 
-## Analysis:
+Title:: {{title}}
 
-## Context:
+URL: {{url}}
 
-(How this article relates to other work in the field; how it ties in with key issues and findings by others, including yourself)
+Zotero Link: {{pdfZoteroLink}}
 
-## Significance:
+​
 
-(to the field; in relation to your own work)
+{% for annotation in annotations %}
 
-## Important Figures and/or Tables:
+{%- if annotation.annotatedText -%}
 
-(brief description; page number)
+{{annotation.annotatedText}}"{% if annotation.color %}
 
-## Other Comments:
+{{annotation.colorCategory}} {{annotation.type | capitalize}} {% else %}
 
+{{annotation.type | capitalize}} {% endif %}[Page {{annotation.page}}](zotero://open-pdf/library/items/{{annotation.attachment.itemKey}}?page={{annotation.page}}&annotation={{annotation.id}})
 
+{% endif %}
 
-## Reference to explore
+{%- if annotation.imageRelativePath -%}
 
+![[{{annotation.imageRelativePath}}]]
 
-## Cited by
-```query
-abc -path:Inbox
-```
+{%- endif %}
 
+{% if annotation.comment %}
 
+{{annotation.comment}}
 
+{% endif %}[Page {{annotation.page}}](zotero://open-pdf/library/items/{{annotation.attachment.itemKey}}?page={{annotation.page}}&annotation={{annotation.id}})
+
+{% endfor -%}
 
 
 
