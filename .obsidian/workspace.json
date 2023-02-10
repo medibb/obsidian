@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utility/⌨️Hotkeys.md",
+                "file": "Template/Paper.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Utility/⌨️Hotkeys.md",
+                "file": "Template/Paper.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utility/⌨️Hotkeys.md",
+                "file": "Template/Paper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utility/⌨️Hotkeys.md",
+                "file": "Template/Paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utility/⌨️Hotkeys.md"
+                "file": "Template/Paper.md"
               }
             }
           }
@@ -202,17 +202,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "db5e2d821e05a9cc",
+  "active": "acbe2322624aad18",
   "lastOpenFiles": [
+    "Inbox/Untitled.md",
+    "Template/Paper.md",
+    "Utility/⌨️Hotkeys.md",
     "Inbox/= Gartner classification.md",
     "Inbox/= CT xray - MOC.md",
     "Inbox/% 병원보 - 어깨의 운동치료.md",
     "Inbox/오십견치료 가이드라인.md",
     "Template/Presentation.md",
     "Template/Conference.md",
-    "Template/Article.md",
-    "Inbox/% 0208 PRML lab meeting.md",
-    "Inbox/& EAG - draft.md",
-    "Template/Youtube.md"
+    "Template/Article.md"
   ]
 }

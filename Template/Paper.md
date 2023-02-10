@@ -31,6 +31,8 @@
 -   pdf_attachments:: {{pdfAttachments}}
 -   abstract_note:: {{abstractNote}}
 ---
+\autocite{papatheodorouUSShoulderRotator2006}
+
 ## Summary
   - Method&Result(s):
 
