@@ -1,7 +1,10 @@
 
 
 
+-   `Title:` [[<%tp.file.title%>]]
+
 ---
+
 Year: 2016
 tags: zotero
 Authors: Pieter Bas de Witte, Raymond A. van Adrichem, Jasmijn W. Selten, Jochem Nagels, M. Reijnierse, Rob G. H. H. Nelissen
@@ -19,6 +22,10 @@ Female gender, dominant arm involvement, bilateral disease, longer duration of s
 Yellow Highlight [Page 1](zotero://open-pdf/library/items/BRMUB89J?page=1&annotation=MFDTRFJC)
 
 [Page 1](zotero://open-pdf/library/items/BRMUB89J?page=1&annotation=MFDTRFJC)
+![[Z/dewitteRadiologicalClinicalPredictors2016/MCH3UHST.png]]
+
+gartner example
+[Page 5](zotero://open-pdf/library/items/BRMUB89J?page=5&annotation=MCH3UHST)
 For the Gärtner classification,there was only moderate agreement (Kappa 0.47)"
 Yellow Highlight [Page 8](zotero://open-pdf/library/items/BRMUB89J?page=8&annotation=ZDP3TCU9)
 
@@ -31,6 +38,8 @@ Confirmatory to this, others have reported that symptoms and treatment outcome d
 Yellow Highlight [Page 8](zotero://open-pdf/library/items/BRMUB89J?page=8&annotation=JAF24QVY)
 
 [Page 8](zotero://open-pdf/library/items/BRMUB89J?page=8&annotation=JAF24QVY)
-🔗LINKS TO THIS PAGE
 
-%% Import Date: 2023-02-10T11:21:18.365+09:00 %%
+
+🔗LINKS TO THIS PAGE
+[[= CT xray - MOC]]
+%% Import Date: 2023-02-10T11:28:25.625+09:00 %%
