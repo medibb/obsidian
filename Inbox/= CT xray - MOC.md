@@ -12,8 +12,9 @@ This is the MOC about CT-xray; calcific tendinitis radiographic analysis
 
 spartial heterogenicity analysis  를 하는 것
 
+### 1.1 Objectives
 resorptive phase를 radiograph 로 확인하는 그간의 semi-quantitative analysis 들에 대해서 정량적인 분석을 시행하겠다.
-
+석회성건염의 진단적 가치까지 알아보겠다.
 
 ---
 ## 2.  # Background knowledge
@@ -23,14 +24,16 @@ resorptive phase를 radiograph 로 확인하는 그간의 semi-quantitative anal
 	- utoff? 등이 제시한 cycle 이 있으며
 	- 석회의 기전은 mechanical induced, overuse 등에 의한 변화라는 내용(BMP 연구 관련)
 	- 대개의 통증의 양상 -> resorptive phase 에 아프다 - resorptive phase 에는 synovitis & bursitis 둘다 만들 수 있겠다. 주로 tendinitis & bursitis 를 만들지 않을까 - [[= calcific tendinitis - pain generation]]
-	- 
+	
 - Radiograph 의 사용
 	- m/c, cost effective, impinge series 로 촬영하는 것이 중요, caudal tilt 30도 / axial 만 사용하였다.
 	- 
 - Grayscale anlaysis 의 사용
 	- 정량적인 분석을 위해 사용했다.
 	- 최근 연구들에서 Grayscale histogram analysis  를 bias 를 줄이기 위한 방법으로 사용해 왔다.
-	- 
+	- Semi-quantitative anslysis 들
+		- [[= Gartner classification]]
+		- 
 ### 2.1 Related work
 	 Histogram analysis 를 사용했던 사전논문들
 	 semi-quantitative analysis 의 poor reliabilty 논문들
