@@ -57,3 +57,8 @@
 - 전달 f
 - 커서를 툴바로 ,
 - 마지막작업 취소 z
+
+
+
+# Zotero
+Lee, Jae H., Keewon Kim와/과Sun G. Chung. “Intra‐articular Pressure Characteristics of the Knee Joint: An Exploratory Study”. _Journal of Orthopaedic Research_ 40, 호 9 (2022년 9월): 2015–24. [https://doi.org/10.1002/jor.25236](https://doi.org/10.1002/jor.25236).
