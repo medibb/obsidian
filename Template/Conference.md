@@ -1,6 +1,6 @@
   
 -   `Title:` [[<%tp.file.title%>]]
--   `Type:` [[$]]
+-   `Type:` [[;]]
 -   `Tags:`
 -   `organizer:`   
 -   `meeting Date:` 

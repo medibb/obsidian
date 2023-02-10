@@ -27,4 +27,4 @@ cartilage 혹은 synovium 에 있는 mechanoreceptor / electricity receptor / OA
 
 
 🔗LINKS TO THIS PAGE
-[[= EAG - MOC]]
+[[$ EAG - MOC]]

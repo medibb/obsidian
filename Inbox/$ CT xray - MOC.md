@@ -1,6 +1,6 @@
 
--   `Title:` [[= CT xray - MOC]]
--   `Type:` [[=]]
+-   `Title:` [[$ CT xray - MOC]]
+-   `Type:` [[$]]
 -   `Tags:` #🧠️/📝️/🌱️ 
 -   `Formation Date:` [[2023-02-10]]
 ---

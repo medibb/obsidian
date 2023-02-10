@@ -18,5 +18,5 @@ Gartner's article:
 \autocite{dewitteRadiologicalClinicalPredictors2016}
 
 🔗LINKS TO THIS PAGE
-[[= CT xray - MOC]]
+[[$ CT xray - MOC]]
 [[dewitteRadiologicalClinicalPredictors2016]]

@@ -14,4 +14,4 @@
 
 
 🔗LINKS TO THIS PAGE
-[[= CT xray - MOC]]
+[[$ CT xray - MOC]]

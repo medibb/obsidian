@@ -1,6 +1,3 @@
-
-
-
 #### Taxonomy
 
 -   📥️ Seed box | Inputs | items that i am / will be actively working on
@@ -48,7 +45,7 @@
 INPUTs
 | Papers | Books | People | YouTube | Articles | Conference |  
 | ------ | ----- | ------ | ------- | -------- | ---------- | 
-| [[!]]  | [[{]] | [[@]]  | [[+]]   | [[(]]    | [[$]]      |
+| [[!]]  | [[{]] | [[@]]  | [[+]]   | [[(]]    | [[;]]      |
 
 Development
 | Notes | |
@@ -58,9 +55,9 @@ Development
 Outputs
 | Manuscript | Presentation | MOC |
 | ---------- | ------------ | ----------------- |
-| [[&]]      | [[%]]        | [[]]             |
+| [[&]]      | [[%]]        | [[$]]             |
 
-unused: `)};'`
+unused: `)}`
 
 
 

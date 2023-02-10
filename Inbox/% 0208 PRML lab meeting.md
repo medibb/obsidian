@@ -61,4 +61,4 @@
 
 
 🔗LINKS TO THIS PAGE
-[[= EAG - MOC]]
+[[$ EAG - MOC]]
