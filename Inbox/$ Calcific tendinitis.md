@@ -8,12 +8,14 @@
 
 ---
 
+## Works
+- [[$ CT xray - MOC]]
 
 ## definition
 
 ## Prognosis
 
-
+![[linCalcifiedPlaqueResorptive2012#cmt]]
 
 
 

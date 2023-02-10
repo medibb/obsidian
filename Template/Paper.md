@@ -32,7 +32,3 @@ Zotero Link: {{pdfZoteroLink}}
 {{annotation.comment}}
 {% endif %}[Page {{annotation.page}}](zotero://open-pdf/library/items/{{annotation.attachment.itemKey}}?page={{annotation.page}}&annotation={{annotation.id}})
 {% endfor -%}
-
-
-
-🔗LINKS TO THIS PAGE

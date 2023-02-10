@@ -34,6 +34,7 @@ resorptive phase를 radiograph 로 확인하는 그간의 semi-quantitative anal
 	- Semi-quantitative anslysis 들
 		- [[= Gartner classification]]
 		- [[=CT USG classification]]
+		- classification 에 대해 문장으로 잘 정리된 논문: [[linCalcifiedPlaqueResorptive2012]] 의 서론
 ### 2.1 Related work
 	 Histogram analysis 를 사용했던 사전논문들
 	 semi-quantitative analysis 의 poor reliabilty 논문들
