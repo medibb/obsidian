@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/= Gartner classification.md",
+                "file": "Utility/⌨️Hotkeys.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/= Gartner classification.md",
+                "file": "Utility/⌨️Hotkeys.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/= Gartner classification.md",
+                "file": "Utility/⌨️Hotkeys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/= Gartner classification.md",
+                "file": "Utility/⌨️Hotkeys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/= Gartner classification.md"
+                "file": "Utility/⌨️Hotkeys.md"
               }
             }
           }
@@ -206,6 +206,7 @@
   },
   "active": "acbe2322624aad18",
   "lastOpenFiles": [
+    "Inbox/= Gartner classification.md",
     "Inbox/= CT xray - MOC.md",
     "Inbox/% 병원보 - 어깨의 운동치료.md",
     "Inbox/오십견치료 가이드라인.md",
@@ -214,7 +215,6 @@
     "Template/Article.md",
     "Inbox/% 0208 PRML lab meeting.md",
     "Inbox/& EAG - draft.md",
-    "Template/Youtube.md",
-    "Template/Person.md"
+    "Template/Youtube.md"
   ]
 }
