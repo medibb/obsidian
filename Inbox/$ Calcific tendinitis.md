@@ -13,6 +13,10 @@
 
 ## definition
 
+## Review articles
+\{merollaCalcificTendinitisRotator2016}
+
+
 ## Prognosis
 
 ![[linCalcifiedPlaqueResorptive2012#cmt]]
