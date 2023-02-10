@@ -6,7 +6,9 @@
 ---
 
 # Farin
-
+(1) hyperechoic focus with a well-defined shadow, 
+(2) hyperechoic focus with a faint shadow, and 
+(3) hyperechoic focus with no shadow
 
 # ff
 

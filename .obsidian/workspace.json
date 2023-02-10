@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/$ Calcific tendinitis.md",
+                "file": "Inbox/=CT USG classification.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/$ Calcific tendinitis.md",
+                "file": "Inbox/=CT USG classification.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/$ Calcific tendinitis.md",
+                "file": "Inbox/=CT USG classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/$ Calcific tendinitis.md",
+                "file": "Inbox/=CT USG classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/$ Calcific tendinitis.md"
+                "file": "Inbox/=CT USG classification.md"
               }
             }
           }
@@ -212,17 +212,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5df96589fb02c920",
+  "active": "d6461aeb7eef223c",
   "lastOpenFiles": [
-    "Z/linCalcifiedPlaqueResorptive2012/linCalcifiedPlaqueResorptive2012.md",
-    "Inbox/$ Calcific tendinitis.md",
     "Inbox/$ CT xray - MOC.md",
+    "Z/linCalcifiedPlaqueResorptive2012/linCalcifiedPlaqueResorptive2012.md",
+    "Inbox/=CT USG classification.md",
+    "Inbox/$ Calcific tendinitis.md",
     "Template/Paper.md",
     "Inbox/= Gartner classification.md",
     "Inbox/$ EAG - MOC.md",
     "Dataview/💳️ Kanban.md",
     "Template/MOC.md",
-    "Inbox/Untitled.md",
-    "Inbox/Map Of Content.md"
+    "Inbox/Untitled.md"
   ]
 }
