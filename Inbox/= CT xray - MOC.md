@@ -33,7 +33,7 @@ resorptive phase를 radiograph 로 확인하는 그간의 semi-quantitative anal
 	- 최근 연구들에서 Grayscale histogram analysis  를 bias 를 줄이기 위한 방법으로 사용해 왔다.
 	- Semi-quantitative anslysis 들
 		- [[= Gartner classification]]
-		- [[=Ultrasound classification]]
+		- [[=CT USG classification]]
 ### 2.1 Related work
 	 Histogram analysis 를 사용했던 사전논문들
 	 semi-quantitative analysis 의 poor reliabilty 논문들
