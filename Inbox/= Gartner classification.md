@@ -1,7 +1,7 @@
 
 -   `Title:` [[= Gartner classification]]
 -   `Type:` [[=]]
--   `Tags:` #🧠️/📝️/🌞️  #🚹 
+-   `Tags:` #🧠️/📝️/🌿️   #🚹 
 -   `Formation Date:` [[2023-02-10]]
 ---
 Type I Well demarcated, dense 

@@ -46,16 +46,21 @@
 ---
 
 INPUTs
-| Papers | Books | People | YouTube | Articles | Notes | Conference |  
-| ------ | ----- | ------ | ------- | -------- | ----- | ---------- | 
-| [[!]]  | [[{]] | [[@]]  | [[+]]   | [[(]]    | [[=]] | [[$]]      |
+| Papers | Books | People | YouTube | Articles | Conference |  
+| ------ | ----- | ------ | ------- | -------- | ---------- | 
+| [[!]]  | [[{]] | [[@]]  | [[+]]   | [[(]]    | [[$]]      |
+
+Development
+| Notes | |
+| ----- |----|
+| [[=]] ||
 
 Outputs
-| Manuscript | Presentation |
-| ---------- | ------------ |
-| [[&]]|    [[%]]|
+| Manuscript | Presentation | MOC |
+| ---------- | ------------ | ----------------- |
+| [[&]]      | [[%]]        | [[]]             |
 
-unused: `)};'%`
+unused: `)};'`
 
 
 

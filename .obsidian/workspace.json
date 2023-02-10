@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#🧠️/📝️/🌞️",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -203,15 +203,15 @@
   },
   "active": "73d5dcc3d56fe670",
   "lastOpenFiles": [
-    "Dataview/(.md",
-    "Inbox/( Myotendinous junction.md",
-    "Inbox/% 병원보 - 어깨의 운동치료.md",
-    "Inbox/% 0208 PRML lab meeting.md",
-    "Inbox/& EAG - draft.md",
+    "Utility/🕓️ Timeline.md",
     "Inbox/= CT xray - MOC.md",
-    "Template/Notes.md",
-    "Template/Paper.md",
-    "Inbox/=CT USG classification.md",
-    "Inbox/= Gartner classification.md"
+    "Inbox/@ Bianca.md",
+    "Inbox/( Myotendinous junction.md",
+    "Dataview/💳️ Kanban.md",
+    "Inbox/= Gartner classification.md",
+    "Dataview/Tag Taxonomy.md",
+    "Dataview/(.md",
+    "Inbox/% 병원보 - 어깨의 운동치료.md",
+    "Inbox/% 0208 PRML lab meeting.md"
   ]
 }
