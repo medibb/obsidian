@@ -11,8 +11,12 @@
             "id": "d6461aeb7eef223c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Z/sconfienzaRotatorCuffCalcific2012/sconfienzaRotatorCuffCalcific2012.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -21,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z/sconfienzaRotatorCuffCalcific2012/sconfienzaRotatorCuffCalcific2012.md",
+                "file": "Template/Paper.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Z/sconfienzaRotatorCuffCalcific2012/sconfienzaRotatorCuffCalcific2012.md",
+                "file": "Template/Paper.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -147,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z/sconfienzaRotatorCuffCalcific2012/sconfienzaRotatorCuffCalcific2012.md",
+                "file": "Template/Paper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z/sconfienzaRotatorCuffCalcific2012/sconfienzaRotatorCuffCalcific2012.md",
+                "file": "Template/Paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z/sconfienzaRotatorCuffCalcific2012/sconfienzaRotatorCuffCalcific2012.md"
+                "file": "Template/Paper.md"
               }
             }
           }

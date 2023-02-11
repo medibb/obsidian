@@ -8,9 +8,10 @@
 Year: 2016
 tags: zotero
 Authors: Pieter Bas de Witte, Raymond A. van Adrichem, Jasmijn W. Selten, Jochem Nagels, M. Reijnierse, Rob G. H. H. Nelissen
+
 ---
 
-# Title:: Radiological and clinical predictors of long-term outcome in rotator cuff calcific tendinitis
+Title: Radiological and clinical predictors of long-term outcome in rotator cuff calcific tendinitis
 URL: http://link.springer.com/10.1007/s00330-016-4224-7
 Zotero Link: [de Witte 등 - 2016 - Radiological and clinical predictors of long-term .pdf](zotero://select/library/items/BRMUB89J)
 
