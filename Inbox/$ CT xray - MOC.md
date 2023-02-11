@@ -75,12 +75,17 @@ resorptive phase를 radiograph 로 확인하는 그 간의 semi-quantitative ana
 - 해당 정량적 분석이 임상증상 혹은 초음파 분석과 상관이 있는지 알아보겠다.
 - resorptive phase 을 radiograph에서 더 잘 확인해보겠다.
 	- 배경: bursal rupture, very cloudy shape 은 resorptive phase 로 생각되고, acute pain 을 보이며 lavage 가 잘되고 short term resolution 을 보임
-	- 예외 1; AP혹은 axial 1가지 뷰에서는 well defined 로 보이더라도 lavage가 잘되며 흡수가 잘되는 resorptive phase 가 있음
-		- 가설1 : 다른 뷰에서는 poly-morphic 하거나 translucent 함
-		- 가설2 : tendon이 bursal area 근처에 가면 구조적인 barrier 혹은 압력의 증가로 well defined 된 모습으로 보일 수 있음 + 석회 양이 많으면서 갇혀 있으면 모양이 sharp 하면서 radiopaque 할 수 있음
-	- 예외 2; farin 의 연구에서 radiological poorly defined 이면서도 sharp shadow 를 보이는 석회가 많았음
-		- 가설1: 석회 양이 많으면 shadow 가 보임?
-	- 
+	- 예외 1( pseudo formative in radiology); AP혹은 axial 1가지 뷰에서는 well defined 로 보이더라도 lavage가 잘되며 흡수가 잘되는 resorptive phase 가 있음
+		- 가설1 (view의 문제): 다른 뷰에서는 poly-morphic 하거나 translucent 함
+		- 가설2 (wrapped in 문제): tendon이 bursal area 근처에 가면 구조적인 barrier 혹은 압력의 증가로 well defined 된 모습으로 보일 수 있음 + 석회 양이 많으면서 갇혀 있으면 모양이 sharp 하면서 radiopaque 할 수 있음
+	- 예외 2 ( pseudo formative in ultrasound ); farin 의 연구에서 radiological poorly defined 이면서도 sharp shadow 를 보이는 석회가 많았음
+		- 가설1 (석회 양의 문제): 석회 양이 많으면 shadow 가 보이거나, 
+		- 가설2 (점도의 문제): 아직 점도가 매우 낮은 말라있는 석회이다.
+		- 이러한 경우도 lavage가 잘됨, 되고 나면 역시 calcific wall 만 남음. 다만 석회가 active 하게 나오는데 시간이 오래 걸리는 경우가 있음 -> 시간이 오래걸리는것은 바늘과 수압으로 crush 되면서? 아니면 물리적으로 안에 있는 석회의 점도가 점차 낮아 지면서 나오는 것? - 석회가 나올때 까지 걸린 시간에 대한 과학적 측정이 필요하겠다.
+	- 예외 3 (pseudo resorptive in radiograph); pooly defined 해보임
+		- 가설1 : tendon을 따라서 linear resorption 이 일어난 것으로 해석? - bursa에 퍼지면 linear 할것이고 linear 석회는 larvage도 안됨 결국 유전자등의원인으로 발생한 석회일것
+		- 이 경우 통증도 만들어진 충돌 혹은 힘줄의 역학 변경 때문일 것
+	- 예외 4 (pseudo resorptive in USG): radiograph와 같은 경우일 것으로 생각됨. 한곳에 모여있고 그림자도 없는데 잘 안나오는경우? 있긴 있음..
 
 
 ### 3.2. Expecting findings
