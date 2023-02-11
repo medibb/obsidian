@@ -1,4 +1,3 @@
-  
 -   `Title:` [[<%tp.file.title%>]]
 -   `Type:` [[$]]
 -   `Tags:`
