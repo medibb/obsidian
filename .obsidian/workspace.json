@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Paper.md",
+                "file": "Z/sconfienzaRotatorCuffCalcific2012/sconfienzaRotatorCuffCalcific2012.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Template/Paper.md",
+                "file": "Z/sconfienzaRotatorCuffCalcific2012/sconfienzaRotatorCuffCalcific2012.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Paper.md",
+                "file": "Z/sconfienzaRotatorCuffCalcific2012/sconfienzaRotatorCuffCalcific2012.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Paper.md",
+                "file": "Z/sconfienzaRotatorCuffCalcific2012/sconfienzaRotatorCuffCalcific2012.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Paper.md"
+                "file": "Z/sconfienzaRotatorCuffCalcific2012/sconfienzaRotatorCuffCalcific2012.md"
               }
             }
           }
@@ -211,15 +211,15 @@
   },
   "active": "160d85f058ed11d1",
   "lastOpenFiles": [
-    "Z/linCalcifiedPlaqueResorptive2012/linCalcifiedPlaqueResorptive2012.md",
-    "Template/Paper.md",
-    "Z/farinSonographicFindingsRotator1995/farinSonographicFindingsRotator1995.md",
     "Z/dewitteRadiologicalClinicalPredictors2016/dewitteRadiologicalClinicalPredictors2016.md",
+    "Z/sconfienzaRotatorCuffCalcific2012/sconfienzaRotatorCuffCalcific2012.md",
+    "Template/Paper.md",
+    "Z/linCalcifiedPlaqueResorptive2012/linCalcifiedPlaqueResorptive2012.md",
+    "Z/farinSonographicFindingsRotator1995/farinSonographicFindingsRotator1995.md",
     "Inbox/=CT USG classification.md",
     "Inbox/$ CT xray - MOC.md",
     "Inbox/$ Calcific tendinitis.md",
     "Inbox/= Gartner classification.md",
-    "Inbox/$ EAG - MOC.md",
-    "Dataview/💳️ Kanban.md"
+    "Inbox/$ EAG - MOC.md"
   ]
 }
