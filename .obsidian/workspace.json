@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/=CT USG classification.md",
+                "file": "Inbox/$ CT xray - MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/=CT USG classification.md",
+                "file": "Inbox/$ CT xray - MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/=CT USG classification.md",
+                "file": "Inbox/$ CT xray - MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/=CT USG classification.md",
+                "file": "Inbox/$ CT xray - MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/=CT USG classification.md"
+                "file": "Inbox/$ CT xray - MOC.md"
               }
             }
           }
@@ -215,8 +215,8 @@
   },
   "active": "aa538813a4bb9fa6",
   "lastOpenFiles": [
-    "Z/farinSonographicFindingsRotator1995/farinSonographicFindingsRotator1995.md",
     "Inbox/=CT USG classification.md",
+    "Z/farinSonographicFindingsRotator1995/farinSonographicFindingsRotator1995.md",
     "Template/Paper.md",
     "Inbox/$ CT xray - MOC.md",
     "Inbox/= Gartner classification.md",

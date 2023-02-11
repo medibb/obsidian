@@ -73,6 +73,14 @@ resorptive phase를 radiograph 로 확인하는 그 간의 semi-quantitative ana
 
 - poor reliability 를 보이는 분석 방법에 대해서 정량적인 분석을 하겠다. 
 - 해당 정량적 분석이 임상증상 혹은 초음파 분석과 상관이 있는지 알아보겠다.
+- resorptive phase 을 radiograph에서 더 잘 확인해보겠다.
+	- 배경: bursal rupture, very cloudy shape 은 resorptive phase 로 생각되고, acute pain 을 보이며 lavage 가 잘되고 short term resolution 을 보임
+	- 예외 1; AP혹은 axial 1가지 뷰에서는 well defined 로 보이더라도 lavage가 잘되며 흡수가 잘되는 resorptive phase 가 있음
+		- 가설1 : 다른 뷰에서는 poly-morphic 하거나 translucent 함
+		- 가설2 : tendon이 bursal area 근처에 가면 구조적인 barrier 혹은 압력의 증가로 well defined 된 모습으로 보일 수 있음 + 석회 양이 많으면서 갇혀 있으면 모양이 sharp 하면서 radiopaque 할 수 있음
+	- 예외 2; farin 의 연구에서 radiological poorly defined 이면서도 sharp shadow 를 보이는 석회가 많았음
+		- 가설1: 석회 양이 많으면 shadow 가 보임?
+	- 
 
 
 ### 3.2. Expecting findings
