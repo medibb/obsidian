@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Paper.md",
+                "file": "Dataview/Tag Taxonomy.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Template/Paper.md",
+                "file": "Dataview/Tag Taxonomy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Paper.md",
+                "file": "Dataview/Tag Taxonomy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Paper.md",
+                "file": "Dataview/Tag Taxonomy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Paper.md"
+                "file": "Dataview/Tag Taxonomy.md"
               }
             }
           }
@@ -202,13 +202,13 @@
   },
   "active": "d6461aeb7eef223c",
   "lastOpenFiles": [
-    "Z/sconfienzaRotatorCuffCalcific2012/sconfienzaRotatorCuffCalcific2012.md",
     "Inbox/=CT USG classification.md",
     "Inbox/$ CT xray - MOC.md",
     "Z/dewitteRadiologicalClinicalPredictors2016/dewitteRadiologicalClinicalPredictors2016.md",
+    "Template/Paper.md",
+    "Z/sconfienzaRotatorCuffCalcific2012/sconfienzaRotatorCuffCalcific2012.md",
     "Z/farinSonographicFindingsRotator1995/farinSonographicFindingsRotator1995.md",
     "Z/linCalcifiedPlaqueResorptive2012/linCalcifiedPlaqueResorptive2012.md",
-    "Template/Paper.md",
     "Z/sconfienzaRotatorCuffCalcific2012/9UBAUM7V.png",
     "Inbox/$ Calcific tendinitis.md",
     "Inbox/= Gartner classification.md"

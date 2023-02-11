@@ -13,7 +13,7 @@ This is the MOC about CT-xray; calcific tendinitis radiographic analysis
 spartial heterogenicity analysis  를 하는 것
 
 ### 1.1 Objectives
-resorptive phase를 radiograph 로 확인하는 그간의 semi-quantitative analysis 들에 대해서 정량적인 분석을 시행하겠다.
+resorptive phase를 radiograph 로 확인하는 그 간의 semi-quantitative analysis 들에 대해서 정량적인 분석을 시행하겠다.
 석회성건염의 진단적 가치까지 알아보겠다.
 
 ---

@@ -21,10 +21,12 @@ Green Highlight [Page 4](zotero://open-pdf/library/items/MF2ND8LY?page=4&annotat
 # img
 ![[Z/sconfienzaRotatorCuffCalcific2012/9UBAUM7V.png]]
 
+# text
+
 Multivariate analysis revealed that no association was found between variation in VAS score and calcification appearance at US"
 Green Highlight [Page 5](zotero://open-pdf/library/items/MF2ND8LY?page=5&annotation=I3SGQHUF)
 
 
 
 
-%% Import Date: 2023-02-11T14:25:43.452+09:00 %%
+%% Import Date: 2023-02-11T14:32:25.242+09:00 %%
