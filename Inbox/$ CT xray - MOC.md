@@ -33,7 +33,24 @@ resorptive phase를 radiograph 로 확인하는 그 간의 semi-quantitative ana
 	- Semi-quantitative anslysis 들
 		- [[= Gartner classification]]
 		- [[=CT USG classification]]
-		- classification 에 대해 문장으로 잘 정리된 논문: [[linCalcifiedPlaqueResorptive2012]] 의 서론
+		- classification 에 대해 문장으로 잘 정리된 논문: [[linCalcifiedPlaqueResorptive2012]] 의 서론:
+		   Gärtner and Heyer studied 235 calcific deposits 
+		   type I (dense appearance an clearly circumscribed)
+		   type II (translucent and cloudy without clear circumscription)
+		   type III (without a specific morphology). 
+		   
+		   The French Society of Arthroscopy defines rotator cuff calcifications by appearance on X-ray as 
+		   type A (homogenous, well-defined limits)
+		   type B (heterogenous, fragmented, well-defined limits)
+		   type C (heterogenous, poorly defined limits) 
+		   type D (dystrophic pattern)
+		   
+		   Farin and Jaroma described three types of calcifications found with ultrasound: 
+		   (1) hyperechoic focus with a well-defined shadow
+		   (2) hyperechoic focus with a faint shadow
+		   (3) hyperechoic focus with no shadow
+	- USG의 faint shadow와 x-ray poorly defined는 일치하지 않는다.
+	  ![[farinSonographicFindingsRotator1995#img]]
 ### 2.1 Related work
 	 Histogram analysis 를 사용했던 사전논문들
 	 semi-quantitative analysis 의 poor reliabilty 논문들

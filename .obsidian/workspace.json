@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z/linCalcifiedPlaqueResorptive2012/linCalcifiedPlaqueResorptive2012.md",
+                "file": "Inbox/=CT USG classification.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Z/linCalcifiedPlaqueResorptive2012/linCalcifiedPlaqueResorptive2012.md",
+                "file": "Inbox/=CT USG classification.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -131,7 +131,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224438,
+                  "scale": 1.4019828977761069,
                   "close": true
                 }
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z/linCalcifiedPlaqueResorptive2012/linCalcifiedPlaqueResorptive2012.md",
+                "file": "Inbox/=CT USG classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z/linCalcifiedPlaqueResorptive2012/linCalcifiedPlaqueResorptive2012.md",
+                "file": "Inbox/=CT USG classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z/linCalcifiedPlaqueResorptive2012/linCalcifiedPlaqueResorptive2012.md"
+                "file": "Inbox/=CT USG classification.md"
               }
             }
           }
@@ -215,15 +215,15 @@
   },
   "active": "aa538813a4bb9fa6",
   "lastOpenFiles": [
+    "Z/farinSonographicFindingsRotator1995/farinSonographicFindingsRotator1995.md",
+    "Inbox/=CT USG classification.md",
+    "Template/Paper.md",
     "Inbox/$ CT xray - MOC.md",
+    "Inbox/= Gartner classification.md",
+    "Z/linCalcifiedPlaqueResorptive2012/linCalcifiedPlaqueResorptive2012.md",
     "Template/MOC.md",
     "Inbox/Untitled.md",
-    "Z/farinSonographicFindingsRotator1995/farinSonographicFindingsRotator1995.md",
     "Dataview/Tag Taxonomy.md",
-    "Inbox/=CT USG classification.md",
-    "Z/dewitteRadiologicalClinicalPredictors2016/dewitteRadiologicalClinicalPredictors2016.md",
-    "Template/Paper.md",
-    "Z/sconfienzaRotatorCuffCalcific2012/sconfienzaRotatorCuffCalcific2012.md",
-    "Z/linCalcifiedPlaqueResorptive2012/linCalcifiedPlaqueResorptive2012.md"
+    "Z/dewitteRadiologicalClinicalPredictors2016/dewitteRadiologicalClinicalPredictors2016.md"
   ]
 }

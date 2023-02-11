@@ -13,6 +13,12 @@ but classification into a formative or resorptive phase could not be done."
 Green Highlight [Page 1](zotero://open-pdf/library/items/D97JCVZJ?page=1&annotation=FFRS9XJD)
 
 
+Type I: a large deposit or deposits (diameter over 1 em) in the cuff or in the bursa (Fig. 1); type II: several small scattered calcifications (Fig. 4); type ill: only a few small deposits (Fig. 5)."
+Yellow Highlight [Page 4](zotero://open-pdf/library/items/D97JCVZJ?page=4&annotation=BVYV29LI)
+
+
+크기에 따라서 분류함. 추 후 type 1, 즉 1cm 이상의 크기 석회에서 초음파와 xray 를 비교함
+
 when analyzing radiographic and sonographic findings, we found no statistically significant correlation between poorly defined calcifications on plain films and calcifications without shadow on sonograms"
 Yellow Highlight [Page 5](zotero://open-pdf/library/items/D97JCVZJ?page=5&annotation=DFT29HZQ)
 
@@ -36,4 +42,4 @@ Green Highlight [Page 7](zotero://open-pdf/library/items/D97JCVZJ?page=7&annotat
 
 
 
-%% Import Date: 2023-02-11T14:46:40.155+09:00 %%
+%% Import Date: 2023-02-11T14:57:58.691+09:00 %%
