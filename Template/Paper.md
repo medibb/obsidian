@@ -5,7 +5,7 @@ tags: zotero
 Authors: {{authors}}{{directors}}
 
 ---
-Title:: {{title}}
+#### Title:: {{title}}
 URL: {{url}}
 Zotero Link: {{pdfZoteroLink}}
 
@@ -23,5 +23,5 @@ Zotero Link: {{pdfZoteroLink}}
 {%- endif %}
 {% if annotation.comment %}
 {{annotation.comment}}
-{% endif %}[Page {{annotation.page}}](zotero://open-pdf/library/items/{{annotation.attachment.itemKey}}?page={{annotation.page}}&annotation={{annotation.id}})
+{% endif %}
 {% endfor -%}
