@@ -102,19 +102,21 @@ resorptive phase를 radiograph 로 확인하는 그 간의 semi-quantitative ana
 
 ### 3.2. Expecting findings
 
-- [가설1]의 검증:  gray value 값이 더 차이가 날수록 (기존에 active phase로 넘어간다는 가설에 의하면 시간에 따라 녹아내리는 변화)
-
-분포와의 상관성;  분포가 더 멀수록 - 더 단단하거나 많은 석회, 분포가 겹칠수록 - 더 희미하거나 적은 석회; 크기로 보정 필요.
-
-가설검증:  분포차이에 대한 변수 (delta mean, delta max)와의 비교분석
-
-가설2: 석회의 분포자체가 퍼져있거나 heterogenic 할수록
+가설1: 석회의 분포자체가 퍼져있거나 heterogenic 할수록
 
 가설검증:  heterogenicity 변수와의 비교분석
 
 RadioDense와 radiolucent multi lobular Dystrophic 등의표현을 정량적 검증. 이연구들의 inter rater variability가 높다
 
 Maier M, Schmidt-Ramsin J, Glaser C, Kunz A, Küchenhoff H, Tischer T. Intra- and interobserver reliability of classification scores in calcific tendinitis using plain radiographs and CT scans. Acta Orthop Belg. 2008 Oct;74(5):590-5. PMID: 19058690.
+
+- [가설1]의 검증:  gray value 값이 더 차이가 날수록 (기존에 active phase로 넘어간다는 가설에 의하면 시간에 따라 녹아내리는 변화)
+
+분포와의 상관성;  분포가 더 멀수록 - 더 단단하거나 많은 석회, 분포가 겹칠수록 - 더 희미하거나 적은 석회; 크기로 보정 필요.
+
+가설검증:  분포차이에 대한 변수 (delta mean, delta max)와의 비교분석
+
+
 
 가설3: 초음파 변수와 radiologic 변수가 상관성
 
