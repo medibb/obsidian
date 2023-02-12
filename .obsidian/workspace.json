@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "가설1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -213,7 +214,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "94a331d1ab268264",
+  "active": "f461ea0fae99147a",
   "lastOpenFiles": [
     "Template/MOC.md",
     "Inbox/$ CT xray - MOC.md",

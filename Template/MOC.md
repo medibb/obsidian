@@ -40,6 +40,9 @@ A 가치를 알아보겠다.
 
 ### 3.2. Methods to fill the gap
 
+#### Parameter definitions
+
+
 ### 3.3. Expecting findings
 -  A value 
 	1.  과의 유의한 차이 보고

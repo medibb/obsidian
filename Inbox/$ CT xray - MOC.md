@@ -67,7 +67,8 @@ resorptive phase를 radiograph 로 확인하는 그 간의 semi-quantitative ana
 
 ### 3.1. Knowledge gap
 
-- poor reliability 를 보이는 분석 방법에 대해서 정량적인 분석을 하겠다. 
+- poor reliability 를 보이는 분석 방법에 대해서 정량적인 분석을 하겠다.
+	- [가설1]:  석회의 heterogeneity 가 높으면 resorptive phase 일 것이다.
 - 해당 정량적 분석이 임상증상 혹은 초음파 분석과 상관이 있는지 알아보겠다.
 - resorptive phase 을 radiograph에서 더 잘 확인해보겠다.
 	- 배경: bursal rupture, very cloudy shape 은 resorptive phase 로 생각되고, acute pain 을 보이며 lavage 가 잘되고 short term resolution 을 보임
@@ -88,22 +89,20 @@ resorptive phase를 radiograph 로 확인하는 그 간의 semi-quantitative ana
 - gray scale analysis - gray value & histogram analysis
 
 
-### Parameter definitions
-- Clinical paramters : nRS, positive provocative test, capsular vs impinge sign
-- ultrasonographic paramters : grading system, shadow
+#### Parameter definitions
+- Radiographic
+	- Grey value parameters : mean(c delta), max(c delta), Q1-Q3
+	- Spatial heterogenicity parameters(histogram) parameters:  Skewness, Kurtosis, Entropy, Complexity
+- Ultrasonographic
+	- morphologic classification(fragmented, blackhole, echogenic fluid.. 22년논문참고)
+	- acoustic shadowing(well-defined vs faint or none)
+	- attenuation 자체(제일 윗부분 반사정도?)
+- Demographic parameters
+- Clinical parameters : nRS, ROM, provocative Test, injection try 유무, steroid에 반응성유무(acute와 그 외 phase 의 분리), capsular vs impinge
 
+### 3.2. Expecting findings
 
-Radiographic / Grey value parameters : mean(c delta), max(c delta), Q1-Q3
-
-Radiographic / Spatial heterogenicity parameters(histogram parameters:  Skewness, Kurtosis, Entropy, Complexity
-
-Ultrasonographic parameters: morphologic classification(fragmented, blackhole, echogenic fluid.. 22년논문참고), acoustic shadowing(well-defined vs faint or none), attenuation 자체(제일 윗부분 반사정도?)
-
-Demographic parameters
-
-Clinical parameters : nRS, ROM, provocative Test, injection try 유무, steroid에 반응성유무(acute와 그 외 phase 의 분리)
-
-가설1: 석회의 grey value 값이 더 차이가 날수록 (기존에 active phase로 넘어간다는 가설에 의하면 시간에 따라 녹아내리는 변화)
+- [가설1]의 검증:  gray value 값이 더 차이가 날수록 (기존에 active phase로 넘어간다는 가설에 의하면 시간에 따라 녹아내리는 변화)
 
 분포와의 상관성;  분포가 더 멀수록 - 더 단단하거나 많은 석회, 분포가 겹칠수록 - 더 희미하거나 적은 석회; 크기로 보정 필요.
 
@@ -129,6 +128,18 @@ Heterogenicity만의 비교라면 증상없는 쪽의 정상 tendon은 볼 필�
 
 -> 정해순님 보면 명확한 차이가 있는데, 오히려 max 값 혹은 석회의 heterogenicity가 줄어들수 있겠다.
 
+#### expecting finding summaries
+- grey scale value 
+	1. tendon 과의 유의한 차이 보고
+	2. 영상의학과 진단되지 않은 석회와 진단된 석회의 value 비교
+	3. clinical factors 들과의 비교
+	4. USG parameters 들과의 비교
+- Heterogenicity parameters
+	1. tendon 과의 유의한 차이 보고
+	2. Gartner classifications 와의 비교
+	3. clinical factors 들과의 비교
+	4. USG parameters 들과의 비교
+	5. 
 
 ### Data analysis
 
@@ -142,17 +153,7 @@ Heterogenicity만의 비교라면 증상없는 쪽의 정상 tendon은 볼 필�
 
 
 
-### 3.2. Expecting findings
-- grey scale value 
-	1. tendon 과의 유의한 차이 보고
-	2. 영상의학과 진단되지 않은 석회와 진단된 석회의 value 비교
-	3. clinical factors 들과의 비교
-	4. USG parameters 들과의 비교
-- Heterogenicity parameters
-	1. tendon 과의 유의한 차이 보고
-	2. Gartner classifications 와의 비교
-	3. clinical factors 들과의 비교
-	4. USG parameters 들과의 비교
+
 ### 3.2 Target journal
 ---
 
