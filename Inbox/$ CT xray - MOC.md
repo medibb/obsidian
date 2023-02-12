@@ -16,9 +16,9 @@ resorptive phase를 radiograph 로 확인하는 그 간의 semi-quantitative ana
 석회성건염의 진단적 가치까지 알아보겠다.
 
 ---
-## 2.  # Background knowledge
+## 2. Background knowledge
 
-## 2.0 Introductive factors
+### 2.0 Introductive factors
 - [[= Calcific tendinitis - pathophysiology and life cycle ]]
 	- utoff? 등이 제시한 cycle 이 있으며
 	- 석회의 기전은 mechanical induced, overuse 등에 의한 변화라는 내용(BMP 연구 관련)
@@ -51,18 +51,14 @@ resorptive phase를 radiograph 로 확인하는 그 간의 semi-quantitative ana
 		   (3) hyperechoic focus with no shadow
 	- USG의 faint shadow와 x-ray poorly defined는 일치하지 않는다.
 	  ![[farinSonographicFindingsRotator1995#img]]
+
+
 ### 2.1 Related work
 	 Histogram analysis 를 사용했던 사전논문들
 	 semi-quantitative analysis 의 poor reliabilty 논문들
 	 introductive factors 를 받쳐주는 논문
 
-### 2.1.1 Brief Summary 
-	1. Histogram analysis
-		1. entropy 와 complexity 에 대한 해석
-
-### 2.1.2 Significance
-
-
+### 2.1.1 Comment 
 
 
 ---
@@ -88,7 +84,61 @@ resorptive phase를 radiograph 로 확인하는 그 간의 semi-quantitative ana
 	- 예외 4 (pseudo resorptive in USG): radiograph의 경우처럼, linear, enthesophyte like 석회의 경우 일 것임. 
 		- mid-tendon에 oval shape으로 모여있고 그림자도 없는데 잘 안나오는경우 있긴 있음..
 
-### 3.2. Method for fill the gap
+### 3.2. Methods to fill the gap
+- gray scale analysis - gray value & histogram analysis
+
+
+### Parameter definitions
+- Clinical paramters : nRS, positive provocative test, capsular vs impinge sign
+- ultrasonographic paramters : grading system, shadow
+
+
+Radiographic / Grey value parameters : mean(c delta), max(c delta), Q1-Q3
+
+Radiographic / Spatial heterogenicity parameters(histogram parameters:  Skewness, Kurtosis, Entropy, Complexity
+
+Ultrasonographic parameters: morphologic classification(fragmented, blackhole, echogenic fluid.. 22년논문참고), acoustic shadowing(well-defined vs faint or none), attenuation 자체(제일 윗부분 반사정도?)
+
+Demographic parameters
+
+Clinical parameters : nRS, ROM, provocative Test, injection try 유무, steroid에 반응성유무(acute와 그 외 phase 의 분리)
+
+가설1: 석회의 grey value 값이 더 차이가 날수록 (기존에 active phase로 넘어간다는 가설에 의하면 시간에 따라 녹아내리는 변화)
+
+분포와의 상관성;  분포가 더 멀수록 - 더 단단하거나 많은 석회, 분포가 겹칠수록 - 더 희미하거나 적은 석회; 크기로 보정 필요.
+
+가설검증:  분포차이에 대한 변수 (delta mean, delta max)와의 비교분석
+
+가설2: 석회의 분포자체가 퍼져있거나 heterogenic 할수록
+
+가설검증:  heterogenicity 변수와의 비교분석
+
+RadioDense와 radiolucent multi lobular Dystrophic 등의표현을 정량적 검증. 이연구들의 inter rater variability가 높다
+
+Maier M, Schmidt-Ramsin J, Glaser C, Kunz A, Küchenhoff H, Tischer T. Intra- and interobserver reliability of classification scores in calcific tendinitis using plain radiographs and CT scans. Acta Orthop Belg. 2008 Oct;74(5):590-5. PMID: 19058690.
+
+가설3: 초음파 변수와 radiologic 변수가 상관성
+
+가설검증: ultrasonographic parameters 와 상관성
+
+초음파의 반사율과 xray의 투과도와의 관계 - 사전 논문 검색
+
+- incidental calcification 과의 비교 or 예전사진에서 관찰되는 통증이 없었던 시절의 석회와의 비교 - 평균 기간, 평균 histogram 변화, 평균 enhanced 변화 작성.
+
+Heterogenicity만의 비교라면 증상없는 쪽의 정상 tendon은 볼 필요없을듯.
+
+-> 정해순님 보면 명확한 차이가 있는데, 오히려 max 값 혹은 석회의 heterogenicity가 줄어들수 있겠다.
+
+
+### Data analysis
+
+#### Data processing
+ - Env: R
+ - code: 
+
+
+
+#### Statistical analysis
 
 
 
@@ -105,23 +155,7 @@ resorptive phase를 radiograph 로 확인하는 그 간의 semi-quantitative ana
 	4. USG parameters 들과의 비교
 ### 3.2 Target journal
 ---
-## 4. Method
 
-8 bit grayscale histogram was used, which classifies the black-and-white brightness level of the picture into 256 intensities ranging from 0 to 255. Spatial heterogeneity was assessed by skewness, kurtosis, entropy, and complexity. The relationship with pain assessed by numeric rating scale (NRS) was investigated by Mann-Whitney U test and Pearson chi-square test.
-
-### 4.1 Parameter definitions
-- Clinical paramters : nRS, positive provocative test, capsular vs impinge sign
-- ultrasonographic paramters : grading system, shadow
-
-### 4.2. Data analysis
-
-#### Data processing
- - Env: R
- - code: 
-
-
-
-#### Statistical analysis
 
 
 ---

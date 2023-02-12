@@ -13,14 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z/farinSonographicFindingsRotator1995/farinSonographicFindingsRotator1995.md",
+                "file": "Template/MOC.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "aa538813a4bb9fa6",
+            "id": "94a331d1ab268264",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -131,7 +131,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.4019828977761069,
+                  "scale": 0.7132754626224458,
                   "close": true
                 }
               }
@@ -213,15 +213,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aa538813a4bb9fa6",
+  "active": "94a331d1ab268264",
   "lastOpenFiles": [
-    "Inbox/=CT USG classification.md",
-    "Z/farinSonographicFindingsRotator1995/farinSonographicFindingsRotator1995.md",
-    "Template/Paper.md",
+    "Template/MOC.md",
     "Inbox/$ CT xray - MOC.md",
+    "Z/farinSonographicFindingsRotator1995/farinSonographicFindingsRotator1995.md",
+    "Inbox/=CT USG classification.md",
+    "Template/Paper.md",
     "Inbox/= Gartner classification.md",
     "Z/linCalcifiedPlaqueResorptive2012/linCalcifiedPlaqueResorptive2012.md",
-    "Template/MOC.md",
     "Inbox/Untitled.md",
     "Dataview/Tag Taxonomy.md",
     "Z/dewitteRadiologicalClinicalPredictors2016/dewitteRadiologicalClinicalPredictors2016.md"

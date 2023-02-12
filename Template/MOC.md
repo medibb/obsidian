@@ -30,10 +30,7 @@ A 가치를 알아보겠다.
 ### 2.1 Related work
 
 
-### 2.1.1 Brief Summary 
-
-
-### 2.1.2 Significance
+### 2.1.1 Comment
 
 
 ---
@@ -41,8 +38,9 @@ A 가치를 알아보겠다.
 
 ### 3.1. Knowledge gap
 
+### 3.2. Methods to fill the gap
 
-### 3.2. Expecting findings
+### 3.3. Expecting findings
 -  A value 
 	1.  과의 유의한 차이 보고
 
@@ -53,21 +51,9 @@ A 가치를 알아보겠다.
 	2. A 와의 비교
 	3. A factors 들과의 비교
 	4. A parameters 들과의 비교
-### 3.2 Target journal
+### 3.4 Target journal
 ---
-## 4. Method
 
-### 4.1 Parameter definitions
-- Clinical paramters : nRS, positive provocative test, capsular vs impinge sign
-- ultrasonographic paramters : grading system, shadow
-
-### 4.2. Data analysis
-
-#### Data processing
- - Env: R
- - code: 
-
-#### Statistical analysis
 
 ---
 ## 5. Results
