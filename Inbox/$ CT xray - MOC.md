@@ -74,7 +74,7 @@ resorptive phase를 radiograph 로 확인하는 그 간의 semi-quantitative ana
 	- resorptive phase 의 치료 이후 석회가 완전관해 되는지 혹은 아닌지에 대한 문헌검색과 정리가 필요하겠다. -> [[= calcific tendinitis - prognosis]]
 - resorptive phase 을 radiograph에서 더 잘 확인해보겠다.
 	- 배경
-		- resorptive phase 의 정의 : 특별한 외상력은 없고, 운동 등 혹은 일상생활 중에 갑자기 발생한 acute pain 이면서, lavage 가 잘되고 inflammation 치료에 석회의 short term resolution 을 보임, 또한 PET 이나 bone scan 등의 scan 검사에서 염증소견이 보이면 확진.  ^9e57c8
+		- resorptive phase 의 정의 : 특별한 외상력은 없고, 운동 등 혹은 일상생활 중에 갑자기 발생한 acute pain 이면서, lavage 가 잘되고 inflammation 치료에 석회의 short term resolution 을 보임, 또한 PET 이나 bone scan 등의 scan 검사에서 염증소견이 보이면 확진에 가까우며, 치약성상을 보이는 것도 확진.  ^9e57c8
 		- doppler 검사 상의 activity 도 상관성 있음(현재는 조사되지 않음, focal Td 만 조사함), 아래의 경우처럼 resorptive phase 검사의 제한점 있을 듯
 		- Radiograph 에서의 bursal rupture, very cloudy shape 은 resorptive phase 로 간주할 수 있으나 아래와 같은 예외가 있음.
 	- 가설3: 이전 연구들에서 classification 들 분류의 inter-rater variability 가 높으며  RadioDense와 radiolucent / multi lobular / Dystrophic 등의 모호한 표현의 semi-quantitative 분류를 을 정량적으로 검증해보는 것. 
