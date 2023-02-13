@@ -183,12 +183,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 283.5,
-    "collapsed": true
+    "width": 283.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,7 +201,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2fba7a3283dbf859",
+  "active": "5d1585ddc7539a12",
   "lastOpenFiles": [
     "Template/MOC.md",
     "Inbox/$ CT xray - MOC.md",
