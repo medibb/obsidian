@@ -1,12 +1,10 @@
 -   `Title:` [[<%tp.file.title%>]]
 -   `Type:` [[$]]
 -   `Tags:`
--   `organizer:`   
--   `meeting Date:` 
--   `Reviewed Date:` [[<%tp.date.now()%>]]
+-   `Formation Date:` [[<%tp.date.now()%>]]
 
 ---
-This is the MOC about ; calcific tendinitis radiographic analysis
+This is the MOC about ; A and B analysis
 
 ---
 ## 1. definition
