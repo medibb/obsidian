@@ -1,3 +1,11 @@
+  
+-   `Title:` [[$ EAG - MOC]]
+-   `Type:` [[$]]
+-   `Tags:` #🧠️/📝️/🌞️ 
+-   `organizer:`   
+-   `meeting Date:` 
+-   `Reviewed Date:` [[2023-02-11]]
+
 This is the MOC about EAG; Electroarthrography
 
 ---

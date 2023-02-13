@@ -1,20 +1,14 @@
-
-
-
--   `Title:` [[<%tp.file.title%>]]
-
 ---
-
 Year: {{date | format("YYYY")}}
 tags: zotero
 Authors: {{authors}}{{directors}}
 ---
 
-# Title:: {{title}}
+#### Title:: {{title}}
 URL: {{url}}
 Zotero Link: {{pdfZoteroLink}}
 
-# cmt
+# text
 {% for annotation in annotations %}
 {%- if annotation.annotatedText -%}
 {{annotation.annotatedText}}"{% if annotation.color %}
@@ -22,17 +16,13 @@ Zotero Link: {{pdfZoteroLink}}
 {{annotation.type | capitalize}} {% endif %}[Page {{annotation.page}}](zotero://open-pdf/library/items/{{annotation.attachment.itemKey}}?page={{annotation.page}}&annotation={{annotation.id}})
 {% endif %}
 {%- if annotation.imageRelativePath -%}
-
 # img
 ![[{{annotation.imageRelativePath}}]]
 
-# cmt
+# text
 {%- endif %}
 {% if annotation.comment %}
 {{annotation.comment}}
-{% endif %}[Page {{annotation.page}}](zotero://open-pdf/library/items/{{annotation.attachment.itemKey}}?page={{annotation.page}}&annotation={{annotation.id}})
+{% endif %}
 {% endfor -%}
 
-
-
-🔗LINKS TO THIS PAGE

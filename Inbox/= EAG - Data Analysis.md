@@ -57,4 +57,4 @@ The results of each stage are available below:
 
 
 🔗LINKS TO THIS PAGE
-[[= EAG - MOC]]
+[[$ EAG - MOC]]
