@@ -78,8 +78,11 @@ resorptive phase를 radiograph 로 확인하는 그 간의 semi-quantitative ana
 		- doppler 검사 상의 activity 도 상관성 있음(현재는 조사되지 않음, focal Td 만 조사함), 아래의 경우처럼 resorptive phase 검사의 제한점 있을 듯
 		- Radiograph 에서의 bursal rupture, very cloudy shape 은 resorptive phase 로 간주할 수 있으나 아래와 같은 예외가 있음.
 	- 가설3: 이전 연구들에서 classification 들 분류의 inter-rater variability 가 높으며  RadioDense와 radiolucent / multi lobular / Dystrophic 등의 모호한 표현의 semi-quantitative 분류를 을 정량적으로 검증해보는 것. 
-	- 또한 아래와 같은 예외가 있어서 이미지상 classification 과 임상증상, 예후가 
-
+	- 또한 아래와 같은 예외(잘못 분류된 resorptive phase CT)가 있어서 이미지상 classification 과 임상증상, 예후가 잘 맞지 않는 경우가 있다. 
+		- 참조논문: [[maierIntraInterobserverReliability2008]] - CTscan도 다소 부정확
+		  
+		  
+	
 Maier M, Schmidt-Ramsin J, Glaser C, Kunz A, Küchenhoff H, Tischer T. Intra- and interobserver reliability of classification scores in calcific tendinitis using plain radiographs and CT scans. Acta Orthop Belg. 2008 Oct;74(5):590-5. PMID: 19058690. )들이 있을 수 있다.
 		- 예외 1( pseudo formative in radiology); AP혹은 axial 1가지 뷰에서는 well defined 로 보이더라도 lavage가 잘되며 흡수가 잘되는 resorptive phase 가 있음
 			- 가설1 (view의 문제): 다른 뷰에서는 poly-morphic 하거나 translucent 함
