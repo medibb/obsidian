@@ -100,7 +100,7 @@ resorptive phase를 radiograph 로 확인하는 그 간의 semi-quantitative ana
 - Demographic parameters
 - Clinical parameters : nRS, ROM, provocative Test, injection try 유무, steroid에 반응성유무(acute와 그 외 phase 의 분리), capsular vs impinge
 
-### 3.2. Expecting findings
+### 3.3. Expecting findings
 
 가설1: 석회의 분포자체가 퍼져있거나 heterogenic 할수록
 
