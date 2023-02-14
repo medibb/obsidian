@@ -17,6 +17,19 @@ EAG는 관절연골에서 발생하는 전위를 기록하는 것
 
 ---
 ## 2.  # Background knowledge
+
+
+## 2.0 Introductive factors
+- From related work
+	- Tibiofemoral cartilage loading 에 따라서 joint line 에서 연골전위가 측정된다. Cartilage 는 SGP - strain generated potential 을 만든다.
+	
+- 선행연구의 findings
+	- 관절 각도의 변화에 따라 loading 이 없어도 전위 차가 발생한다.
+		- 가설1: 수동 굴곡시에도 loading에 따른 strain 은 나타날 가능성
+		- 가설검증: 
+	- 관절연골은 세군데 있다.
+	
+		그 중 Articular cartilage 에서의 변화를 보려고 한다.
 ### 2.1 Related work
 	선행연구는 3가지로 나뉠 수 있다.
 	1. Buschmann et al. 의 메인 연구그룹의 논문들
