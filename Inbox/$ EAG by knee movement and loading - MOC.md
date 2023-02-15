@@ -97,15 +97,20 @@ knee EAG가 무릎 운동에서 어떻게 측정되는 지 평가하고자 함.
 	- 하지만 관절의 운동중에 발생하는 복합적인 관절연골 접촉면의 이동과 전극과의 상대거리 변화는 관찰에 어려움을 만들 수 있다.
 	- 관절연골의 deformation이 unloading 이후에도 사라지지 않는다면 electrostatic potential 이 남아있을 수 있겠지만, 기존연구와 선행연구에서 모두 unloading 과함께 즉시 potential 이 사라지는 것이 관찰됨
 		- unloading 과 함께 cartilage ECM에서 convection 되었던 Na 등 cation 들이 즉시 이동되면서 electrostatic field 가 없어진다고 해석해야함.
-		- cartilage 높이가 줄어든다는 내용은 
+		- cartilage 높이가 줄어든다는 내용은 국소적인 deformation이 지속된다기 보다 cartilage 자체에서 fluid 가 빠져나가는 것으로 해석할 수 있겠다.
+	  ![[poillotStraingeneratedElectricalPotential2021#^ab5369]]
+
 - 일단 수동관절운동과 능동관절운동의 차이가 있는 지 확인해보자
 	- 가설 3: 수동과 능동 관절 각도변화는 EAG 차이가 있다. 추가로 각도 변화를 EAG를 통해 측정할 수 있다. 접촉면의 rolling 과 그에 따른 전위의 변화
 
+- EAG를 streaming potential 의 측정에 국한하지 않고, joint motion에 따른 knee joint 상태를 감시하는 모든 potential 들의
+- 
 Maximal differences for 7 sec
 
 Amplitude difference from 90 ->180
 
 The amplitude of potentials changes at active extension versus passive extension
+
 
 Amplitude difference from 180-> 90
 
