@@ -11,12 +11,8 @@
             "id": "2fba7a3283dbf859",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/electroarthrography.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -95,7 +91,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/electroarthrography.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -138,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/electroarthrography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/electroarthrography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,9 +170,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Inbox/electroarthrography.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -204,6 +195,7 @@
   },
   "active": "2fba7a3283dbf859",
   "lastOpenFiles": [
+    "Inbox/electroarthrography.md",
     "Inbox/$ EAG - MOC.md",
     "Template/MOC.md",
     "Inbox/$ CT xray - MOC.md",
@@ -212,7 +204,6 @@
     "Template/Paper.md",
     "conflict-files-obsidian-git.md",
     "Utility/⌨️Hotkeys.md",
-    "Inbox/= Gartner classification.md",
-    "Z/dewitteRadiologicalClinicalPredictors2016/dewitteRadiologicalClinicalPredictors2016.md"
+    "Inbox/= Gartner classification.md"
   ]
 }
