@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0d5cef80dfb10da2",
+        "id": "7bb522e11783d2d9",
         "type": "tabs",
         "children": [
           {
-            "id": "2fba7a3283dbf859",
+            "id": "94a331d1ab268264",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#🧠️/📝️/🌱️",
+                "query": "가설1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.50403594970703
+    "width": 300
   },
   "right": {
     "id": "c3d1ec123b944f56",
@@ -99,7 +99,7 @@
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
-                  "localJumps": 3,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -118,7 +118,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224449,
+                  "scale": 0.7132754626224463,
                   "close": true
                 }
               }
@@ -182,7 +182,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -190,29 +191,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "2fba7a3283dbf859",
+  "active": "d290314f6cbd1476",
   "lastOpenFiles": [
     "Inbox/$ CT xray - MOC.md",
-    "Inbox/$ EAG by knee movement and loading - MOC.md",
-    "Inbox/= EAG - potentials.md",
-    "Inbox/= EAG - cell biology.md",
-    "Inbox/electroarthrography.md",
     "Template/MOC.md",
-    "Inbox/$ CT xray - MOC^ㄱ.md",
-    "Inbox/$ CT xray - MOC^.md",
+    "Z/farinSonographicFindingsRotator1995/farinSonographicFindingsRotator1995.md",
+    "Inbox/=CT USG classification.md",
     "Template/Paper.md",
-    "conflict-files-obsidian-git.md"
+    "Inbox/= Gartner classification.md",
+    "Z/linCalcifiedPlaqueResorptive2012/linCalcifiedPlaqueResorptive2012.md",
+    "Inbox/Untitled.md",
+    "Dataview/Tag Taxonomy.md",
+    "Z/dewitteRadiologicalClinicalPredictors2016/dewitteRadiologicalClinicalPredictors2016.md"
   ]
 }
