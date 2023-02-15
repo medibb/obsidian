@@ -42,7 +42,8 @@ knee EAG가 무릎 운동에서 어떻게 측정되는 지 평가하고자 함.
 	- Tibiofemoral cartilage loading 에 따라서 joint line 에서 연골전위가 측정된다. Cartilage 는 SGP - strain generated potential 을 만든다.
 
 - 관절전도 전위의 크기, 방향에 대하여
-	- 관절 전도의 크기는 review  논문에서  1mV ? 이하일것으로 예상 했었다.
+	- 관절 전도의 크기는 Buschmann  논문에서  0.25mv 로 관찰되었으며, 2022.08 퍼듀대학 의공학 교실에서 수학적 모델링으로 0.175mv일 것으로 예상했다.
+	- 내부의 diapole 이 형성되어서 해당 전위를 외부에서 측정하는 것..
 	- 
 - 무릎의 biokinematics에 대하여 
 	- 관절연골은 세군데 있다.
