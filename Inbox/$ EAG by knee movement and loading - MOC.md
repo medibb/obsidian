@@ -103,7 +103,14 @@ knee EAG가 무릎 운동에서 어떻게 측정되는 지 평가하고자 함.
 - 일단 수동관절운동과 능동관절운동의 차이가 있는 지 확인해보자
 	- 가설 3: 수동과 능동 관절 각도변화는 EAG 차이가 있다. 추가로 각도 변화를 EAG를 통해 측정할 수 있다. 접촉면의 rolling 과 그에 따른 전위의 변화
 
-- EAG를 streaming potential 의 측정에 국한하지 않고, joint motion에 따른 knee joint 상태를 감시하는 모든 potential 들의
+- EAG를 streaming potential 의 측정에 국한하지 않고, joint motion에 따른 knee joint의 electric potential 을 모두 평가하는 큰범위에서의 EAG로 이야기 할 수 있음
+	- 이렇다면, early OA 의 평가에 국한되지 않을 수 있다.
+	- digital goniometer로서의 활용, 무릎의 굴곡 mechanism 의 문제의 발견, patellar gliding 에 대한 평가를 시행할 수 있다.
+		- 다만 가설과 근거를 robust 하게 만들어야함
+	- 실제 관절각도 변화에 따른 전위 변화는 SGP로 발생가능한 크기에 비해 매우 크다.
+		- 가설 4: 자세를 유지하는 동안의 적은량의 전위변화가 SGP 가능성
+		- 관절운동에 따른 변화는 또 다른 mechanotransduction 이 일어나는 것일 수도 있다. - synovial fluid의 이동?
+		- 
 - 
 Maximal differences for 7 sec
 
@@ -131,10 +138,6 @@ Correlation between ultrasonographic parameters versus EAG signals
 Outlier의 기준?
 
 ### 3.2 Target journal
-
-1.  [https://www.clinbiomech.com/](https://www.clinbiomech.com/) IF 2.034 Clinical Biomechanics is an international multidisciplinary journal of biomechanics with a focus on medical and clinical applications of new knowledge in the field.The science of biomechanics helps explain the causes of cell, tissue, organ and body system disorders, and supports clinicians in the diagnosis, prognosis and evaluation of treatment methods and technologies. Clinical Biomechanics aims to strengthen the links between laboratory and clinic by publishing cutting-edge biomechanics research which helps to explain the causes of injury and disease, and which provides evidence contributing to improved clinical management. Clinical Biomechanics explores all facets of body system, organ, tissue and cell biomechanics, with an emphasis on medical and clinical applications of the basic science aspects. The role of basic science is therefore recognized in a medical or clinical context. The readership of the journal closely reflects its multi-disciplinary contents, being a balance of scientists, engineers and clinicians.
-2.  [https://onlinelibrary.wiley.com/page/journal/1554527x/homepage/productinformation.html](https://onlinelibrary.wiley.com/page/journal/1554527x/homepage/productinformation.html) IF 3.102 The Journal of Orthopaedic Research, a publication of the Orthopaedic Research Society (ORS), is the forum for the rapid publication of high quality reports of new information on the full spectrum of orthopaedic research, including life sciences, engineering, translational, and clinical studies.
-3.  [https://journals.lww.com/clinorthop/pages/default.aspx](https://journals.lww.com/clinorthop/pages/default.aspx) IF 4.755 Research articles providing the latest in basic biological or engineering research on musculoskeletal diseases.
 ---
 
 
