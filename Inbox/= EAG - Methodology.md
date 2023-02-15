@@ -52,4 +52,4 @@ were analyzed with the Wilcoxon signed-rank test with a significance of _p_ %3C 
 이번 연구주제에 관한 사전연구가 진행된 적이 없고 본 연구는 탐색적 의미를 지닌 연구이므로 목표 연구 대상자를 10명으로 설정하였다.>)
 
 🔗LINKS TO THIS PAGE
-[[$ EAG - MOC]]
+[[$ EAG by knee movement and loading - MOC]]

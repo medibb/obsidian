@@ -1,18 +1,28 @@
   
--   `Title:` [[$ EAG - MOC]]
+-   `Title:` [[$ EAG by knee movement and loading - MOC]]
 -   `Type:` [[$]]
 -   `Tags:` #🧠️/📝️/🌞️ 
 -   `organizer:`   
 -   `meeting Date:` 
 -   `Reviewed Date:` [[2023-02-11]]
 
-This is the MOC about EAG; Electroarthrography
+This is the MOC about EAG by knee movement and loading
 
 ---
 ## 1. definition
 
 EAG는 관절연골에서 발생하는 전위를 기록하는 것
+
 임상에서 활용할 수 있다면 진단적 가치를 가질 수 있음
+
+knee movment 는 다리펴기 / 스쿼트 에 해당하는 두가지 가장 흔한 운동 동작
+
+
+### 1.1 Objectives
+knee EAG가 무릎 운동에서 어떻게 측정되는 지 평가하고자 함.
+이를 위해 최적의 센서 위치를 찾고 
+운동 중 각도 변화에 따른 EAG 값의 변화를 측정하며,
+
 
 
 ---
@@ -31,11 +41,8 @@ EAG는 관절연골에서 발생하는 전위를 기록하는 것
 	3. 예전 cartilage streaming potential 및 strain-generated potential 에 대한 최신연구들
 	- Tibiofemoral cartilage loading 에 따라서 joint line 에서 연골전위가 측정된다. Cartilage 는 SGP - strain generated potential 을 만든다.
 
-- 선행연구의 findings
-	- 관절 각도의 변화에 따라 loading 이 없어도 전위 차가 발생한다.
-		- 가설1: 수동 굴곡시에도 loading에 따른 strain 은 나타날 가능성
-		- 수동굴곡 / 능동굴곡 / 스쿼트에 걸리는 strain값은?
-		- 가설검증: 
+
+- 무릎의 biokinematics에 대하여 
 	- 관절연골은 세군데 있다.
 		- 슬개골(무릎 뼈) 연골 : Patellar cartilage 
 		- 대퇴골 연골 ( 좌 / 우)
@@ -43,7 +50,11 @@ EAG는 관절연골에서 발생하는 전위를 기록하는 것
 	- 관절은 두군데서 일어난다
 		- 슬개골 - 대퇴골 관절
 		- 대퇴골 - 경골 관절
-		- 
+	- 선행연구의 findings에서 수동관절운동, 즉 관절 각도의 변화에 따라 loading 이 없어도 전위 차가 발생한다.
+		- 가설1: 수동 굴곡시에도 loading에 따른 strain 은 나타날 가능성
+		- 수동굴곡 / 능동굴곡 / 스쿼트에 걸리는 strain값은?
+		- 가설검증: 
+
 
 ### 2.1 Related work
 - Buschmann et al. 등의 EAG 연구
@@ -61,8 +72,10 @@ EAG는 관절연골에서 발생하는 전위를 기록하는 것
 
 ### 3.1. Knowledge gap
 
-- 선행연구에서 보고되지 않았던 관절각도변화에 따른 EAG 관찰
-- 
+- 기존 연구에서 보고되지 않았던 관절각도변화에 따른 EAG 관찰이다.
+- 무릎 관절연골에서 발생하고 활액과 무릎 주변 연조직을 통해 표면전극 까지 전달되는 전위는 사전 연구에서 보고하는 streaming potential 이외의 요소들이 많이 작용할 것이다.
+- 특히 운동 중에는 표면 전극과 내부 연골 사이의 상대적인 위치가 지속적으로 변화하므로, EAG측정의 특징이 달라질 것이다.
+	- 표면전극으로 부터 연골의 상대적 위치가 제일 변화가 적은 위치, 혹은 한 방향으로만 변하여 운동의 진행을 잘 알려주는 위치 
 
 Maximal differences for 7 sec
 
