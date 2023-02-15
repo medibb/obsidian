@@ -48,11 +48,12 @@ knee EAG가 무릎 운동에서 어떻게 측정되는 지 평가하고자 함.
 		- 대퇴골 연골 ( 좌 / 우)
 		- 경골 연골 (좌 / 우)
 	- 관절은 두군데서 일어난다
-		- 슬개골 - 대퇴골 관절
-		- 대퇴골 - 경골 관절
+		- 대퇴 - 슬개 관절
+		- 대퇴 - 경골 관절
 	- 다리펴기 (leg extension, Q-setting)
-		- 대퇴사두근의 수축으로 대퇴사두골에 포함되어 있는 슬개골연골이 대퇴골 연골을 ㅇ
-	
+		- 대퇴사두근의 수축으로 대퇴사두골에 포함되어 있는 슬개골연골이 대퇴골 연골을 누르면서 미끄러져 올라가고 경골이 따라 올라옴
+		- 주로 대퇴-슬개 관절에 부하가 많이 걸리며, quadriceps muscles 이 약하면 부하가 더 많이 걸리고, full extension 에서 부하가 제일 많이 생긴다.
+- 
 	- 수동관절운동에서도 연골부하는 일어난다
 		- 근육의 activation(motor unit firing)은 없어도, 근육과 그외 연조직은 viscoelastic tissue 이므로 lengthening & shortening 에 의한 tension이 발생
 			- muscle intringic tension 및 수동굴곡시 loading 에 대한 ==기존 문헌조사==
