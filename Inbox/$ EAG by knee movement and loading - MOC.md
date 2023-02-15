@@ -51,7 +51,7 @@ knee EAG가 무릎 운동에서 어떻게 측정되는 지 평가하고자 함.
 		- 슬개골 - 대퇴골 관절
 		- 대퇴골 - 경골 관절
 	- 다리펴기 (leg extension, Q-setting)
-		- 
+		- 대퇴사두근의 수축으로 대퇴사두골에 포함되어 있는 슬개골연골이 대퇴골 연골을 ㅇ
 	
 	- 수동관절운동에서도 연골부하는 일어난다
 		- 근육의 activation(motor unit firing)은 없어도, 근육과 그외 연조직은 viscoelastic tissue 이므로 lengthening & shortening 에 의한 tension이 발생
