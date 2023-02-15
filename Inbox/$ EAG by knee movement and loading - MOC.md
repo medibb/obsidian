@@ -50,7 +50,13 @@ knee EAG가 무릎 운동에서 어떻게 측정되는 지 평가하고자 함.
 	- 관절은 두군데서 일어난다
 		- 슬개골 - 대퇴골 관절
 		- 대퇴골 - 경골 관절
-	- 선행연구의 findings에서 수동관절운동, 즉 관절 각도의 변화에 따라 loading 이 없어도 전위 차가 발생한다.
+	- 다리펴기 (leg extension, Q-setting)
+		- 
+	
+	- 수동관절운동에서도 연골부하는 일어난다
+		- 근육의 activation(motor unit firing)은 없어도, 근육과 그외 연조직은 viscoelastic tissue 이므로 lengthening & shortening 에 의한 tension이 발생
+			- muscle intringic tension 및 수동굴곡시 loading 에 대한 ==기존 문헌조사==
+			- 선행연구의 finding 인 관절 각도의 변화에 따른 전위 차가 발생에 대한 설명
 		- 가설1: 수동 굴곡시에도 loading에 따른 strain 은 나타날 가능성
 		- 수동굴곡 / 능동굴곡 / 스쿼트에 걸리는 strain값은?
 		- 가설검증: 
