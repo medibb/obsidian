@@ -42,11 +42,10 @@ knee EAG가 무릎 운동에서 어떻게 측정되는 지 평가하고자 함.
 	- Tibiofemoral cartilage loading 에 따라서 joint line 에서 연골전위가 측정된다. Cartilage 는 SGP - strain generated potential 을 만든다.
 
 - 관절전도 전위의 크기, 방향에 대하여
-	- 관절 전도의 크기는 Buschmann  논문에서  0.25mv 로 관찰되었으며, 2022.08 퍼듀대학 의공학 교실에서 수학적 모델링으로 0.175mv일 것으로 예상했다.
+	- 관절 전도의 크기는 Buschmann  논문에서  0.25mv 로 관찰되었으며, 퍼듀대학 의공학 교실[bobb2022](babbsOriginElectroarthrogramStreaming) 에서 수학적 모델링으로 0.175mv일 것으로 예상했다.
+	- 내부의 electrostatic potential 로 diapole 이 형성되어서 해당 전위를 외부에서 측정하는 것으로 해석하고 모델링 하였다.
 	- ![[babbsOriginElectroarthrogramStreaming#img]]
-	- 
-	- 내부의 diapole 이 형성되어서 해당 전위를 외부에서 측정하는 것..
-	- 
+
 - 무릎의 biokinematics에 대하여 
 	- 관절연골은 세군데 있다.
 		- 슬개골(무릎 뼈) 연골 : Patellar cartilage 
@@ -97,7 +96,8 @@ knee EAG가 무릎 운동에서 어떻게 측정되는 지 평가하고자 함.
 - 능동신전에서 부하가 가해진 연골의 전위는 수동신전에서 관절각도 변화와 그에 따른 수동적인 부하만 있는 연골보다 더 큰 전위 변화를 일으킬 것이다.
 	- 하지만 관절의 운동중에 발생하는 복합적인 관절연골 접촉면의 이동과 전극과의 상대거리 변화는 관찰에 어려움을 만들 수 있다.
 	- 관절연골의 deformation이 unloading 이후에도 사라지지 않는다면 electrostatic potential 이 남아있을 수 있겠지만, 기존연구와 선행연구에서 모두 unloading 과함께 즉시 potential 이 사라지는 것이 관찰됨
-		- unloading 과 함께 cartilage ECM에서 convection 되었던 Na 등 cation 들이 즉시 이동되면어 electrostatic field 가 해소되는 양
+		- unloading 과 함께 cartilage ECM에서 convection 되었던 Na 등 cation 들이 즉시 이동되면서 electrostatic field 가 없어진다고 해석해야함.
+		- cartilage 높이가 줄어든다는 내용은 
 - 일단 수동관절운동과 능동관절운동의 차이가 있는 지 확인해보자
 	- 가설 3: 수동과 능동 관절 각도변화는 EAG 차이가 있다. 추가로 각도 변화를 EAG를 통해 측정할 수 있다. 접촉면의 rolling 과 그에 따른 전위의 변화
 
