@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3e83a6b3314b6823",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z/babbsOriginElectroarthrogramStreaming/babbsOriginElectroarthrogramStreaming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "stacked": true
@@ -201,17 +213,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d290314f6cbd1476",
+  "active": "94a331d1ab268264",
   "lastOpenFiles": [
     "Inbox/$ CT xray - MOC.md",
+    "Inbox/$ EAG by knee movement and loading - MOC.md",
+    "Z/babbsOriginElectroarthrogramStreaming/babbsOriginElectroarthrogramStreaming.md",
     "Template/MOC.md",
     "Z/farinSonographicFindingsRotator1995/farinSonographicFindingsRotator1995.md",
     "Inbox/=CT USG classification.md",
     "Template/Paper.md",
     "Inbox/= Gartner classification.md",
     "Z/linCalcifiedPlaqueResorptive2012/linCalcifiedPlaqueResorptive2012.md",
-    "Inbox/Untitled.md",
-    "Dataview/Tag Taxonomy.md",
-    "Z/dewitteRadiologicalClinicalPredictors2016/dewitteRadiologicalClinicalPredictors2016.md"
+    "Inbox/Untitled.md"
   ]
 }
