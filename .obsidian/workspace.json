@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/$ EAG - MOC.md",
+                "file": "Inbox/electroarthrography.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/$ EAG - MOC.md",
+                "file": "Inbox/electroarthrography.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/$ EAG - MOC.md",
+                "file": "Inbox/electroarthrography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/$ EAG - MOC.md",
+                "file": "Inbox/electroarthrography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/$ EAG - MOC.md"
+                "file": "Inbox/electroarthrography.md"
               }
             }
           }
@@ -197,13 +197,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
   "active": "2fba7a3283dbf859",
   "lastOpenFiles": [
-    "Template/MOC.md",
     "Inbox/$ EAG - MOC.md",
+    "Template/MOC.md",
     "Inbox/$ CT xray - MOC.md",
     "Inbox/$ CT xray - MOC^ㄱ.md",
     "Inbox/$ CT xray - MOC^.md",
