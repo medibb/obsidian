@@ -20,38 +20,40 @@ EAG는 관절연골에서 발생하는 전위를 기록하는 것
 
 
 ## 2.0 Introductive factors
-- From related work
-	- Tibiofemoral cartilage loading 에 따라서 joint line 에서 연골전위가 측정된다. Cartilage 는 SGP - strain generated potential 을 만든다.
-	
-- 선행연구의 findings
-	- 관절 각도의 변화에 따라 loading 이 없어도 전위 차가 발생한다.
-		- 가설1: 수동 굴곡시에도 loading에 따른 strain 은 나타날 가능성
-		- 가설검증: 
-	- 관절연골은 세군데 있다.
-	
-		그 중 Articular cartilage 에서의 변화를 보려고 한다.
-### 2.1 Related work
-	선행연구는 3가지로 나뉠 수 있다.
+- From related work: 기존 연구는 3가지로 나뉠 수 있다.
 	1. Buschmann et al. 의 메인 연구그룹의 논문들
-	2. Elbow EAG에 대해 1가지 논문을 발표한 인도 그룹
-	3. 예전 cartilage streaming potential 및 strain-generated potential 에 대한 최신연구들
-
-### 2.1.1 Brief Summary 
-	1. Buschmann 등의 연구
-		1. OA 와 prosthetic knee 에서의 EAG 감소 및 소실
+		1. OA 와 prosthetic knee 에서의 EAG 감소 및 소실보고
 		2. TFL & GCM 등의 knee joint crossing muscle  들이 COG 의 변화에 따라 자세유지를 위해 수축하는 것과 관련
 		3. 반복된 weight shift 에서 신호값이 줄어듦
 		4. movement는 weight shift 사용 - 연골 부하 위치가 일정했을 것
 		5. sensor point 는 joint line area - computer modeling하였음 - PF joint 의 정보는 없을 것
+	2. Elbow EAG에 대해 1가지 논문을 발표한 인도 그룹
+	3. 예전 cartilage streaming potential 및 strain-generated potential 에 대한 최신연구들
+	- Tibiofemoral cartilage loading 에 따라서 joint line 에서 연골전위가 측정된다. Cartilage 는 SGP - strain generated potential 을 만든다.
 
-### 2.1.2 Significance
+- 선행연구의 findings
+	- 관절 각도의 변화에 따라 loading 이 없어도 전위 차가 발생한다.
+		- 가설1: 수동 굴곡시에도 loading에 따른 strain 은 나타날 가능성
+		- 수동굴곡 / 능동굴곡 / 스쿼트에 걸리는 strain값은?
+		- 가설검증: 
+	- 관절연골은 세군데 있다.
+		- 슬개골(무릎 뼈) 연골 : Patellar cartilage 
+		- 대퇴골 연골 ( 좌 / 우)
+		- 경골 연골 (좌 / 우)
+	- 관절은 두군데서 일어난다
+		- 슬개골 - 대퇴골 관절
+		- 대퇴골 - 경골 관절
+		- 
 
-### 2.2 EAG potentials([[= EAG - potentials]])
-    
-### 2.3 synovial fluid
-
-### 2.4 intra-articular pressure
-
+### 2.1 Related work
+- Buschmann et al. 등의 EAG 연구
+- Knee kinetics 와 biomechanis 연구
+	- loading 의 크기와 위치에 대한 배경지식으로 가설 정립
+- EMG, EEG 등 bioelectric potential 관련 연구
+	- biologic tissue 들의 신체 표면으로 전도되는 것에 관련된 연구
+	- Streaming potential 등 기존 cartilage potential 에 대한 연구
+		- EAG potentials([[= EAG - potentials]])
+- 그 외 synovial fluid or intra-articular pressure 의 작용
 
 ---
 
