@@ -36,7 +36,6 @@
 
 ## Window
 - window + SPACE : 입력기 전환 (==한영전환 안될때==)
-- window + U : 저
 
 
 

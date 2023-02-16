@@ -113,12 +113,11 @@ Maier M, Schmidt-Ramsin J, Glaser C, Kunz A, Küchenhoff H, Tischer T. Intra- an
 
 ### 3.3. Expecting findings
 
-- 가설1의 검증:   ![[$ CT xray - MOC#^e0617d]]
+- [[#^e0617d|가설1]]의 검증:![[#^e0617d|가설1]]
 - Spatial heterogenicity parameters vs resorptive phase 
-	- resorptive phase란? ![[$ CT xray - MOC#^9e57c8]]
+	- resorptive phase란? ![[#^9e57c8]]
 
-- 가설 2의 검증
-![[$ CT xray - MOC#^b46b44]]
+- [[#^b46b44|가설2]]의 검증:![[#^b46b44]]
 - gray value 값과 resorptive phase 와의 연관성 (기존에 active phase로 넘어간다는 가설에 의하면 시간에 따라 녹아내리는 변화)
 
 분포와의 상관성;  분포가 더 멀수록 - 더 단단하거나 많은 석회, 분포가 겹칠수록 - 더 희미하거나 적은 석회; 크기로 보정 필요.

@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "0d5cef80dfb10da2",
+        "id": "9b923189e45026e7",
         "type": "tabs",
         "children": [
           {
-            "id": "2fba7a3283dbf859",
+            "id": "770d81bc7ccf25b5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "53f899037237cd04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utility/⌨️Hotkeys.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -95,7 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Utility/⌨️Hotkeys.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -138,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utility/⌨️Hotkeys.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utility/⌨️Hotkeys.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utility/⌨️Hotkeys.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -202,8 +211,10 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "2fba7a3283dbf859",
+  "active": "53f899037237cd04",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Utility/⌨️Hotkeys.md",
     "Inbox/$ EAG by knee movement and loading - MOC.md",
     "Inbox/$ CT xray - MOC.md",
     "Inbox/= EAG - potentials.md",
@@ -211,8 +222,6 @@
     "Inbox/electroarthrography.md",
     "Template/MOC.md",
     "Inbox/$ CT xray - MOC^ㄱ.md",
-    "Inbox/$ CT xray - MOC^.md",
-    "Template/Paper.md",
-    "conflict-files-obsidian-git.md"
+    "Inbox/$ CT xray - MOC^.md"
   ]
 }
