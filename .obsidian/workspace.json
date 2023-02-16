@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/$ EAG by knee movement and loading - MOC.md",
+                "file": "Utility/⌨️Hotkeys.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/$ EAG by knee movement and loading - MOC.md",
+                "file": "Utility/⌨️Hotkeys.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/$ EAG by knee movement and loading - MOC.md",
+                "file": "Utility/⌨️Hotkeys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/$ EAG by knee movement and loading - MOC.md",
+                "file": "Utility/⌨️Hotkeys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/$ EAG by knee movement and loading - MOC.md"
+                "file": "Utility/⌨️Hotkeys.md"
               }
             }
           }
@@ -204,8 +204,8 @@
   },
   "active": "2fba7a3283dbf859",
   "lastOpenFiles": [
-    "Inbox/$ CT xray - MOC.md",
     "Inbox/$ EAG by knee movement and loading - MOC.md",
+    "Inbox/$ CT xray - MOC.md",
     "Inbox/= EAG - potentials.md",
     "Inbox/= EAG - cell biology.md",
     "Inbox/electroarthrography.md",
