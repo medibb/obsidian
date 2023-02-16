@@ -36,7 +36,9 @@
 
 ## Window
 - window + SPACE : 입력기 전환 (==한영전환 안될때==)
-
+- window + B : 알림영역
+- window + U : 접근성 센터 (추가 디스플레이 설정 클릭으로 ==디스플레이 설정 들어갈때==)
+- window + Shift + 화살표: 한번에 모니터 끼리 이동
 
 
 # Google

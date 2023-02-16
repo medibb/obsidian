@@ -11,24 +11,15 @@
             "id": "770d81bc7ccf25b5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "53f899037237cd04",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Utility/⌨️Hotkeys.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -104,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Utility/⌨️Hotkeys.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -147,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Utility/⌨️Hotkeys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Utility/⌨️Hotkeys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Utility/⌨️Hotkeys.md"
               }
             }
           }
@@ -211,11 +202,11 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "53f899037237cd04",
+  "active": "770d81bc7ccf25b5",
   "lastOpenFiles": [
+    "Inbox/$ EAG by knee movement and loading - MOC.md",
     "conflict-files-obsidian-git.md",
     "Utility/⌨️Hotkeys.md",
-    "Inbox/$ EAG by knee movement and loading - MOC.md",
     "Inbox/$ CT xray - MOC.md",
     "Inbox/= EAG - potentials.md",
     "Inbox/= EAG - cell biology.md",
