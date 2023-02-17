@@ -182,7 +182,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -202,7 +203,7 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "770d81bc7ccf25b5",
+  "active": "5d1585ddc7539a12",
   "lastOpenFiles": [
     "Inbox/; 혁신형 의사과학자회의.md",
     "Utility/⌨️Hotkeys.md",
