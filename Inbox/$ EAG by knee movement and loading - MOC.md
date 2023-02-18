@@ -38,7 +38,7 @@ knee EAG가 무릎 운동에서 어떻게 측정되는 지 평가하고자 함.
 			- [[zhuMechanicalLoadingKnee2016]] - 개별 근 수축 관련
 			- COG 에 따른 변화
 		3. 반복된 weight shift 에서 신호값이 줄어듦 - ==cyclic loading 에 의해 연골이 전기적 상태가 변함==
-			- [[zhuDecreaseElectricalPotentials2016]]  - 반복된 수축에 의한 변
+			- [[zhuDecreaseElectricalPotentials2016]]  - 시간에 따라 줄어드는 량 - mechanobiology와 관련될듯..
 		4. movement는 weight shift 사용 - ==연골 부하 위치가 비슷==
 		5. sensor point 는 joint line area - computer modeling하였음 - ==PF joint 의 정보는 없음==
 	2. Elbow EAG에 대해 1가지 논문을 발표한 인도 그룹
@@ -49,6 +49,10 @@ knee EAG가 무릎 운동에서 어떻게 측정되는 지 평가하고자 함.
 	- 관절 전도의 크기는 Buschmann  논문에서  0.25mv 로 관찰되었으며, 퍼듀대학 의공학 교실[bobb2022](babbsOriginElectroarthrogramStreaming) 에서 수학적 모델링으로 0.175mv일 것으로 예상했다.
 	- 내부의 electrostatic potential 로 diapole 이 형성되어서 해당 전위를 외부에서 측정하는 것으로 해석하고 모델링 하였다.
 	- ![[babbsOriginElectroarthrogramStreaming#img]]
+	- 크기가 COG 나 근육수축에 따라서 얼마나 변하는가? - non-lieaner 관계의 대략적 추측 필요 - 이에 대하여 loading 의 양을 추측해볼 수 있을 것이다.
+	- 초기에 했던 의자를 잡아서 COG 가 많이 흔들리지 않게 하는  finding
+	- 실제 joint line 보다 앞에서 크기가 더 컸던 사례등 - 최적화 전극 에 대한 finding  일 수 있음
+	- 다리펴기는 수동다리펴기와 스쿼트는 wall squat 혹은 다른 다리가 붙어있는 수동검사와 비교해야할수 있다.
 
 - 무릎의 biokinematics에 대하여 
 	- 관절연골은 세군데 있다.
