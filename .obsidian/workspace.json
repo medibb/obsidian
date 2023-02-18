@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/% 병원보 - 어깨의 운동치료.md",
+                "file": "Inbox/$ EAG by knee movement and loading - MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/% 병원보 - 어깨의 운동치료.md",
+                "file": "Inbox/$ EAG by knee movement and loading - MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/% 병원보 - 어깨의 운동치료.md",
+                "file": "Inbox/$ EAG by knee movement and loading - MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/% 병원보 - 어깨의 운동치료.md",
+                "file": "Inbox/$ EAG by knee movement and loading - MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/% 병원보 - 어깨의 운동치료.md"
+                "file": "Inbox/$ EAG by knee movement and loading - MOC.md"
               }
             }
           }
@@ -201,17 +201,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d1585ddc7539a12",
+  "active": "770d81bc7ccf25b5",
   "lastOpenFiles": [
+    "Inbox/& EAG - draft.md",
+    "Dataview/&.md",
+    "Dataview/💳️ Kanban.md",
+    "Inbox/+ journal developing process by bianca.md",
+    "Inbox/% 2023-02-17 병원보 - 어깨의 운동치료.md",
+    "Dataview/%.md",
+    "Inbox/% 0208 PRML lab meeting.md",
     "Inbox/; 혁신형 의사과학자회의.md",
     "Utility/⌨️Hotkeys.md",
-    "Inbox/$ EAG by knee movement and loading - MOC.md",
-    "conflict-files-obsidian-git.md",
-    "Inbox/$ CT xray - MOC.md",
-    "Inbox/= EAG - potentials.md",
-    "Inbox/= EAG - cell biology.md",
-    "Inbox/electroarthrography.md",
-    "Template/MOC.md",
-    "Inbox/$ CT xray - MOC^ㄱ.md"
+    "Inbox/$ EAG by knee movement and loading - MOC.md"
   ]
 }

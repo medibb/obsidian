@@ -1,4 +1,3 @@
-  
 -   `Title:` [[$ EAG by knee movement and loading - MOC]]
 -   `Type:` [[$]]
 -   `Tags:` #🧠️/📝️/🌞️ 
