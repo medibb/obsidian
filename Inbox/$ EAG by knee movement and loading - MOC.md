@@ -32,8 +32,10 @@ knee EAG가 무릎 운동에서 어떻게 측정되는 지 평가하고자 함.
 ## 2.0 Introductive factors
 - From related work: 기존 연구는 3가지로 나뉠 수 있다.
 	1. Buschmann et al. 의 메인 연구그룹의 논문들
-		1. OA 와 prosthetic knee 에서의 EAG 감소 및 소실보고 - ==가장 큰 의의, 제일 첫 논문==
+		1. OA 와 prosthetic knee 에서의 EAG 감소 및 소실보고 - ==가장 큰 의의, 제일 첫 논문== 
+			- [[previlleElectroarthrographyNovelMethod2013]]
 		2. TFL & GCM 등의 knee joint crossing muscle  들이 COG 의 변화에 따라 자세유지를 위해 수축하는 것과 관련 - ==근 수축이 EAG신호를 바꾼다== 
+			- 
 		3. 반복된 weight shift 에서 신호값이 줄어듦 - ==cyclic loading 에 의해 연골이 전기적 상태가 변함==
 		4. movement는 weight shift 사용 - ==연골 부하 위치가 비슷==
 		5. sensor point 는 joint line area - computer modeling하였음 - ==PF joint 의 정보는 없음==
