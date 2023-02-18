@@ -21,7 +21,7 @@ knee movment 는 다리펴기 / 스쿼트 에 해당하는 두가지 가장 흔�
 knee EAG가 무릎 운동에서 어떻게 측정되는 지 평가하고자 함.
 이를 위해 최적의 센서 위치를 찾고 
 무릎관절 운동 중 각도 변화에 의해 유발되는 기저 EAG값(연골의 얕은 접촉과 변형) vs 추가 부하(근수축과 관절의 moment에 따른 연골의 깊은 접촉과 변형)에 따른  EAG값 비교
-	이 후 최대 부하(최대의 근수축 혹은 weight 부하, e.g. 80% 1RM)에 따른 EAG 값 비교
+	이 후 최대 부하(최대의 근수축 혹은 weight 부하, e.g. 80% 1RM)에 따른 EAG 값 비교교
 
 
 
@@ -32,11 +32,11 @@ knee EAG가 무릎 운동에서 어떻게 측정되는 지 평가하고자 함.
 ## 2.0 Introductive factors
 - From related work: 기존 연구는 3가지로 나뉠 수 있다.
 	1. Buschmann et al. 의 메인 연구그룹의 논문들
-		1. OA 와 prosthetic knee 에서의 EAG 감소 및 소실보고
-		2. TFL & GCM 등의 knee joint crossing muscle  들이 COG 의 변화에 따라 자세유지를 위해 수축하는 것과 관련
-		3. 반복된 weight shift 에서 신호값이 줄어듦
-		4. movement는 weight shift 사용 - 연골 부하 위치가 일정했을 것
-		5. sensor point 는 joint line area - computer modeling하였음 - PF joint 의 정보는 없을 것
+		1. OA 와 prosthetic knee 에서의 EAG 감소 및 소실보고 - ==가장 큰 의의, 제일 첫 논문==
+		2. TFL & GCM 등의 knee joint crossing muscle  들이 COG 의 변화에 따라 자세유지를 위해 수축하는 것과 관련 - ==근 수축이 EAG신호를 바꾼다== 
+		3. 반복된 weight shift 에서 신호값이 줄어듦 - ==cyclic loading 에 의해 연골이 전기적 상태가 변함==
+		4. movement는 weight shift 사용 - ==연골 부하 위치가 비슷==
+		5. sensor point 는 joint line area - computer modeling하였음 - ==PF joint 의 정보는 없음==
 	2. Elbow EAG에 대해 1가지 논문을 발표한 인도 그룹
 	3. 예전 cartilage streaming potential 및 strain-generated potential 에 대한 최신연구들
 	- Tibiofemoral cartilage loading 에 따라서 joint line 에서 연골전위가 측정된다. Cartilage 는 SGP - strain generated potential 을 만든다.
