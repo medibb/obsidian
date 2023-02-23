@@ -40,6 +40,31 @@ AE: cardiovascular death, Heart attack, stroke
 
 Wolff's law
 
+weight bearing athletes - 10% BMD 높다
+- Female athlete Triad can negate the effect
+peak BMD 는 여성은 18세 남성은 20세에 얻어진다.
+26% of final bone mass is obtained in ealy teenage (11~13.5 for girl)
+Types of loading activity
+	HIgh - martial arts
+	multidirectional - soccer
+	repetitive low - long distance running (BMD)
+	non-impact loading - cycling, swimming : lower BMD compared with do nothing
+osteogenic potential for bone
+GRF > 3.5x BW with peak force <0.1s
+2007 study 본인 Br J Sports Med.- running vs soccer : 
+lumbar spine - runner 에서 control 보다 오히려 낮았다.
+soccer player 는 모든 면에서 높았따. 
+cellular desensitization to a continous mechanical load
 
+Bone GEometry Study
+
+Israeli millitary study
+- playing bone sports for 2years had 64-84% reduction in bone stress injuries
+- runners - same as control
+
+Ball sports study
+118 elite distance runner who participant ball sports previously 
+50% reduction in developing bone stress inj.
+female - menstrual - no benefit
 
 🔗LINKS TO THIS PAGE
