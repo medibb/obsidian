@@ -103,6 +103,13 @@ Fredericson: Vit D 가 30이상이면 정상이지만 at least 40 이면 예방�
 
 만약 여자선수 mens dysfunction 있는 경우 정상 체중으로 만들어서 mens를 정상으로 돌리는 것을 먼저시도해봄
 
-10~14 일 이후에 healthy nutrition 이 도움이 된다. 
+healthy nutrition 이 10~14 일 이후에 도움이 된다는 증거가 나옴? 
+
+질문: VF 이후의 처치?
+3개월동안 통증이 심한데, 그것만 견디고나면 VF 안함.
+fast anabolic therapy 가 1st line Tx 로 추천된다.
+
+Bone stimulator- BSI에서는 잘 안쓰는데 쓰는거 같냐는 질문
+- 처컬리 Tx를 쓴다.? BSI 에서 같이 썼을떄 효과가 좋은 것은 같았는데 5000달러다.. 
 
 🔗LINKS TO THIS PAGE
