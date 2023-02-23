@@ -1,4 +1,3 @@
-
 -   `Title:` [[physiatry23 bone health]]
 -   `Type:` [[=]]
 -   `Tags:` #🧠️/📝️/🌱️ 
@@ -79,7 +78,7 @@ bone stress inj. 는 15%에서 나타나는데 러너에서는 많이 나타남
 Female TRIAD
 	low energy availiability +- disordered eating
 	low bone mineral density
-	menstrual dysfunction
+	menstrual dysfunction (amenorrhea 등)
 
 Nutrition intervention
 detect low energy availability and offer nutrition properly
@@ -95,5 +94,15 @@ cortical bone 은 좀더 biomechanical shear stress 에 취약
 # Post-fracure care program - Andria fox, MHA, MMS
 
 FLS : fracture liaison service
+
+질문:  약이 실패하는 것의 판단기준?
+정확한 기준은 없지만 2개이상의 즉 multiple fracture 가 생기면 medication 의 실패이다. 다만 약이 변화를 가져오는데 대략 6~12개월 걸리니까 그 이후에 발생한 골절로 생각해 볼수 있다. 예를들어 약을쓰고 1달안에 fracture 가 생겼으면 실패가 아니라고 볼수있다.
+
+질문: vit D 를 얼마나 유지하는 것이좋은가?
+Fredericson: Vit D 가 30이상이면 정상이지만 at least 40 이면 예방효과가 있는것으로 결과를 확인하고 그것보다 조금 더 높게 유지하려고 한다.
+
+만약 여자선수 mens dysfunction 있는 경우 정상 체중으로 만들어서 mens를 정상으로 돌리는 것을 먼저시도해봄
+
+10~14 일 이후에 healthy nutrition 이 도움이 된다. 
 
 🔗LINKS TO THIS PAGE
