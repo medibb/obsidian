@@ -66,5 +66,34 @@ Ball sports study
 118 elite distance runner who participant ball sports previously 
 50% reduction in developing bone stress inj.
 female - menstrual - no benefit
+PRO-BONE Study / 2018 MSSE Viachopoulos D. et al
+9-month progressive jumping intervention - significantly improve BMD, bone geometry / soccer player did not get additional augmentation
+
+
+Summary
+specialization should be avoided
+jumping & multidirectional loading may be beneficial for optimizing bone health
+
+bone stress inj. 는 15%에서 나타나는데 러너에서는 많이 나타남
+
+Female TRIAD
+	low energy availiability +- disordered eating
+	low bone mineral density
+	menstrual dysfunction
+
+Nutrition intervention
+detect low energy availability and offer nutrition properly
+
+Women increased BMD in spine annually (Z-score 가 계속 상승)
+
+Trabecular vs Cortical
+trabecular bone stress injury 가 low energy 상태에 더 영향을 많이 받을 수 있다. impact 받는 면적이 넓으므로..
+cortical bone 은 좀더 biomechanical shear stress 에 취약
+
+
+---
+# Post-fracure care program - Andria fox, MHA, MMS
+
+FLS : fracture liaison service
 
 🔗LINKS TO THIS PAGE
