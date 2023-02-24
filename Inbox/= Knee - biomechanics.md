@@ -19,3 +19,5 @@ This action is caused by the large sagittal radii of the distal-anterior femoral
 
 The ligaments themselves can elongate a few millimeters under tension, whereas the cartilage surfaces can deform up to 0.5 to 1.0 mm. These factors allow for guided motion of the knee but with a considerable amount of laxity, especially in axial rotation.
 
+# tibial slope
+![[Pasted image 20230224174307.png]]
