@@ -64,6 +64,9 @@ resorptive phase를 radiograph 로 확인하는 그 간의 semi-quantitative ana
 ---
 
 ## 3. Future work
+heterogenicity 의 정량적 분석
+blurrness 의 정량적 분석
+AI segmentation of calcifications of shoulder
 
 ### 3.1. Knowledge gap
 
@@ -98,12 +101,13 @@ Maier M, Schmidt-Ramsin J, Glaser C, Kunz A, Küchenhoff H, Tischer T. Intra- an
 			- mid-tendon에 oval shape으로 모여있고 그림자도 없는데 잘 안나오는경우 있긴 있음..
 
 ### 3.2. Methods to fill the gap
-- gray scale analysis - gray value & histogram analysis
+- gray scale analysis - gray value & heterogenicity analysis, blurring anlayis
 
 #### Parameter definitions
 - Radiographic
 	- Grey value parameters : mean(c delta), max(c delta), Q1-Q3
 	- Spatial heterogenicity parameters(histogram analysis) parameters:  Skewness, Kurtosis, Entropy, Complexity
+	- blurriness: standard deviation from laplacian operator
 - Ultrasonographic
 	- morphologic classification(fragmented, blackhole, echogenic fluid.. 22년논문참고)
 	- acoustic shadowing(well-defined vs faint or none)

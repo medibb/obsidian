@@ -11,7 +11,7 @@ word: mechanotransduction, ferroelectricity, ionic-driven, piezoelectricity, str
 
 SGP는 1966년에 먼저 발견되었고, 1972년에 몇가지 연골에서 발견되었으며, stress-induced remodelling of soft tissue에 대해서 말하고 있음.
 
-piezoelectricity 조차도 폐조직에서 조차 보고되었음 2017, 2018
+piezoelectricity 조차도 폐조직에서 보고되었음 2017, 2018
 
 cartilage 혹은 synovium 에 있는 mechanoreceptor / electricity receptor / OA에서의 변화
 

@@ -118,7 +118,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6895773887546138,
+                  "scale": 0.9412920728408968,
                   "close": true
                 }
               }
@@ -182,8 +182,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -203,15 +202,15 @@
   },
   "active": "2d439862e58fb6aa",
   "lastOpenFiles": [
+    "Inbox/= EAG - potentials.md",
+    "Inbox/$ EAG by knee movement and loading - MOC.md",
+    "Inbox/$ CT xray - MOC.md",
     "Dataview/💳️ Kanban.md",
     "Dataview/✏️ Workbench.md",
     "Utility/🕓️ Timeline.md",
     "Inbox/physiatry23 bone health.md",
     "Inbox/% 류마티스학회 자가운동법.md",
     "Inbox/% ClinPain 임통춘계 hip 관절외병변.md",
-    "Dataview/%.md",
-    "Dataview/&.md",
-    "Dataview/$.md",
-    "Inbox/$ EAG by knee movement and loading - MOC.md"
+    "Dataview/%.md"
   ]
 }
