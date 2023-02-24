@@ -6,7 +6,7 @@
 ---
 
 ## EAG - Data Analysis
->The data was colleced following the [[= EAG - Methodology]].  After collection, the data was anlysed following a multi-stageinductive analysis of the data.
+>The data was colleced following the [[= Knee - biomechanics]].  After collection, the data was anlysed following a multi-stageinductive analysis of the data.
 
 The results of each stage are available below:
 
