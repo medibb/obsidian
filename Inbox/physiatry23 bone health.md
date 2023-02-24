@@ -3,7 +3,7 @@
 -   `Tags:` #🧠️/📝️/🌱️ 
 -   `Formation Date:` [[2023-02-24]]
 ---
-# Aurellia
+# Medication for osteoporosis - Aurellia
 Vit D +calcium - Institure of medicine(IOM) guidelines
 baseline vit D status determine dosing
 - children to adult: 600 / 70세 이상 800
