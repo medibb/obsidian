@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dataview/✏️ Workbench.md",
+                "file": "Inbox/$ EAG by knee movement and loading - MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#🧠️/📝️/🌱️",
+                "query": "from",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dataview/✏️ Workbench.md",
+                "file": "Inbox/$ EAG by knee movement and loading - MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -118,7 +118,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224449,
+                  "scale": 0.6895773887546138,
                   "close": true
                 }
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dataview/✏️ Workbench.md",
+                "file": "Inbox/$ EAG by knee movement and loading - MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dataview/✏️ Workbench.md",
+                "file": "Inbox/$ EAG by knee movement and loading - MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dataview/✏️ Workbench.md"
+                "file": "Inbox/$ EAG by knee movement and loading - MOC.md"
               }
             }
           }
@@ -203,15 +203,15 @@
   },
   "active": "2d439862e58fb6aa",
   "lastOpenFiles": [
+    "Dataview/💳️ Kanban.md",
+    "Dataview/✏️ Workbench.md",
+    "Utility/🕓️ Timeline.md",
     "Inbox/physiatry23 bone health.md",
     "Inbox/% 류마티스학회 자가운동법.md",
     "Inbox/% ClinPain 임통춘계 hip 관절외병변.md",
     "Dataview/%.md",
     "Dataview/&.md",
     "Dataview/$.md",
-    "Inbox/$ EAG by knee movement and loading - MOC.md",
-    "Z/previlleElectroarthrographyNovelMethod2013/previlleElectroarthrographyNovelMethod2013.md",
-    "Inbox/& EAG - draft.md",
-    "Dataview/💳️ Kanban.md"
+    "Inbox/$ EAG by knee movement and loading - MOC.md"
   ]
 }

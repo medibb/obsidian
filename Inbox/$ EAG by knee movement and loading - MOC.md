@@ -13,6 +13,7 @@ This is the MOC about EAG by knee movement and loading
 EAG는 관절연골에서 발생하는 전위를 기록하는 것
 
 임상에서 활용할 수 있다면 진단적 가치(연골의 병적변화 초기진단)를 가질 수 있음
+Early diagnosis of cartilage pathology - laboratory biomarker (MMP3, CTX II, COMP)에 비하여 비침습적이면서 연골의 측ㅈcell biology 전기생리학적인 변화
 
 knee movment 는 다리펴기 / 스쿼트 에 해당하는 두가지 가장 흔한 운동 동작
 
