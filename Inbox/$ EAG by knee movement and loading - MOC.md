@@ -104,8 +104,8 @@ knee EAG가 무릎 운동에서 어떻게 측정되는 지 평가하고자 함.
 	- 가설1 : 표면전극으로 부터 연골의 상대적 위치 변화가 제일 적은 위치에서는 연골의 부하에 따른 전위를 가장 일관되게 보여줄 수 있다.
 	- 가설 2: 상대적위치가 변하지만, 운동의 진행을 잘 알려주는 위치를 특정할 수 있다.
 - 능동신전에서 부하가 가해진 연골의 전위는 수동신전에서 관절각도 변화와 그에 따른 수동적인 부하만 있는 연골보다 더 큰 전위 변화를 일으킬 것이다.
-	- 하지만 관절의 운동중에 발생하는 복합적인 관절연골 접촉면의 이동과 전극과의 상대거리 변화는 관찰에 어려움을 만들 수 있다.
-	- 관절연골의 deformation이 unloading 이후에도 사라지지 않는다면 electrostatic potential 이 남아있을 수 있겠지만, 기존연구와 선행연구에서 모두 unloading 과함께 즉시 potential 이 사라지는 것이 관찰됨
+	- 하지만 관절의 운동 중에 발생하는 복합적인 관절연골 접촉면의 이동과 전극과의 상대거리 변화는 관찰에 어려움을 만들 수 있다.
+	- 관절연골의 deformation이 unloading 이후에도 사라지지 않는다면 electrostatic potential 이 남아있을 수 있겠지만, 기존연구와 선행연구에서 모두 unloading 과 함께 즉시 potential 이 사라지는 것이 관찰됨
 		- unloading 과 함께 cartilage ECM에서 convection 되었던 Na 등 cation 들이 즉시 이동되면서 electrostatic field 가 없어진다고 해석해야함.
 		- cartilage 높이가 줄어든다는 내용은 국소적인 deformation이 지속된다기 보다 cartilage 자체에서 fluid 가 빠져나가는 것으로 해석할 수 있겠다.
 	  ![[poillotStraingeneratedElectricalPotential2021#^ab5369]]
