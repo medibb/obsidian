@@ -23,4 +23,8 @@ The ligaments themselves can elongate a few millimeters under tension, whereas t
 ![[Pasted image 20230224174307.png]]
 
 # meniscus
+접촉면적을 넓혀서 스트레스분산하고 활액을 연골면에 모아서 lubrication 역할을 
 The menisci aid in distributing the stresses and reducing the pressures imposed on the tibial plateaus
+They prevent undue forward gliding (sliding) of the femur on the tibia, analogous to a chock under a wheel: on the lateral side, this applies at the extremes of motion due to the anterior–posterior mobility of the meniscus; on the medial side, this occurs anteriorly in early flexion and posteriorly in late flexion. They distribute weight across the joint by increasing the area of contact: This has been supported by subsequent studies. They assist in the lubrication of the joint: this will occur by replenishing the synovial fluid over the cartilage surfaces during flexion
+
+The results confirmed that from 0° to 90° flexion, the menisci carried at least 50% of the load. When the menisci were removed, the contact areas reduced by 50% and the average contact stresses doubled.
