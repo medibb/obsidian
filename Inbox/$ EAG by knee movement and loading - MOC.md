@@ -13,7 +13,8 @@ This is the MOC about EAG by knee movement and loading
 EAG는 관절연골에서 발생하는 전위를 기록하는 것
 
 임상에서 활용할 수 있다면 진단적 가치(연골의 병적변화 초기진단)를 가질 수 있음
-Early diagnosis of cartilage pathology - laboratory biomarker (MMP3, CTX II, COMP)에 비하여 비침습적이면서 연골의 측ㅈcell biology 전기생리학적인 변화
+Early diagnosis of cartilage pathology - 현재는 laboratory biomarker (MMP3, CTX II, COMP)가 있으나, 침습적 - 이에 대한 참고문헌조사필요
+비하여 비침습적이면서 연골의 측면에서는 chondrocyte cell biology, 그리고 EAG가 knee joint의 전기생리학적인 변화를 반영하는 지 여부를 확인한다.
 
 knee movment 는 다리펴기 / 스쿼트 에 해당하는 두가지 가장 흔한 운동 동작
 
@@ -43,7 +44,7 @@ knee EAG가 무릎 운동에서 어떻게 측정되는 지 평가하고자 함.
 		4. movement는 weight shift 사용 - ==연골 부하 위치가 비슷==
 		5. sensor point 는 joint line area - computer modeling하였음 - ==PF joint 의 정보는 없음==
 	2. Elbow EAG에 대해 1가지 논문을 발표한 인도 그룹
-	3. 예전 cartilage streaming potential 및 strain-generated potential 에 대한 최신연구들
+	3. 예전 cartilage streaming potential 및 strain-generated potential 에 대한 기초연구들
 	- Tibiofemoral cartilage loading 에 따라서 joint line 에서 연골전위가 측정된다. Cartilage 는 SGP - strain generated potential 을 만든다.
 
 - 관절전도 전위의 크기, 방향에 대하여
