@@ -21,3 +21,6 @@ The ligaments themselves can elongate a few millimeters under tension, whereas t
 
 # tibial slope
 ![[Pasted image 20230224174307.png]]
+
+# meniscus
+The menisci aid in distributing the stresses and reducing the pressures imposed on the tibial plateaus
