@@ -38,6 +38,10 @@ Introduction
 	- line 203 - 4주간의 운동으로는 실제 muscle 의 lengthening 이 얻어지지 않으며, modified sensation 으로 인한 extensibility 의 증가라고 보고되고 있습니다. 만약 몇몇 보고에서 처럼 실제 4주간의 운동만으로도 lengthening 이 일어난 것이라면 해당 관찰증거가 제시되어야 합니다. 때문에 해당 표현은 legthening 에 대한 관찰증거를 outcome으로 제시하거나 혹은 extensibility가 증가했을 수 있다는 표현이 더 정확합니다.
 	  또한 normal legth로 부터의 muscle length extension은 오히려 excessive joint motion으로 이어질 수 있으므로, shortening  된 muscle이 정상 length로 회복되었을 것이라는 추측 혹은 초기 muscle이 shortening 되어있거나 ROM이 감소되어 있었다는 관찰증거 제시가 필요할 것입니다.
 	  - line 206 - 어떤 과정을 통해서 본 연구에 implement 한 선행연구의 lumbopelvic program 이 CV anlge을 증가시킬 수 있을거라고 생각했는지 설명과 해석이 필요합니다.
+  - page 11
+	  - line 223 -  lumbosacral soft tissue elongation 과 strengthening 이 어떻게 neck disability 를 줄였다고 추측하는지에 대한 rationale 이 필요합니다.
+	  - line 225 - implemented global spinal excersice의 myofascial fiber의 stress 및 pain 의 감소 효과를 설명하고 있는데, 이 문장에 의하면 해당 subject 들이 애초에 lumbar spinal pain 을 가지고 있었고 그 것이 호전된 것은 아닌지, NDI에 lumbar pain이 영향을 주었을 가능성을 배제할 수 없습니다. lumbar pain 이 있는 사람들에게서 NDI 를 조사할때 neck pain 으로 인한 영향만 조사가 된것인지도 address 되지 않았습니다.  
+때문에 해당 환자들의 lumbar spine exercise 의 효과가 myofascial pain을 가진 환자의 pain-spasm-pain cycle 의 해소에 의한 것이 아니라, lumbar alignment 자체의 변화에 의한것인지 cervical stress 를 제거해준 것인지 분명히 설명할 필요가 있습니다.
 	  
 
 
