@@ -5,12 +5,13 @@
 -   `Formation Date:` [[2023-02-27]]
 ---  
 Comments to the Author  
-The authors conduct an interesting study on the influence of Forward head posture correction using global(cervical & lubar) spinal program on craniovertebral angle, neck disability and spinal muscle activity. 
+The authors conduct an interesting study on the influence of Forward head posture correction using global(cervicothoracic & lubar) spinal program on craniovertebral angle, neck disability and spinal muscle activity. 
 
 
 I do think more rationale how the exercise program could change the CVA and greater explanation as to an anatomical or biomechanical standpoint would be needed.
 
 Introduction  
+- page 2 line
 • Page 4 line 45- more introduction into the rationale, biomechanics, and aim of the study would be helpful prior to jumping into the technique. This section may be better included in the methods.  
 • Page 5 line 10- the aims here state that you will be investigating the diagnostic value, though I am not sure the methods are necessarily set up to demonstrate the diagnostic value of this test (i.e differentiating those with OA vs those without).  The phrase ‘regarding different clinical situations’ is not clear- I would make this more explicit. I would also include a hypothesis statement.  
 Methods  
