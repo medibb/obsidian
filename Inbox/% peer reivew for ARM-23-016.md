@@ -31,6 +31,7 @@ Introduction
 - page 5
 	- line 100 - technical 부분은 잘 묘사하고 있다고 생각됩니다. 다만 환자에게 어떻게 서있으라고 지시하였는지, 어디를 주시하라고 하였는지 기술하는 것이 필요합니다. 해당 카메라 측정은 head and trunk rotation 에 영향을 받을 수 있으므로 이를 어떻게 제어하였는지 혹은 보정하였는지 기술이 필요합니다.
 - page 6
+	- line 177 - CES의 근활성도는 neck or head retraction 에 따른 moment arm 과 torque 의 감소로 자연스럽게 감소함.  정확한 비교를 위해서는 같은 neck posture 를 유지하기 위해 필요한 MVIC 의 결과를 비교했어야 할 것으로 보입니다.
 
 
 
