@@ -19,16 +19,24 @@ Introduction
 - page 3
 	- line 59 - 이 부분은 method section 에 어울립니다.
 	- line 71 - exclusion criteria 에서 수술하였거나 , severe pain 이 있는 사람은 제외되었으므로 그것을 결론에 포함시켜야 되겠습니다. severe pain 의 기준이 무엇인지 기술하는 것이 필요합니다.
+	  exclusion criteria에서 기술하고 있지 않은 internal disc derangement 를 포함한 degenerative disc disease, birth defect, tumor, infection, systemic disease가 통증과 CV angle reduction 의 co-variate 일 수 있으며, 특히 많은 경우에서 degenerative disc 에 의해 야기되는 sagittal imbalance 가 natural healing에 따른 improvement 된 것을 배제하기 위한 robust 한 subject description 이 필요합니다.
 	- line 74 - 30세 미만의 젊은 여성이라는 매우 제한적인 대상자에 대한 결과라는 것을 limitation 뿐만아니라 title 과 conclusion에 포함시켜서 보고하는 것이 올바르겠습니다. 
 	  30세 이하의 젊은 여성에서 NDI 를 가지고 있다는 것은 현재 통증을 가진 환자라는 것으로 퇴행성 변화와 통증이 없는 젊은 여성들이 목 통증으로 인한 neck disability를 가지게 된 원인이 무엇인지, 본 연구의 exclusion criteria 로 제외되지 않은 neck spinal diesease 를 가지고 있는 것은 아닌지 명확히 제시될 필요가 있습니다. 그렇지 않다면 어떻게 subject 의 painful neck 의 heterogenous condition 을 control 하였는지 보여줄 필요가 있습니다.
-painful neck 에 의한 transient CV angle reduction 의 4주 동안 natural course 로의 회복을 배제할 수 없다.  
-degenerative disc disease, birth defect, tumor, infection, systemic disease가 통증과 CV angle reduction 의 co-variate 일 수 있으며, degenerative disc 의 natural healing에 따른 improvement 를 배제하기 위한 robust 한 subject description 이 필요하다.
-	- line 75 - 여성에서 근력이 약한 것은 맞지만 NDI의 prevalence가 높다는 근거가 필요합니다. 20번 reference 는 해당 근거가 되지 않습니다.
+	  	- line 75 - 여성에서 근력이 약한 것은 맞지만 NDI의 prevalence가 높다는 근거가 필요합니다. 20번 reference 는 해당 근거가 되지 않습니다.
+	  	
+
+
 - page 4
-	- line 83 - intervention 을 하지 않고 경과관찰을 시행한 comntrol group 이 필요합니다. 윤리적문제로 치료를 시행하지 않을 수 없었다면 해당 내용에 대한 기술이 필요하겠습니다. 다만, 자세 교육과 스트레칭 운동만을 시행한 그룹을 control 로 생성하는 것은 윤리적 문제를 야기하지 않을 수 있을 것으로 생각됩니다.
+	- line 83 - intervention 을 하지 않고 경과관찰을 시행한 comntrol group 이 필요합니다. 윤리적문제로 치료를 시행하지 않을 수 없었다면 해당 내용에 대한 기술이 필요하겠습니다. 다만, 자세 교육과 스트레칭 운동만을 시행한 그룹을 control 로 생성하는 것은 윤리적 문제를 야기하지 않을 수 있을 것으로 생각됩니다. 그렇지 않다면 neck pain의 호전에 따라 transient CV angle reduction이 4주 동안 natural course 로 회복된 것을 배제할 수 없다.  
 - page 5
 	- line 100 - technical 부분은 잘 묘사하고 있다고 생각됩니다. 다만 환자에게 어떻게 서있으라고 지시하였는지, 어디를 주시하라고 하였는지 기술하는 것이 필요합니다. 해당 카메라 측정은 head and trunk rotation 에 영향을 받을 수 있으므로 이를 어떻게 제어하였는지 혹은 보정하였는지 기술이 필요합니다.
-또한 radiographic CV angle과의 상관성을 기술해주어야 한다.
+- page 6
+
+
+
+
+
+
 • Page 4 line 45- more introduction into the rationale, biomechanics, and aim of the study would be helpful prior to jumping into the technique. This section may be better included in the methods.  
 • Page 5 line 10- the aims here state that you will be investigating the diagnostic value, though I am not sure the methods are necessarily set up to demonstrate the diagnostic value of this test (i.e differentiating those with OA vs those without).  The phrase ‘regarding different clinical situations’ is not clear- I would make this more explicit. I would also include a hypothesis statement.  
 Methods  
