@@ -31,7 +31,9 @@ Introduction
 - page 5
 	- line 100 - technical 부분은 잘 묘사하고 있다고 생각됩니다. 다만 환자에게 어떻게 서있으라고 지시하였는지, 어디를 주시하라고 하였는지 기술하는 것이 필요합니다. 해당 카메라 측정은 head and trunk rotation 에 영향을 받을 수 있으므로 이를 어떻게 제어하였는지 혹은 보정하였는지 기술이 필요합니다.
 - page 6
-	- line 177 - CES의 근활성도는 neck or head retraction 에 따른 moment arm 과 torque 의 감소로 자연스럽게 감소함.  정확한 비교를 위해서는 같은 neck posture 를 유지하기 위해 필요한 MVIC 의 결과를 비교했어야 할 것으로 보입니다.
+	- line 122 - 사전연구의 실험 방법을 이번 본문에서도 자세하게 기술해주는 것이 처음보는 독자들에게 도움이 되겠습니다. 해당 reference 에서는 CES에 대한 MVIC 측정에 있어서 sitting 자세에서 대상자에게 maximal resist를 주었다고 되어있습니다. neck의 ROM 중 어느 위치에서 maximal resist를 주었는지 기술할 필요가 있겠습니다.
+- page 9
+	- line 177 - 정확한 비교를 위해서 같은 neck posture 에서 MVIC 측정이 이루어졌는지 method section에서 자세하게 기록해야 할 것으로 보입니다. 반면 자연스럽게 서있는 자세에서 FHP의 교정이 이루어진 상태에서 CES의 %MVIC가 측정되었다면, neck or head retraction 에 따른 moment arm 과 torque 의 감소로 자연스럽게 감소한 결과로 해석될 수 있습니다.
 
 
 
