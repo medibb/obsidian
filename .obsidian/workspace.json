@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2d439862e58fb6aa",
+            "id": "6a937f298e695f3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/% ClinPain 임통춘계 hip 관절외병변.md",
+                "file": "Inbox/% peer reivew for ARM-23-016.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/% ClinPain 임통춘계 hip 관절외병변.md",
+                "file": "Inbox/% peer reivew for ARM-23-016.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/% ClinPain 임통춘계 hip 관절외병변.md",
+                "file": "Inbox/% peer reivew for ARM-23-016.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/% ClinPain 임통춘계 hip 관절외병변.md",
+                "file": "Inbox/% peer reivew for ARM-23-016.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/% ClinPain 임통춘계 hip 관절외병변.md"
+                "file": "Inbox/% peer reivew for ARM-23-016.md"
               }
             }
           }
@@ -200,17 +200,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2d439862e58fb6aa",
+  "active": "6a937f298e695f3b",
   "lastOpenFiles": [
-    "Inbox/= Knee - biomechanics.md",
-    "Inbox/Pasted image 20230224174307.png",
-    "Inbox/오십견치료 가이드라인.md",
     "Inbox/physiatry23 bone health.md",
-    "Dataview/Pasted image 20230201093840.png",
-    "Inbox/; 혁신형 의사과학자회의.md",
-    "Inbox/( Myotendinous junction.md",
-    "Inbox/& EAG - draft.md",
+    "Inbox/2023-02-01.md",
+    "Inbox/오십견치료 가이드라인.md",
+    "Inbox/Pasted image 20230224174307.png",
+    "Inbox/Pasted image 20230224175022.png",
     "Inbox/$ EAG by knee movement and loading - MOC.md",
-    "Inbox/= EAG - potentials.md"
+    "Inbox/$ Calcific tendinitis.md",
+    "Inbox/$ CT xray - MOC.md",
+    "Dataview/$.md",
+    "Inbox/=CT USG classification.md"
   ]
 }
