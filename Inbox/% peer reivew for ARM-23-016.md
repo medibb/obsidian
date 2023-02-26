@@ -34,6 +34,11 @@ Introduction
 	- line 122 - 사전연구의 실험 방법을 이번 본문에서도 자세하게 기술해주는 것이 처음보는 독자들에게 도움이 되겠습니다. 해당 reference 에서는 CES에 대한 MVIC 측정에 있어서 sitting 자세에서 대상자에게 maximal resist를 주었다고 되어있습니다. neck의 ROM 중 어느 위치에서 maximal resist를 주었는지 기술할 필요가 있겠습니다.
 - page 9
 	- line 177 - 정확한 비교를 위해서 같은 neck posture 에서 MVIC 측정이 이루어졌는지 method section에서 자세하게 기록해야 할 것으로 보입니다. 반면 자연스럽게 서있는 자세에서 FHP의 교정이 이루어진 상태에서 CES의 %MVIC가 측정되었다면, neck or head retraction 에 따른 moment arm 과 torque 의 감소로 자연스럽게 감소한 결과로 해석될 수 있습니다.
+- page 10
+	- line 203 - 4주간의 운동으로는 실제 muscle 의 lengthening 이 얻어지지 않으며, modified sensation 으로 인한 extensibility 의 증가라고 보고되고 있습니다. 만약 몇몇 보고에서 처럼 실제 4주간의 운동만으로도 lengthening 이 일어난 것이라면 해당 관찰증거가 제시되어야 합니다. 때문에 해당 표현은 legthening 에 대한 관찰증거를 outcome으로 제시하거나 혹은 extensibility가 증가했을 수 있다는 표현이 더 정확합니다.
+	  또한 normal legth로 부터의 muscle length extension은 오히려 excessive joint motion으로 이어질 수 있으므로, shortening  된 muscle이 정상 length로 회복되었을 것이라는 추측 혹은 초기 muscle이 shortening 되어있거나 ROM이 감소되어 있었다는 관찰증거 제시가 필요할 것입니다.
+	  - line 206 - 어떤 과정을 통해서 본 연구에 implement 한 선행연구의 lumbopelvic program 이 CV anlge을 증가시킬 수 있을거라고 생각했는지 설명과 해석이 필요합니다.
+	  
 
 
 
