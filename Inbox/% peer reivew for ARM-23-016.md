@@ -40,13 +40,10 @@ Introduction
 	  - line 206 - 어떤 과정을 통해서 본 연구에 implement 한 선행연구의 lumbopelvic program 이 CV anlge을 증가시킬 수 있을거라고 생각했는지 설명과 해석이 필요합니다.
   - page 11
 	  - line 223 -  lumbosacral soft tissue elongation 과 strengthening 이 어떻게 neck disability 를 줄였다고 추측하는지에 대한 rationale 이 필요합니다.
-	  - line 225 - implemented global spinal excersice의 myofascial fiber의 stress 및 pain 의 감소 효과를 설명하고 있는데, 이 문장에 의하면 해당 subject 들이 애초에 lumbar spinal pain 을 가지고 있었고 그 것이 호전된 것은 아닌지, NDI에 lumbar pain이 영향을 주었을 가능성을 배제할 수 없습니다. lumbar pain 이 있는 사람들에게서 NDI 를 조사할때 neck pain 으로 인한 영향만 조사가 된것인지도 address 되지 않았습니다.  
-때문에 해당 환자들의 lumbar spine exercise 의 효과가 myofascial pain을 가진 환자의 pain-spasm-pain cycle 의 해소에 의한 것이 아니라, lumbar alignment 자체의 변화에 의한것인지 cervical stress 를 제거해준 것인지 분명히 설명할 필요가 있습니다.
-	  
-
-
-
-
+	  - line 225 - implemented global spinal excersice의 myofascial fiber의 stress 및 pain 의 감소 효과를 설명하고 있는데, 이 문장에 의하면 해당 subject 들이 애초에 lumbar spinal pain 을 가지고 있었고 그 것이 호전된 것은 아닌지, NDI에 lumbar pain이 영향을 주었을 가능성을 배제할 수 없습니다. lumbar pain 이 있는 사람들에게서 NDI 를 조사할때 neck pain 으로 인한 영향만 조사가 된것인지도 address 할 필요가 있습니다.
+	  - line 230 - 해당 문장에서 pain 과 discomfort 를 감소시켰다는 문장에서 neck pain에 대한 것을 말하는 것인 지 lumbar pain에 대한 것을 말하는 것인지 구분할 필요가 있습니다. neck pain 을 감소시켰다면 어떻한 이유라고 생각하는지 자세히 기술할 필요가 있습니다.
+	  - line 233 - whole spine alignment 변화에 대한 관찰증거 제시가 필요합니다.
+  - page 12
 
 
 • Page 4 line 45- more introduction into the rationale, biomechanics, and aim of the study would be helpful prior to jumping into the technique. This section may be better included in the methods.  
