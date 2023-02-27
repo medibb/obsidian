@@ -1,5 +1,5 @@
 
--   `Title:` [[% peer reivew for ARM-23-016]]
+-   `Title:` [[% peer review for ARM-23-016]]
 -   `Type:` [[%]]
 -   `Tags:` #🧠️/📝️/🌞️ 
 -   `Formation Date:` [[2023-02-27]]
@@ -11,10 +11,10 @@ The authors conduct an interesting study on the influence of Forward head postur
 I do think more rationale how the exercise program could change the CVA and greater explanation as to an anatomical or biomechanical standpoint would be needed.
 
 Introduction  
-- page 2 line 33 - 9 referece 는 해당 문장을 뒷받침해주지 못합니다.
-1.  NDI의 원인이 무엇인지에 대한 고찰이 있는지?  neck pain 의 원인에 대한 고찰이 무엇인지? pain characteristics 에 대한 고찰이 잇는지?
+NDI의 원인이 무엇인지에 대한 고찰이 있는지?  neck pain 의 원인에 대한 고찰이 무엇인지? pain characteristics 에 대한 고찰이 잇는지?
 - page2 
-	- line 37 neck pain 환자에서 neck pain 이 없는 환자도 많다는 것은 또한 FHP 가 원인이 아닐수도 있다는 의미도 됩니다. spinal muscle imbalance와 관련된 FHP 를 교정하는 것이 중요하다고 하였는데 어떠한 imbalance 가 존재했고 intervention 을 통해  어떻게 교정되었는지 제시할 필요가 있습니다. 이 후 내용에서 제시되지 않고 있습니다.
+	- line 33 - the 9th reference do not adequately support the statement "This postural malalignment is associated with muscle imbalance." Therefore, additional appropriate references may be necessary.
+	- line 37 neck pain 이 없는 FHD subject도 많다는 전제는, FHP에서 spinal muscle imbalance를 가진사람이 모두 neck pain 이 있다는 것을 설명해주지 않습니다. FHP 를 교정하는 것이 중요하다고 하였는데 어떠한 imbalance 가 존재했고 intervention 을 통해  어떻게 교정되었는지 제시할 필요가 있습니다. 이 후 내용에서 제시되지 않고 있습니다.
 	- line 40 - 또한 muscle imbalance 만을 교정하여 FHP 를 교정하려고 제시하는 것은 추측입니다. 어떠한 muscle imbalance 의 교정이 있었는지 더 자세히 제시하는 것이 필요하겠습니다.
 	- line 42 - Cervicothoracic intervention 이 flexibility 와 strengrh를 개선하였다는데 대한 reference 가 필요합니다.
 - page 3
