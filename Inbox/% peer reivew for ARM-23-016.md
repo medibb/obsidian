@@ -48,7 +48,7 @@ Introduction
   - page 12
 	  - table1 - home program의 adherance 가 어떠하였는지 그리고 어떻게 확인하였는지 기술될 필요가 있음. 특히 홈프로그램의 경우 reminder와 feedback이 없다면 순응도가 떨어지는데, 모두 정확히 시행하였는지, 아니면 어느정도의 순응도를 운동 프로그램을 시행한 것으로 간주하였는지, 제외된 사람은 없는지
 	  - 해당 reference 의 운동에서 capital retraction 에 포함된 chin tuck 자세는 upper-cervical flexion을 만들 수 있는데, 포함되었는지?
-	  - 29번 reference에는 lumbar spine strengthening 에 대한 기술은 없는데, 본 논문에서 strengthening 을 위해 시행한 운동이 무엇인지?
+	  - 29번 reference에는 8주간의 lumbar Shoulder pain 4.1 ± 2.4** 3.2 ± 2.6** Middle back pain 2.9 ± 2.3* 2.3 ± 2.4* Low back pain 위해 시행한 운동이 무엇인지?
 	  - 해당 연구에서는 pelvic post. tilt / sit-up 에 가까운 strengthening 이 포함되어 있습니다. 그리고 body stretching 은 최대한 허리를 굴곡하는 운동이 포함되어 있습니다. - 허리 통증을 가진 사람이 있었는지 여부에 따라 해당 운동을 제대로 수행할수 있었는지 걱정되며, 해당 논문에서도 실제 posture correction 에 대한 증거를 제시하지 않고 시간에 따른 통증 감소를 보여주고 있습니다.  
   
 해당 운동 후 실제 요추의 각도 변화가 있었는지 기술이 필요합니다.  
