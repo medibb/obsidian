@@ -46,8 +46,9 @@ Introduction
 	  - line 230 - 해당 문장에서 pain 과 discomfort 를 감소시켰다는 문장에서 neck pain에 대한 것을 말하는 것인 지 lumbar pain에 대한 것을 말하는 것인지 구분할 필요가 있습니다. neck pain 을 감소시켰다면 어떻한 이유라고 생각하는지 자세히 기술할 필요가 있습니다.
 	  - line 233 - whole spine alignment 변화에 대한 관찰증거 제시가 필요합니다.
   - page 12
+	  - table1 - home program
 
 
-• While global spine exercise program monitoring HD may be able to identify synovial stiffness, I do not see how this necessarily aides in the diagnosis of OA. This study highlights that patients with radiographic OA have greater synovial stiffness but does not really address cut-points or norms that suggest it may augment early diagnosis.
+• While global spine exercise program may be able to improve more NDI than cervicothoracic program, I do not see how this rationally inferred from this paper. This study highlights that patients with FHD has muscle imbalance and myofascial pain, but does not really address observational evidence of the source of pain and muscle imbalance and there progress.
 
 🔗LINKS TO THIS PAGE
