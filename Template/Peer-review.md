@@ -4,6 +4,29 @@
 -   `Tags:` #🧠️/📝️/🌞️ 
 -   `Formation Date:` [[<%tp.date.now()%>]]
 ---  
+-   연구의 목적이 분명하게 서술되었는가?
+-   연구설계는 목적에 맞게 되었는가?
+-   측정과 방법은 분명하게 기술되었는가?
+-   올바른 측정도구가 사용되었는가?
+-   통계적 방법이 기술되었는가?
+-   샘플 크기는 적정한가? 
+-   연구를 반복해볼 수 있을 정도로 방법에 대해 전반적으로 충분하게 세부사항이 기술되어 있는가?
+-   고찰이 결과를 전체적으로 잘 반영하고 있는가?
+-   누가 연구비를 지원했는가?
+-   연구로부터 얻을 수 있는 결론의 구체적 한계는 무엇인가?
+- 
+Confidential Comments to the Editor-in-Chief
+
+Dear Editor,
+
+Thank you for the opportunity to review the manuscript recently submitted to ARM journal. I appreciate the chance to evaluate this work. I am not able to recommend this manuscript for publication, and I do not believe it meets the high standards required for publication in this journal because of subject heterogenicity and lack of 
+
+I appreciate and look forward to the opportunity to review future submissions.
+
+Sincerely,
+
+Jaehyun Lee
+
 Comments to the Author  
 The authors conduct an interesting study on the influence of Forward head posture correction using a global(cervicothoracic & lumbopelvic) spinal program on a craniovertebral angle, neck disability, and spinal muscle activity.  
 While the global spine exercise program may be able to improve more NDI than a cervicothoracic program, I do not see how this is rationally inferred from this paper. Although this study speculated that FHP patients have muscle imbalance and myofascial pain, which could be improved through global spinal exercise, it did not actually address the observational evidence of muscle imbalance and pain characteristics and their changes. In Addition, the underlying causes of pain and neck disability in comparison groups could be highly diverse, thus interpreting the results is too speculative.  

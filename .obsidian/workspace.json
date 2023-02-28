@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dataview/&.md",
+                "file": "Template/Peer-review.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dataview/&.md",
+                "file": "Template/Peer-review.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dataview/&.md",
+                "file": "Template/Peer-review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dataview/&.md",
+                "file": "Template/Peer-review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dataview/&.md"
+                "file": "Template/Peer-review.md"
               }
             }
           }
@@ -206,9 +206,9 @@
   },
   "active": "7f9176dfc909050c",
   "lastOpenFiles": [
+    "Dataview/&.md",
     "Inbox/& 2023-02-28 peer review for ARM-23-016.md",
     "Inbox/Untitled.md",
-    "Dataview/&.md",
     "Template/Peer-review.md",
     "Dataview/💳️ Kanban.md",
     "Dataview/✏️ Workbench.md",
