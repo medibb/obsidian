@@ -43,8 +43,10 @@
 -   avulsion - in adults, commonly pathologic fracture, malignancy related -   trauma in skeletally immature patients
 
 - Dx - physical ex 관련 pt사 and 2014년 연구확인인 / image
-- Treatment - PTx & Exercises, injection - steroid, PRP, stem cell, others - op 
-- 아직 CPG 등이 존재하지 않으므로 대재학회와 임통에서후순위 사업으로 진행시키면 도움이 될 것 같다.
+- Treatment 
+	- PTx & Exercises, injection - steroid, PRP, stem cell, others - op 
+	- 아직 CPG 등이 존재하지 않으므로 대재학회와 임통에서후순위 사업으로 진행시키면 도움이 될 것 같다.
+- 
  - avulsion: MR - when displaced bony fragment are not visible on radiographs, torn tendon and degree of retraction
 
 associate finding - hematoma, periosteal stripping and BM edema - not in
@@ -52,10 +54,9 @@ associate finding - hematoma, periosteal stripping and BM edema - not in
 chronic avulsion injury. muscle atrophy and soft tissue scarring
 
 -   myotendinous junction; weakest point
-
--   Gr1: minor disruption - perifascicular feathery T2 high, edema, hematoma
--   Gr2: partial tear - T2 high with partial retraction, edema, hemorrhage more prominent
--   Gr3: complete tear - full tickness disruption and significant edema, hmr
+	-   Gr1: minor disruption - perifascicular feathery T2 high, edema, hematoma
+	-   Gr2: partial tear - T2 high with partial retraction, edema, hemorrhage more prominent
+	-   Gr3: complete tear - full tickness disruption and significant edema, hmr
 
 -   MR for presurgical planning
 
@@ -64,10 +65,8 @@ chronic avulsion injury. muscle atrophy and soft tissue scarring
 -   MR and usg edema or hematoma
 
 -   Tendinosis
-
--   MR: thickening / intra substance high / T2 high in peritendinous soft tissue
-
--   Calcific tendinitis - 모든 tendon insertion site 를 확인
+	-   MR: thickening / intra substance high / T2 high in peritendinous soft tissue
+	-   Calcific tendinitis - 모든 tendon insertion site 를 확인
 ---
 
 # Ant. hip pain 
@@ -93,7 +92,14 @@ iliopsoas CT의 어려움 -tendon이 석회와 비슷하게 hyper attenuation �
 	- Ultrasound is extremely useful in evaluating the iliopsoas tendon in hip snapping because it allows dynamic evaluation of the tendon during snapping and also allows evaluation of the tendon for pathology and associated bursitis
 	- *x ray 및 석회위치 케이스, 초음파상 tendon특징
 
+---
+### Tx
 
+Tx guideline or review rec. /
+Tx med / nsaids..bursa injection
+Tx rehab ex. /
+Tx refer or red flag /
+Prognosis /
 
 ---
 ### rectus femoris 
@@ -127,24 +133,6 @@ T2 hyperintense signal adjacent to the greater trochanter is nearly always prese
 
 
 
-
-
-
-
-
-Dx lab /
-
-Tx guideline or review rec. /
-
-Tx med /
-
-Tx rehab ex. /
-
-Tx refer or red flag /
-
-Prognosis /
-
-iliopsoas CT의 어려움 -tendon이 석회와 비슷하게 hyper attenuation 되어있음 -주변이 모두 근육이라서? 아니면 특히 dense해서?
 
 # Trochanteric, ischial bursitis - friction으로인한 bursitis
 
@@ -238,11 +226,7 @@ not easily localized on clinical exam so is best assessed by
 
 MR imaging
 
-On MR imaging, the quadratus femo ris can be edematous, partially torn, and/or atrophied,
-
-depending on the chronicity of the impingement (Fig. 23.9).
-
-Associated hamstring tendon origin abnormalities also are
+On MR imaging, the quadratus femo ris can be edematous, partially torn, and/or atrophied, depending on the chronicity of the impingement (Fig. 23.9). Associated hamstring tendon origin abnormalities also are
 
 commonly seen.
 
