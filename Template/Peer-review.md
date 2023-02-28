@@ -1,8 +1,8 @@
 
--   `Title:` [[% peer review for ARM-23-016]]
--   `Type:` [[%]]
+-   `Title:` [[Peer-review]]
+-   `Type:` [[&]]
 -   `Tags:` #🧠️/📝️/🌞️ 
--   `Formation Date:` [[2023-02-27]]
+-   `Formation Date:` [[<%tp.date.now()%>]]
 ---  
 Comments to the Author  
 The authors conduct an interesting study on the influence of Forward head posture correction using a global(cervicothoracic & lumbopelvic) spinal program on a craniovertebral angle, neck disability, and spinal muscle activity.  
@@ -39,6 +39,3 @@ I believe that ensure subject homogenicity in comparison groups and providing fu
 	  - Line 225 - the sentence describing the reduction of myofascial fiber stress and pain through the implemented global spinal exercise leaves unclear whether the subjects had pre-existing lumbar spinal pain and whether the improvement in lumbar pain may have affected the NDI scores. Therefore, it is important to address whether only neck pain was investigated in NDI assessment.
 	  - Line 230 - It is necessary to distinguish whether the sentence that pain and discomfort were reduced refers to neck pain or lumbar pain. If it refers to the reduction of neck pain, it is necessary to describe in detail what the reasons are for the reduction.
 	  - Line 233 - Observational evidence needs to be presented for changes in whole spine alignment.
-
-
-🔗LINKS TO THIS PAGE

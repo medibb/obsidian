@@ -1,5 +1,9 @@
+
+
+
+
 ### Metadata:
--   Title: [[<%tp.file.title%>]]
+-   Title: [[Untitled]]
 -   `Type:`  [[&]]
 -   `Author:`
     -   `Notable Authors:`
@@ -7,7 +11,7 @@
 -   `Specific Subject:`
 -   `General Subject:`
 -   `Publish Date:`
--   `Reviewed Date:` [[<%tp.date.now()%>]]
+-   `Reviewed Date:` [[2023-02-28]]
 ---
   
 
