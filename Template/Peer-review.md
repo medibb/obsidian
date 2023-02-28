@@ -14,18 +14,35 @@
 -   고찰이 결과를 전체적으로 잘 반영하고 있는가?
 -   누가 연구비를 지원했는가?
 -   연구로부터 얻을 수 있는 결론의 구체적 한계는 무엇인가?
-- 
+
+---
+
 Confidential Comments to the Editor-in-Chief
 
-Dear Editor,
+# Reject 
 
-Thank you for the opportunity to review the manuscript recently submitted to ARM journal. I appreciate the chance to evaluate this work. I am not able to recommend this manuscript for publication, and I do not believe it meets the high standards required for publication in this journal because of subject heterogenicity and lack of 
 
-I appreciate and look forward to the opportunity to review future submissions.
+Thank you for the opportunity to review the manuscript recently submitted to ARM journal. I appreciate the chance to evaluate this work. I am not able to recommend this manuscript for publication, and I do not believe it meets the high standards required for publication in this journal because of the study is not valid as a aspect of subjects heterogenicity, unclear causality of effects of their intervention. Details are written in the attached file.
+
+I appreciate your discretion in this matter and look forward to the opportunity to review future submissions.
 
 Sincerely,
 
 Jaehyun Lee
+
+Dear Editor,
+
+I am writing to provide my feedback on the manuscript that was recently submitted to your esteemed journal. I appreciate the opportunity to review this manuscript and believe it has the potential to make a valuable contribution to the field.
+
+However, I have some concerns about the methodology and analysis presented in the manuscript that I would prefer to discuss in confidence. While I believe these concerns can be addressed, I do not wish to disclose them publicly in this review.
+
+I understand that this may pose some challenges for the authors in addressing these concerns, but I feel it is necessary to ensure the quality and accuracy of the manuscript. Therefore, I request that my comments remain confidential and not be shared with the authors.
+
+Thank you for your consideration of this request.
+
+Sincerely,
+
+---
 
 Comments to the Author  
 The authors conduct an interesting study on the influence of Forward head posture correction using a global(cervicothoracic & lumbopelvic) spinal program on a craniovertebral angle, neck disability, and spinal muscle activity.  
