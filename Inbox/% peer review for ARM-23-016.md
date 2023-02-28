@@ -7,11 +7,8 @@
 Comments to the Author  
 The authors conduct an interesting study on the influence of Forward head posture correction using global(cervicothoracic & lubar) spinal program on craniovertebral angle, neck disability and spinal muscle activity. 
 
-
 I do think more rationale how the exercise program could change the CVA and greater explanation as to an anatomical or biomechanical standpoint would be needed.
 
-Introduction  
-NDI의 원인이 무엇인지에 대한 고찰이 있는지?  neck pain 의 원인에 대한 고찰이 무엇인지? pain characteristics 에 대한 고찰이 잇는지?
 - page2 
 	- line 33 - the 9th reference do not adequately support the statement "This postural malalignment is associated with muscle imbalance." Therefore, additional appropriate references may be necessary.
 	- line 37 neck pain 이 없는 FHD subject도 많다는 전제는, spinal muscle imbalance를 가진 FDH가 모두 neck pain 이 있다는 것과 같지 않습니다.
@@ -35,29 +32,15 @@ NDI의 원인이 무엇인지에 대한 고찰이 있는지?  neck pain 의 원�
 - page 9
 	- line 177 - To ensure accurate comparison, it seems important to record in detail in the method section whether MVIC measurement was taken in the same neck posture. If CES %MVIC was measured in a different position, it could be interpreted as a result of changes in moment arm and torque due to neck or head retraction.
 - page 10
-	- line 203 - 4주간의 운동으로는 실제 muscle 의 lengthening 이 얻어지지 않으며, modified sensation 으로 인한 extensibility 의 증가라고 보고되고 있습니다. 만약 몇몇 보고에서 처럼 실제 4주간의 운동만으로도 lengthening 이 일어난 것이라면 해당 관찰증거가 제시되어야 합니다. 때문에 해당 표현은 legthening 에 대한 관찰증거를 outcome으로 제시하거나 혹은 extensibility가 증가했을 수 있다는 표현이 더 정확합니다.
-	  또한 normal legth로 부터의 muscle length extension은 오히려 excessive joint motion으로 이어질 수 있으므로, shortening  된 muscle이 정상 length로 회복되었을 것이라는 추측 혹은 초기 muscle이 shortening 되어있거나 ROM이 감소되어 있었다는 관찰증거 제시가 필요할 것입니다.
-	  - line 206 - 어떤 과정을 통해서 본 연구에 implement 한 선행연구의 lumbopelvic program 이 CV anlge을 증가시킬 수 있을거라고 생각했는지 설명과 해석이 필요합니다.
-	  - 초기 lumbosacral angle 이 CV angle 에 유의미한 영향을 줄 만한 감소된 lordosis or kyphosis 상태였는지
-  - page 11
-	  - line 223 -  lumbosacral soft tissue elongation 과 strengthening 이 어떻게 neck disability 를 줄였다고 추측하는지에 대한 rationale 이 필요합니다.
-	  - line 225 - implemented global spinal excersice의 myofascial fiber의 stress 및 pain 의 감소 효과를 설명하고 있는데, 이 문장에 의하면 해당 subject 들이 애초에 lumbar spinal pain 을 가지고 있었고 그 것이 호전된 것은 아닌지, NDI에 lumbar pain이 영향을 주었을 가능성을 배제할 수 없습니다. lumbar pain 이 있는 사람들에게서 NDI 를 조사할때 neck pain 으로 인한 영향만 조사가 된것인지도 address 할 필요가 있습니다.
-	  - line 230 - 해당 문장에서 pain 과 discomfort 를 감소시켰다는 문장에서 neck pain에 대한 것을 말하는 것인 지 lumbar pain에 대한 것을 말하는 것인지 구분할 필요가 있습니다. neck pain 을 감소시켰다면 어떻한 이유라고 생각하는지 자세히 기술할 필요가 있습니다.
-	  - line 233 - whole spine alignment 변화에 대한 관찰증거 제시가 필요합니다.
-  - page 12
-	  - table1 - home program의 adherance 가 어떠하였는지 그리고 어떻게 확인하였는지 기술될 필요가 있음. 특히 홈프로그램의 경우 reminder와 feedback이 없다면 순응도가 떨어지는데, 모두 정확히 시행하였는지, 아니면 어느정도의 순응도를 운동 프로그램을 시행한 것으로 간주하였는지, 제외된 사람은 없는지
-	  - 해당 reference 의 운동에서 capital retraction 에 포함된 chin tuck 자세는 upper-cervical flexion을 만들 수 있는데, 포함되었는지?
-	  - 29번 reference에는 8주간의 lumbar Shoulder pain 4.1 ± 2.4** 3.2 ± 2.6** Middle back pain 2.9 ± 2.3* 2.3 ± 2.4* Low back pain 위해 시행한 운동이 무엇인지?
-	  - 해당 연구에서는 pelvic post. tilt / sit-up 에 가까운 strengthening 이 포함되어 있습니다. 그리고 body stretching 은 최대한 허리를 굴곡하는 운동이 포함되어 있습니다. - 허리 통증을 가진 사람이 있었는지 여부에 따라 해당 운동을 제대로 수행할수 있었는지 걱정되며, 해당 논문에서도 실제 posture correction 에 대한 증거를 제시하지 않고 시간에 따른 통증 감소를 보여주고 있습니다.  
-  
-해당 운동 후 실제 요추의 각도 변화가 있었는지 기술이 필요합니다.  
-또한 해당 운동은 Pull your jaw downward and droop your head toward your breast  
-  
-"while looking at your belly button"  
-등 neck flexion 이 강하게 작용하는 운동이 포함되어 있어서 위험성이 있어보입니다.
-  - 
+	- line 203 - It is reported that four weeks of exercise do not actually result in muscle lengthening, but rather an increase in extensibility due to modified sensation. If there have been reports indicating that actual lengthening occurred with only four weeks of exercise, then corresponding observational evidence should be presented. Therefore, it would be more accurate to present observational evidence suggesting either lengthening as an outcome or an increase in extensibility.
+	- line 206 - It is necessary to explain and interpret how the preceding lumbopelvic program, which was implemented in this study, was thought to increase the CV angle through what process. Was the initial lumbosacral angle in a state of lordosis or kyphosis that could significantly affect the CV angle?
 
-
-• While global spine exercise program may be able to improve more NDI than cervicothoracic program, I do not see how this rationally inferred from this paper. This study highlights that patients with FHD has muscle imbalance and myofascial pain, but does not really address observational evidence of the source of pain and muscle imbalance and there progress.
+- page 11
+  - Line 223 - It is necessary to provide the rationale for how lumbosacral soft tissue elongation and strengthening may have reduced neck disability.
+  - Line 225 - the sentence describing the reduction of myofascial fiber stress and pain through the implemented global spinal exercise leaves unclear whether the subjects had pre-existing lumbar spinal pain and whether the improvement in lumbar pain may have affected the NDI scores. Therefore, it is important to address whether only neck pain was investigated in NDI assessment.
+  - Line 230 - It is necessary to distinguish whether the sentence that pain and discomfort were reduced refers to neck pain or lumbar pain. If it refers to the reduction of neck pain, it is necessary to describe in detail what the reasons are for the reduction.
+  - Line 233 - Observational evidence needs to be presented for changes in whole spine alignment.
+  
+• While global spine exercise program may be able to improve more NDI than cervicothoracic program, I do not see how this rationally inferred from this paper. Although this study speculated that FHD patients have muscle imbalance and myofascial pain, which could be improved through global spinal exercise, it did not actually address the observational evidence of the causes and progression of it and the underlying causes of pain and neck disability in comparison groups could be highly diverse, thus interpreting the results is too speculative.
 
 🔗LINKS TO THIS PAGE

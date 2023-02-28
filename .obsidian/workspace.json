@@ -32,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -200,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 283.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,7 +216,7 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "4e6423aedb700319",
+  "active": "db5e2d821e05a9cc",
   "lastOpenFiles": [
     "Inbox/% 병원보 - 어깨의 운동치료.md",
     "Inbox/; 혁신형 의사과학자회의.md",
