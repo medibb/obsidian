@@ -19,24 +19,22 @@
 
 Confidential Comments to the Editor-in-Chief
 
-# Reject 
-
-
-Thank you for the opportunity to review the manuscript recently submitted to ARM journal. I appreciate the chance to evaluate this work. I am not able to recommend this manuscript for publication, and I do not believe it meets the high standards required for publication in this journal because of the study is not valid as a aspect of subjects heterogenicity, unclear causality of effects of their intervention. Details are written in the attached file.
-
-I appreciate your discretion in this matter and look forward to the opportunity to review future submissions.
-
-Sincerely,
-
-Jaehyun Lee
-
 Dear Editor,
 
-I am writing to provide my feedback on the manuscript that was recently submitted to your esteemed journal. I appreciate the opportunity to review this manuscript and believe it has the potential to make a valuable contribution to the field.
+# Reject 
+Thank you for the opportunity to review the manuscript recently submitted to the ARM journal.
 
-However, I have some concerns about the methodology and analysis presented in the manuscript that I would prefer to discuss in confidence. While I believe these concerns can be addressed, I do not wish to disclose them publicly in this review.
+I am not able to recommend this manuscript for publication, and I do not believe it meets the high standards required for publication in this journal because the study is not valid as an aspect of subjects' heterogenicity, with unclear causality of the effects of their intervention. Details are written in the attached file.
 
-I understand that this may pose some challenges for the authors in addressing these concerns, but I feel it is necessary to ensure the quality and accuracy of the manuscript. Therefore, I request that my comments remain confidential and not be shared with the authors.
+I appreciate the chance to evaluate this work. and look forward to the opportunity to review future submissions.
+
+# Accept 
+	I am writing to provide my feedback on the manuscript that was recently submitted to your esteemed journal. I appreciate the opportunity to review this manuscript and believe it has the potential to make a valuable contribution to the field.
+	
+	However, I have some concerns about the methodology and analysis presented in the manuscript that I would prefer to discuss in confidence. While I believe these concerns can be addressed, I do not wish to disclose them publicly in this review.
+	
+	I understand that this may pose some challenges for the authors in addressing these concerns, but I feel it is necessary to ensure the quality and accuracy of the manuscript. Therefore, I request that my comments remain confidential and not be shared with the authors.
+
 
 Thank you for your consideration of this request.
 
