@@ -40,89 +40,11 @@
 -   muscle contusion - blunt trauma
 -   Iliopsoas inj - sports, trauma / m/c - LT
 
--   avulsion - in adults, commonly pathologic fracture, malignancy related
--   trauma in skeletally immature patients
----
+-   avulsion - in adults, commonly pathologic fracture, malignancy related -   trauma in skeletally immature patients
 
-# Ant. hip pain 
-## Iliopsoas tendon
-### epidemiology
-- sport inj & trauma, m/c - LT
-- avulsion - in adults, commonly pathologic fracture, malignancy related trauma in skeletally immature patients
-•Snapping hip syndrome - sudden, painful, and audible snapping
-	• Typically seen in young, physically active adults.
-	•Symptoms : reproduced with specific movements; frog-leg to neutral.
-	•Extra- or intra-articular causes
-	•Extra articular; internal or external.
-	•External extra-articular : lateral structures, the iliotibial band and gluteus maximus muscle.
-	- symptom: Snapping occurs as these structures pass over the greater trochanter during hip flexion and extension.
-
----
-
-### Dx  
-- PEx: Due to the easily reproducible symptoms with hip flexion and extension, this diagnosis is usually made clinically with out imaging.
-Dx Radio. / Dx lab / Tx guideline or review rec. / Tx med / Tx rehab ex. / Tx refer or red flag / Prognosis
-
-
-
-
-
-Ultrasound is extremely useful in evaluating the iliopsoas
-
-tendon in hip snapping because it allows dynamic evaluation
-
-of the tendon during snapping and also allows evaluation of
-
-the tendon for pathology and associated bursitis
-
-rectus femoris - knee flexion , hip hyperextension (무슨활동? 공찰때?)
-
-straight head inj 가 더 흔함
-
-엠알이 modality of choice, AIIS BM edema and peritendinous edema
-
-reflected head 도 비슷하지만 posterolateral to AIIS
-
-hamstring - med : conjoined tendon from BFLH, ST  / suplat : SM
-
-BFSH : linea aspera, lat supracondylar line, IMSeptum
-
-The adductor brevis : originates from the inferior pubic ramus and also inserts onto
-
-the linea aspera.  
-
-The adductor magnus originates from the
-
-ischial tuberosity and pubis and inserts onto the linea aspera,
-
-supracondylar femur, and adductor tubercle of the distal
-
-medial femur.
-
-Adductor insertion avulsion syndrome is a painful condi tion affecting the femur at the insertion of the adductor mus cles and is also known as thigh splints
-
-The gluteus medius attaches onto the
-
-posterior superior and lateral facets, and a portion blends
-
-with the gluteus minimus tendon to insert onto the anterior
-
-facet
-
-T2 hyperintense signal adjacent to the greater trochanter is
-
-nearly always present in greater trochanteric pain syndrome
-
-but is not a specific finding as it is also seen in many asymp tomatic individual
-
-iliopsoas CT의 어려움 -tendon이 석회와 비슷하게 hyper attenuation 되어있음 -주변이 모두 근육이라서? 아니면 특히 dense해서?
-
-symptom /
-
-Dx PEx / physical ex 검색하기
-
-Dx Radio. / *x ray 및 석회위치 케이스, 초음파상 tendon특징
-
+- Dx - physical ex 관련 pt사 and 2014년 연구확인인 / image
+- Treatment - PTx & Exercises, injection - steroid, PRP, stem cell, others - op 
+- 아직 CPG 등이 존재하지 않으므로 대재학회와 임통에서후순위 사업으로 진행시키면 도움이 될 것 같다.
  - avulsion: MR - when displaced bony fragment are not visible on radiographs, torn tendon and degree of retraction
 
 associate finding - hematoma, periosteal stripping and BM edema - not in
@@ -146,6 +68,69 @@ chronic avulsion injury. muscle atrophy and soft tissue scarring
 -   MR: thickening / intra substance high / T2 high in peritendinous soft tissue
 
 -   Calcific tendinitis - 모든 tendon insertion site 를 확인
+---
+
+# Ant. hip pain 
+## Iliopsoas tendon
+### epidemiology
+- sport inj & trauma, m/c - LT
+- avulsion - in adults, commonly pathologic fracture, malignancy related trauma in skeletally immature patients
+•Snapping hip syndrome - sudden, painful, and audible snapping
+	• Typically seen in young, physically active adults.
+	•Symptoms : reproduced with specific movements; frog-leg to neutral.
+	•Extra- or intra-articular causes
+	•Extra articular; internal or external.
+	•External extra-articular : lateral structures, the iliotibial band and gluteus maximus muscle.
+	- symptom: Snapping occurs as these structures pass over the greater trochanter during hip flexion and extension.
+
+iliopsoas CT의 어려움 -tendon이 석회와 비슷하게 hyper attenuation 되어있음 -주변이 모두 근육이라서? 아니면 특히 dense해서?
+
+---
+
+### Dx  
+- PEx: Due to the easily reproducible symptoms with hip flexion and extension, this diagnosis is usually made clinically with out imaging.
+- USG
+	- Ultrasound is extremely useful in evaluating the iliopsoas tendon in hip snapping because it allows dynamic evaluation of the tendon during snapping and also allows evaluation of the tendon for pathology and associated bursitis
+	- *x ray 및 석회위치 케이스, 초음파상 tendon특징
+
+
+
+---
+### rectus femoris 
+epidemiology and symptome
+- knee flexion , hip hyperextension (무슨활동? 공찰때?)
+- straight head inj 가 더 흔함
+
+### Dx
+MR: modality of choice, AIIS BM edema and peritendinous edema
+reflected head 도 비슷하지만 posterolateral to AIIS
+
+---
+
+### hamstring 
+- med : conjoined tendon from BFLH, ST  / suplat : SM
+- BFSH : linea aspera, lat supracondylar line, IMSeptum
+
+
+### Adductors
+The adductor brevis : originates from the inferior pubic ramus and also inserts onto the linea aspera.  
+
+The adductor magnus originates from the ischial tuberosity and pubis and inserts onto the linea aspera, supracondylar femur, and adductor tubercle of the distal medial femur.
+
+Adductor insertion avulsion syndrome is a painful condi tion affecting the femur at the insertion of the adductor mus cles and is also known as thigh splints
+
+
+### Gluteus
+The gluteus medius attaches onto thebposterior superior and lateral facets, and a portion blends with the gluteus minimus tendon to insert onto the anterior facet
+
+T2 hyperintense signal adjacent to the greater trochanter is nearly always present in greater trochanteric pain syndrome but is not a specific finding as it is also seen in many asymp tomatic individual
+
+
+
+
+
+
+
 
 Dx lab /
 
