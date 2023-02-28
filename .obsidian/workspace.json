@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9b923189e45026e7",
+        "id": "c44e5a40c285b058",
         "type": "tabs",
         "children": [
           {
-            "id": "7f9176dfc909050c",
+            "id": "dfd8f27df8746264",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Peer-review.md",
+                "file": "Inbox/% ClinPain 임통춘계 hip 관절외병변.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#🧠️/📝️/🌱️",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Template/Peer-review.md",
+                "file": "Inbox/% ClinPain 임통춘계 hip 관절외병변.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Peer-review.md",
+                "file": "Inbox/% ClinPain 임통춘계 hip 관절외병변.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Peer-review.md",
+                "file": "Inbox/% ClinPain 임통춘계 hip 관절외병변.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Peer-review.md"
+                "file": "Inbox/% ClinPain 임통춘계 hip 관절외병변.md"
               }
             }
           }
@@ -202,21 +203,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7f9176dfc909050c",
+  "active": "dfd8f27df8746264",
   "lastOpenFiles": [
+    "Dataview/💳️ Kanban.md",
+    "Inbox/% 0308 PRML lab meeting.md",
+    "Inbox/% ClinPain 임통춘계 hip 관절외병변.md",
+    "Inbox/$ EAG by knee movement and loading - MOC.md",
+    "Inbox/& EAG - draft.md",
+    "Inbox/% 류마티스학회 자가운동법.md",
+    "Dataview/%.md",
+    "Utility/⌨️Hotkeys.md",
+    "Template/Peer-review.md",
     "Dataview/&.md",
     "Inbox/& 2023-02-28 peer review for ARM-23-016.md",
     "Inbox/Untitled.md",
-    "Template/Peer-review.md",
-    "Dataview/💳️ Kanban.md",
     "Dataview/✏️ Workbench.md",
     "Template/Presentation.md",
     "Template/Manuscript.md",
     "Template/Paper.md",
     "Inbox/% 병원보 - 어깨의 운동치료.md",
     "Inbox/; 혁신형 의사과학자회의.md",
-    "Utility/⌨️Hotkeys.md",
-    "Inbox/$ EAG by knee movement and loading - MOC.md",
     "conflict-files-obsidian-git.md",
     "Inbox/$ CT xray - MOC.md",
     "Inbox/= EAG - potentials.md",

@@ -1,4 +1,3 @@
-
 -   `Title:` [[% ClinPain 임통춘계 hip 관절외병변]]
 -   `Type:` [[%]]
 -   `Tags:` #🧠️/📝️/🌞️ 
@@ -37,7 +36,9 @@
 
 # Trochanteric, ischial bursitis - friction으로인한 bursitis
 
-epidemiology /
+epidemiology / hip joint pain에서 유병율, 스포츠선수
+
+Anatomy / iliotibial aponeuritis 등에 대해서..linea aspera에 대해서..
 
 symptom / bursitis 의 양상, refered pain 보고
 
@@ -59,15 +60,123 @@ Prognosis / 경과
 
 Radiograph의 사용
 
-# iliopsoas tendinopathy and other tendinopathy
+ 
+# muscle and tendons - iliopsoas tendinopathy and other tendinopathy
 
-epidemiology / tendinopathy의 양상, refered pain 보고
+epidemiology / tendinopathy의 양상, refered pain 보고, sports inj
+
+-   3 category : tendinous avulsion, muscle contusion, and myotendinous strain
+-   Acute avulsion - deceleration or eccentric contraction to tensile overload
+-   Chronic avulsion - repetitive stress or overuse
+-   muscle contusion - blunt trauma
+-   Iliopsoas inj - sports, trauma / m/c - LT
+
+-   avulsion - in adults, commonly pathologic fracture, malignancy related
+-   trauma in skeletally immature patients
+
+-   Snapping hip syndrome - is characterized by sudden, painful,
+
+and audible snapping of the hip [12, 20] and is typically seen
+
+in young, physically active adults.
+
+Symptoms can be reproduced with specific movements such as moving the hip from
+
+a frog-leg position to neutral. Snapping hip syndrome can be
+
+due to extra-articular or intra-articular causes, with extra articular causes being further classified as internal or exter nal. External extra-articular snapping hip syndrome involves
+
+lateral structures, the iliotibial band and gluteus
+
+maximus muscle.
+
+Snapping occurs as these structures pass
+
+over the greater trochanter during hip flexion and extension.
+
+Due to the easily reproducible symptoms with hip flexion
+
+and extension, this diagnosis is usually made clinically with out imaging.
+
+Ultrasound is extremely useful in evaluating the iliopsoas
+
+tendon in hip snapping because it allows dynamic evaluation
+
+of the tendon during snapping and also allows evaluation of
+
+the tendon for pathology and associated bursitis
+
+rectus femoris - knee flexion , hip hyperextension (무슨활동? 공찰때?)
+
+straight head inj 가 더 흔함
+
+엠알이 modality of choice, AIIS BM edema and peritendinous edema
+
+reflected head 도 비슷하지만 posterolateral to AIIS
+
+hamstring - med : conjoined tendon from BFLH, ST  / suplat : SM
+
+BFSH : linea aspera, lat supracondylar line, IMSeptum
+
+The adductor brevis : originates from the inferior pubic ramus and also inserts onto
+
+the linea aspera.  
+
+The adductor magnus originates from the
+
+ischial tuberosity and pubis and inserts onto the linea aspera,
+
+supracondylar femur, and adductor tubercle of the distal
+
+medial femur.
+
+Adductor insertion avulsion syndrome is a painful condi tion affecting the femur at the insertion of the adductor mus cles and is also known as thigh splints
+
+The gluteus medius attaches onto the
+
+posterior superior and lateral facets, and a portion blends
+
+with the gluteus minimus tendon to insert onto the anterior
+
+facet
+
+T2 hyperintense signal adjacent to the greater trochanter is
+
+nearly always present in greater trochanteric pain syndrome
+
+but is not a specific finding as it is also seen in many asymp tomatic individual
+
+iliopsoas CT의 어려움 -tendon이 석회와 비슷하게 hyper attenuation 되어있음 -주변이 모두 근육이라서? 아니면 특히 dense해서?
 
 symptom /
 
-Dx PEx /
+Dx PEx / physical ex 검색하기
 
-Dx Radio. /
+Dx Radio. / *x ray 및 석회위치 케이스, 초음파상 tendon특징
+
+ - avulsion: MR - when displaced bony fragment are not visible on radiographs, torn tendon and degree of retraction
+
+associate finding - hematoma, periosteal stripping and BM edema - not in
+
+chronic avulsion injury. muscle atrophy and soft tissue scarring
+
+-   myotendinous junction; weakest point
+
+-   Gr1: minor disruption - perifascicular feathery T2 high, edema, hematoma
+-   Gr2: partial tear - T2 high with partial retraction, edema, hemorrhage more prominent
+-   Gr3: complete tear - full tickness disruption and significant edema, hmr
+
+-   MR for presurgical planning
+
+-   Muscle contusion - blunt trauma, typically belly not MTJ
+
+-   MR and usg edema or hematoma
+
+-   Tendinosis
+
+-   MR: thickening / intra substance high / T2 high in peritendinous soft tissue
+
+-   Calcific tendinitis - 모든 tendon insertion site 를 확인
 
 Dx lab /
 
@@ -85,13 +194,29 @@ iliopsoas CT의 어려움 -tendon이 석회와 비슷하게 hyper attenuation �
 
 # Piriformis synd.
 
-epidemiology /
+epidemiology / 심부 둔부 증후군의 유병율
 
-symptom /
+Anatomy / perforating 하는가의 여부, normal variance의 소개 및 이에 따른 유병률 차이가 있는가?
 
-Dx PEx /
+symptom / 방사통의 보고
 
-Dx Radio. /
+Dx PEx / 압통..but 신뢰도가 매우 낮을것.. External rotation의 통증?
+
+Dx Radio. / penetrating nerve를 압박하는 증상? 이상근의 biologic level의 이상보고가 있는가?? Pronator teres와 supinator synd의 예시공부
+
+초음파상 sciatic nerve 가 나오는 foramen
+
+By alteration of piriformis muscle
+
+• Hypertrophy, inflammation, variation → Sciatic n.
+
+trapping
+
+• Diagnosis & treatment by IM, intrasheath injection
+
+• IM: Botulinum toxin
+
+• Sheath: local anesthetics
 
 Dx lab /
 
@@ -99,19 +224,47 @@ Tx guideline or review rec. /
 
 Tx med /
 
-Tx rehab ex. /
+Tx rehab ex. / 이상근 스트레칭? 스트레칭이 neural compression을 하는 근육에서 증상을 심하게 만들지 않는지? 스트레칭이 도움이 될수있는 근거? MPS같은 뜬금없는 것일듯..
 
 Tx refer or red flag /
 
-Prognosis /
-
-심부 둔부 증후
+Prognosis / 방사통과의 감별이 중요하겠다.
 
  -
 
 # extra-articular impingement
 
-epidemiology /
+; Iliopsoas impingement, subspine impingement, ischiofemoral impingement,
+
+greater trochangeric pelvic impingement
+
+epidemiology / ischiofemoral impingement - quadratus femoris between LT and Ischium
+
+QF에서 edema 100%
+
+Impingement has been shown to be
+
+associated with an ischiofemoral distance of less than or
+
+equal to 17 mm and the space between the hamstring tendon
+
+origin and iliopsoas tendon insertion measuring less than or
+
+equal to 8 mm. This abnormality can cause hip pain which is
+
+not easily localized on clinical exam so is best assessed by
+
+MR imaging
+
+On MR imaging, the quadratus femo ris can be edematous, partially torn, and/or atrophied,
+
+depending on the chronicity of the impingement (Fig. 23.9).
+
+Associated hamstring tendon origin abnormalities also are
+
+commonly seen.
+
+anatomy / anatomic variations of hip joint - coxa vara, anteversion
 
 symptom /
 
@@ -131,21 +284,13 @@ Tx refer or red flag /
 
 Prognosis /
 
-# 그 외 ~ 석회성건염, bony erosion, iliopsoas에서 tendon의 밝기 차이, intra articular lesion과의 감별-mr촬영및os refer
+#그 외 ~ 석회성건염, bony erosion, iliopsoas에서 tendon의 밝기 차이, intra articular lesion과의 감별-mr촬영 및 os refer
 
 특이한곳에 생긴 석회성 건염 보고하기..
 
+external snapping hip
+
 Hx & P/E
-
-
----
-AA
-
----
-BB
-
----
-CC
 
 ---
 Take HOME message
