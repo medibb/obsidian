@@ -31,39 +31,8 @@
 		 1. 
 - Draft
 
-
-
-
-# Trochanteric, ischial bursitis - friction으로인한 bursitis
-
-epidemiology / hip joint pain에서 유병율, 스포츠선수
-
-Anatomy / iliotibial aponeuritis 등에 대해서..linea aspera에 대해서..
-
-symptom / bursitis 의 양상, refered pain 보고
-
-Dx PEx / GT IT tenderpoint, IT provocation - sitting ( 전만과 골반회전 - biomechanic 논문 찾기)
-
-Dx Radio. / calcific tendinitis진단을 위한 views, USG views with anatomy
-
-Dx lab / rheumatic ds, calcific tendinits 연관질환 감별, 유전자검사
-
-Tx guideline or review rec. / nsaids inj 운동, 생활습관교정의 rec.
-
-Tx med / 방법과, intervention에서 초음파세팅과 주사방향
-
-Tx rehab ex. / 운동교육과 생활습관 교정
-
-Tx refer or red flag / ddx질환..
-
-Prognosis / 경과
-
-Radiograph의 사용
-
- 
-# muscle and tendons - iliopsoas tendinopathy and other tendinopathy
-
-epidemiology / tendinopathy의 양상, refered pain 보고, sports inj
+# Overview
+## muscle and tendon injury
 
 -   3 category : tendinous avulsion, muscle contusion, and myotendinous strain
 -   Acute avulsion - deceleration or eccentric contraction to tensile overload
@@ -73,30 +42,30 @@ epidemiology / tendinopathy의 양상, refered pain 보고, sports inj
 
 -   avulsion - in adults, commonly pathologic fracture, malignancy related
 -   trauma in skeletally immature patients
+---
 
--   Snapping hip syndrome - is characterized by sudden, painful,
+# Ant. hip pain 
+## Iliopsoas tendon
+### epidemiology
+- sport inj & trauma, m/c - LT
+- avulsion - in adults, commonly pathologic fracture, malignancy related trauma in skeletally immature patients
+•Snapping hip syndrome - sudden, painful, and audible snapping
+	• Typically seen in young, physically active adults.
+	•Symptoms : reproduced with specific movements; frog-leg to neutral.
+	•Extra- or intra-articular causes
+	•Extra articular; internal or external.
+	•External extra-articular : lateral structures, the iliotibial band and gluteus maximus muscle.
+	- symptom: Snapping occurs as these structures pass over the greater trochanter during hip flexion and extension.
 
-and audible snapping of the hip [12, 20] and is typically seen
+---
 
-in young, physically active adults.
+### Dx  
+- PEx: Due to the easily reproducible symptoms with hip flexion and extension, this diagnosis is usually made clinically with out imaging.
+Dx Radio. / Dx lab / Tx guideline or review rec. / Tx med / Tx rehab ex. / Tx refer or red flag / Prognosis
 
-Symptoms can be reproduced with specific movements such as moving the hip from
 
-a frog-leg position to neutral. Snapping hip syndrome can be
 
-due to extra-articular or intra-articular causes, with extra articular causes being further classified as internal or exter nal. External extra-articular snapping hip syndrome involves
 
-lateral structures, the iliotibial band and gluteus
-
-maximus muscle.
-
-Snapping occurs as these structures pass
-
-over the greater trochanter during hip flexion and extension.
-
-Due to the easily reproducible symptoms with hip flexion
-
-and extension, this diagnosis is usually made clinically with out imaging.
 
 Ultrasound is extremely useful in evaluating the iliopsoas
 
@@ -191,6 +160,34 @@ Tx refer or red flag /
 Prognosis /
 
 iliopsoas CT의 어려움 -tendon이 석회와 비슷하게 hyper attenuation 되어있음 -주변이 모두 근육이라서? 아니면 특히 dense해서?
+
+# Trochanteric, ischial bursitis - friction으로인한 bursitis
+
+epidemiology / hip joint pain에서 유병율, 스포츠선수
+
+Anatomy / iliotibial aponeuritis 등에 대해서..linea aspera에 대해서..
+
+symptom / bursitis 의 양상, refered pain 보고
+
+Dx PEx / GT IT tenderpoint, IT provocation - sitting ( 전만과 골반회전 - biomechanic 논문 찾기)
+
+Dx Radio. / calcific tendinitis진단을 위한 views, USG views with anatomy
+
+Dx lab / rheumatic ds, calcific tendinits 연관질환 감별, 유전자검사
+
+Tx guideline or review rec. / nsaids inj 운동, 생활습관교정의 rec.
+
+Tx med / 방법과, intervention에서 초음파세팅과 주사방향
+
+Tx rehab ex. / 운동교육과 생활습관 교정
+
+Tx refer or red flag / ddx질환..
+
+Prognosis / 경과
+
+Radiograph의 사용
+
+ 
 
 # Piriformis synd.
 
