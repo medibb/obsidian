@@ -14,15 +14,15 @@ Introduction
 NDI의 원인이 무엇인지에 대한 고찰이 있는지?  neck pain 의 원인에 대한 고찰이 무엇인지? pain characteristics 에 대한 고찰이 잇는지?
 - page2 
 	- line 33 - the 9th reference do not adequately support the statement "This postural malalignment is associated with muscle imbalance." Therefore, additional appropriate references may be necessary.
-	- line 37 neck pain 이 없는 FHD subject도 많다는 전제는, FHP에서 spinal muscle imbalance를 가진사람이 모두 neck pain 이 있다는 것을 설명해주지 않습니다. FHP 를 교정하는 것이 중요하다고 하였는데 어떠한 imbalance 가 존재했고 intervention 을 통해  어떻게 교정되었는지 제시할 필요가 있습니다. 이 후 내용에서 제시되지 않고 있습니다.
-	- line 40 - 또한 muscle imbalance 만을 교정하여 FHP 를 교정하려고 제시하는 것은 추측입니다. 어떠한 muscle imbalance 의 교정이 있었는지 더 자세히 제시하는 것이 필요하겠습니다.
-	- line 42 - Cervicothoracic intervention 이 flexibility 와 strengrh를 개선하였다는데 대한 reference 가 필요합니다.
+	- line 37 neck pain 이 없는 FHD subject도 많다는 전제는, spinal muscle imbalance를 가진 FDH가 모두 neck pain 이 있다는 것과 같지 않습니다.
+	- line 40 - Similarly to the previous sentence, it is necessary to provide a detailed explanation of which muscles have a muscle imbalance, how this creates FHP and causes pain, and what exercises correct the muscle imbalance and spinal alignment.
+	- line 42 - A reference is needed to support the claim that cervicothoracic intervention improves flexibility and strength.
 - page 3
-	- line 59 - 이 부분은 method section 에 어울립니다.
-	- line 71 - exclusion criteria 에서 수술하였던 사람은 병력청취만으로 제외하였는지? 수술과 경추척추질환, bith defect 나 anatomic variation을 제외하기 위해 영상검사를 시행하지 않았는지? severe pain 의 기준이 무엇인지? How were pain complaints quantified? was a validated scale used?
-	  exclusion criteria에서 기술하고 있지 않은 internal disc derangement 를 포함한 degenerative disc disease, birth defect, tumor, infection, systemic disease가 통증과 CV angle reduction 의 co-variate 일 수 있으며, 특히 많은 경우에서 degenerative disc 에 의해 야기되는 sagittal imbalance 가 natural healing에 따른 improvement 된 것을 배제하기 위한 robust 한 subject description 이 필요합니다.
-	- line 74 - 30세 미만의 젊은 여성이라는 매우 제한적인 대상자에 대한 결과라는 것을 limitation 뿐만아니라 title 과 conclusion에 포함시켜서 보고하는 것이 올바르겠습니다. 
-	  30세 이하의 젊은 여성에서 NDI 를 가지고 있다는 것은 현재 통증을 가진 환자라는 것으로 퇴행성 변화와 통증이 없는 젊은 여성들이 목 통증으로 인한 neck disability를 가지게 된 원인이 무엇인지, 본 연구의 exclusion criteria 로 제외되지 않은 neck spinal diesease 를 가지고 있는 것은 아닌지 명확히 제시될 필요가 있습니다. 그렇지 않다면 어떻게 subject 의 painful neck 의 heterogenous condition 을 control 하였는지 보여줄 필요가 있습니다.
+	- line 59 - This part would be appropriate for the Method section.
+	- line 71 - exclusion criteria 에서 수술하였던 사람은 병력청취만으로 제외하였는지? 수술후변형, 경추척추질환, bith defect 나 anatomic variation을 제외하기 위해 영상검사를 시행하지 않았는지? severe pain 의 기준이 무엇인지? How were pain complaints quantified? was a validated scale used?
+	- exclusion criteria에서 기술하고 있지 않은 internal disc derangement 를 포함한 degenerative disc disease, birth defect, tumor, infection, systemic disease가 통증과 CV angle reduction 의 co-variate 일 수 있으며, 특히 많은 경우에서 degenerative disc 에 의해 야기되는 segmental sagittal imbalance 가 비교 그룹간에 baseline different가 없었는지 robust 한 subject description 이 필요합니다.
+	- line 74 - 30세 미만의 병원종사자 혹은 학생인 젊은 여성이 대상자라는 것은 매우 제한적인 상황으로, 본 논문의 결과 역시 이러한 특수한 대상자에 국한된 결과라는 것을 limitation 뿐만아니라 title 과 conclusion에 포함시켜서 보고하는 것이 올바르겠습니다.	
+	- 30세 미만의 젊은 여성에서 NDI 가 10점이라는 것은 현재 경부 통증을 가진 환자라는 것으로 기저질환이 있는지, non-specific neck pain 인지, 유병기간은 어떠한지 명확히 제시될 필요가 있습니다. 그렇지 않다면 어떻게 subject 의 painful neck 의 heterogenous condition 을 control 하였는지 보여줄 필요가 있습니다.
 	  	- line 75 - 여성에서 근력이 약한 것은 맞지만 NDI의 prevalence가 높다는 근거가 필요합니다. 20번 reference 는 해당 근거가 되지 않습니다.
 	  	
 
