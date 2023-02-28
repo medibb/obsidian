@@ -6,12 +6,12 @@
 ---  
 Comments to the Author  
 The authors conduct an interesting study on the influence of Forward head posture correction using global(cervicothoracic & lubar) spinal program on craniovertebral angle, neck disability and spinal muscle activity. 
-
-I do think more rationale how the exercise program could change the CVA and greater explanation as to an anatomical or biomechanical standpoint would be needed.
+While global spine exercise program may be able to improve more NDI than cervicothoracic program, I do not see how this rationally inferred from this paper. Although this study speculated that FHP patients have muscle imbalance and myofascial pain, which could be improved through global spinal exercise, it did not actually address the observational evidence of it. In Addition, the underlying causes of pain and neck disability in comparison groups could be highly diverse, thus interpreting the results is too speculative.
+I believe that providing further reasoning for how the exercise program could improve CVA, along with a more comprehensive and biomechanical explanation, would be necessary.
 
 - page2 
 	- line 33 - the 9th reference do not adequately support the statement "This postural malalignment is associated with muscle imbalance." Therefore, additional appropriate references may be necessary.
-	- line 37 neck pain 이 없는 FHD subject도 많다는 전제는, spinal muscle imbalance를 가진 FDH가 모두 neck pain 이 있다는 것과 같지 않습니다.
+	- line 37 The assumption that many FHP subjects do not have neck pain does not explain the need to correct all FHP cases with spinal muscle imbalance.
 	- line 40 - Similarly to the previous sentence, it is necessary to provide a detailed explanation of which muscles have a muscle imbalance, how this creates FHP and causes pain, and what exercises correct the muscle imbalance and spinal alignment.
 	- line 42 - A reference is needed to support the claim that cervicothoracic intervention improves flexibility and strength.
 - page 3
@@ -40,7 +40,6 @@ I do think more rationale how the exercise program could change the CVA and grea
   - Line 225 - the sentence describing the reduction of myofascial fiber stress and pain through the implemented global spinal exercise leaves unclear whether the subjects had pre-existing lumbar spinal pain and whether the improvement in lumbar pain may have affected the NDI scores. Therefore, it is important to address whether only neck pain was investigated in NDI assessment.
   - Line 230 - It is necessary to distinguish whether the sentence that pain and discomfort were reduced refers to neck pain or lumbar pain. If it refers to the reduction of neck pain, it is necessary to describe in detail what the reasons are for the reduction.
   - Line 233 - Observational evidence needs to be presented for changes in whole spine alignment.
-  
-• While global spine exercise program may be able to improve more NDI than cervicothoracic program, I do not see how this rationally inferred from this paper. Although this study speculated that FHD patients have muscle imbalance and myofascial pain, which could be improved through global spinal exercise, it did not actually address the observational evidence of the causes and progression of it and the underlying causes of pain and neck disability in comparison groups could be highly diverse, thus interpreting the results is too speculative.
+
 
 🔗LINKS TO THIS PAGE
