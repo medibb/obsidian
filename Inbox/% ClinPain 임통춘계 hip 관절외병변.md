@@ -56,7 +56,7 @@
 
 ---
 
-# Ant. hip pain 
+# Ant. hip compartment 
 ## Iliopsoas tendon
 ### epidemiology
 - sport inj & trauma, m/c - LT
