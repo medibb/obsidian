@@ -40,27 +40,33 @@
 - systemic or other disease will not be 여기서 다루지 않겠다.
 
 
-- Dx - physical ex 관련 pt사 and 2014년 연구확인인 / image
+- Dx 
+	- physical ex 관련 pt사 and 2014년 연구확인인 
+	- image study
+Acute
+
+•Torn tendon with retraction or/and displaced bony fragment
+
+•Perifascicular feathery T2 high, edema, hematoma
+
+–Chronic
+
+•Thickening, intra-substance and peritendinous high T2
+
+•muscle atrophy and soft tissue scarring
+		-  myotendinous junction; weakest point
+		-   Gr1: minor disruption - perifascicular feathery T2 high, edema, hematoma
+		-   Gr2: partial tear - T2 high with partial retraction, edema, hemorrhage more prominent
+		-   Gr3: complete tear - full tickness disruption and significant edema, hmr
+		- 
 - Treatment 
 	- PTx & Exercises, injection - steroid, PRP, stem cell, others - op 
 	- 아직 CPG 등이 존재하지 않으므로 대재학회와 임통에서후순위 사업으로 진행시키면 도움이 될 것 같다.
-- 
- - avulsion: MR - when displaced bony fragment are not visible on radiographs, torn tendon and degree of retraction
+
 
 associate finding - hematoma, periosteal stripping and BM edema - not in
 
-chronic avulsion injury. muscle atrophy and soft tissue scarring
 
--   myotendinous junction; weakest point
-	-   Gr1: minor disruption - perifascicular feathery T2 high, edema, hematoma
-	-   Gr2: partial tear - T2 high with partial retraction, edema, hemorrhage more prominent
-	-   Gr3: complete tear - full tickness disruption and significant edema, hmr
-
--   MR for presurgical planning
-
--   Muscle contusion - blunt trauma, typically belly not MTJ
-
--   MR and usg edema or hematoma
 
 -   Tendinosis
 	-   MR: thickening / intra substance high / T2 high in peritendinous soft tissue
