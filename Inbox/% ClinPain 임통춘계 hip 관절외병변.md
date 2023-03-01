@@ -47,17 +47,13 @@
 
 ---
 - Treatment 
-	- PTx & Exercises, injection - steroid, PRP, stem cell, others - op 
+	- Lifestyle modification
+	- PTx & Exercises
+	- injection - steroid, PRP, stem cell
+	- others - op 
 	- 아직 CPG 등이 존재하지 않으므로 대재학회와 임통에서후순위 사업으로 진행시키면 도움이 될 것 같다.
 
 
-associate finding - hematoma, periosteal stripping and BM edema - not in
-
-
-
--   Tendinosis
-	-   MR: thickening / intra substance high / T2 high in peritendinous soft tissue
-	-   Calcific tendinitis - 모든 tendon insertion site 를 확인
 ---
 
 # Ant. hip pain 
