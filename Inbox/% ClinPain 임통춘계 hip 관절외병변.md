@@ -19,46 +19,33 @@
 	 3. CC  치료
 		 1. 
 
-- Table of Contents
-	- 1. AA
-		 1. 손상, 파열
-		 2. 염증, 석회
-	 2. BB
-		 1. 시기
-		 2. 
-	 3. CC 
-	 4. Take HOME message
-		 1. 
-- Draft
-
+---
 # Overview
 ## muscle and tendon injury
 
 - Acute: deceleration, eccentric contraction to tensile overload, sports-related
 - Chronic: overuse, repetitive stress, impingement, bursitis
 - muscle contusion - blunt trauma
-- systemic or other disease will not be 여기서 다루지 않겠다.
+- Systemic inflammatory disease and detailed acute pathology, surgical treatment will not be discuss here 여기서 다루지 않겠다.
 
-
+---
 - Dx 
 	- physical ex 관련 pt사 and 2014년 연구확인인 
 	- image study
-Acute
+- Acute
+	- Torn tendon with retraction or/and displaced bony fragment
+	- Perifascicular feathery T2 high, edema, hematoma
+- Chronic
+	- Thickening, intra-substance and peritendinous high T2
+	-  muscle atrophy and soft tissue scarring
 
-•Torn tendon with retraction or/and displaced bony fragment
+--- 
+-  myotendinous junction; weakest point
+-   Gr1: minor disruption - perifascicular feathery T2 high, edema, hematoma
+-   Gr2: partial tear - T2 high with partial retraction, edema, hemorrhage more prominent
+-   Gr3: complete tear - full tickness disruption and significant edema, hmr
 
-•Perifascicular feathery T2 high, edema, hematoma
-
-–Chronic
-
-•Thickening, intra-substance and peritendinous high T2
-
-•muscle atrophy and soft tissue scarring
-		-  myotendinous junction; weakest point
-		-   Gr1: minor disruption - perifascicular feathery T2 high, edema, hematoma
-		-   Gr2: partial tear - T2 high with partial retraction, edema, hemorrhage more prominent
-		-   Gr3: complete tear - full tickness disruption and significant edema, hmr
-		- 
+---
 - Treatment 
 	- PTx & Exercises, injection - steroid, PRP, stem cell, others - op 
 	- 아직 CPG 등이 존재하지 않으므로 대재학회와 임통에서후순위 사업으로 진행시키면 도움이 될 것 같다.
