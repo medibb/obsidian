@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c44e5a40c285b058",
+        "id": "9b923189e45026e7",
         "type": "tabs",
         "children": [
           {
-            "id": "dfd8f27df8746264",
+            "id": "7f9176dfc909050c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#🧠️/📝️/🌱️",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,12 +66,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 224.50403594970703
   },
   "right": {
     "id": "c3d1ec123b944f56",
@@ -119,7 +118,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224452,
+                  "scale": 0.7132754626224449,
                   "close": true
                 }
               }
@@ -188,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 283.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,29 +199,28 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "dfd8f27df8746264",
+  "active": "7f9176dfc909050c",
   "lastOpenFiles": [
-    "Dataview/💳️ Kanban.md",
-    "Inbox/% 0308 PRML lab meeting.md",
-    "Inbox/% ClinPain 임통춘계 hip 관절외병변.md",
-    "Inbox/$ EAG by knee movement and loading - MOC.md",
-    "Inbox/& EAG - draft.md",
-    "Inbox/% 류마티스학회 자가운동법.md",
-    "Dataview/%.md",
-    "Utility/⌨️Hotkeys.md",
     "Template/Peer-review.md",
+    "Inbox/% peer reivew for ARM-23-016.md",
+    "Inbox/% 0308 PRML lab meeting.md",
     "Dataview/&.md",
     "Inbox/& 2023-02-28 peer review for ARM-23-016.md",
     "Inbox/Untitled.md",
+    "Dataview/💳️ Kanban.md",
     "Dataview/✏️ Workbench.md",
     "Template/Presentation.md",
     "Template/Manuscript.md",
     "Template/Paper.md",
     "Inbox/% 병원보 - 어깨의 운동치료.md",
     "Inbox/; 혁신형 의사과학자회의.md",
+    "Utility/⌨️Hotkeys.md",
+    "Inbox/$ EAG by knee movement and loading - MOC.md",
     "conflict-files-obsidian-git.md",
     "Inbox/$ CT xray - MOC.md",
     "Inbox/= EAG - potentials.md",
