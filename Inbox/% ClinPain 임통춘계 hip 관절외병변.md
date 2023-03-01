@@ -34,13 +34,11 @@
 # Overview
 ## muscle and tendon injury
 
--   3 category : tendinous avulsion, muscle contusion, and myotendinous strain
--   Acute avulsion - deceleration or eccentric contraction to tensile overload
--   Chronic avulsion - repetitive stress or overuse
--   muscle contusion - blunt trauma
--   Iliopsoas inj - sports, trauma / m/c - LT
+- Acute: deceleration, eccentric contraction to tensile overload, sports-related
+- Chronic: overuse, repetitive stress, impingement, bursitis
+- muscle contusion - blunt trauma
+- systemic or other disease will not be 여기서 다루지 않겠다.
 
--   avulsion - in adults, commonly pathologic fracture, malignancy related -   trauma in skeletally immature patients
 
 - Dx - physical ex 관련 pt사 and 2014년 연구확인인 / image
 - Treatment 
