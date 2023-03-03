@@ -18,31 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e734c2f12f486123",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/= ADHD 의 효율적인 presentation 준비.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef549c57a20742ae",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -118,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/= ADHD 의 효율적인 presentation 준비.md",
+                "file": "Inbox/% ClinPain 임통춘계 hip 관절외병변.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -161,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/= ADHD 의 효율적인 presentation 준비.md",
+                "file": "Inbox/% ClinPain 임통춘계 hip 관절외병변.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/= ADHD 의 효율적인 presentation 준비.md",
+                "file": "Inbox/% ClinPain 임통춘계 hip 관절외병변.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/= ADHD 의 효율적인 presentation 준비.md"
+                "file": "Inbox/% ClinPain 임통춘계 hip 관절외병변.md"
               }
             }
           }
@@ -227,10 +204,10 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "ef549c57a20742ae",
+  "active": "7f9176dfc909050c",
   "lastOpenFiles": [
-    "Inbox/% ClinPain 임통춘계 hip 관절외병변.md",
     "Inbox/= ADHD 의 효율적인 presentation 준비.md",
+    "Inbox/% ClinPain 임통춘계 hip 관절외병변.md",
     "Template/Peer-review.md",
     "Inbox/% peer reivew for ARM-23-016.md",
     "Inbox/% 0308 PRML lab meeting.md",
