@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ef549c57a20742ae",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -217,7 +227,7 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "e734c2f12f486123",
+  "active": "ef549c57a20742ae",
   "lastOpenFiles": [
     "Inbox/% ClinPain 임통춘계 hip 관절외병변.md",
     "Inbox/= ADHD 의 효율적인 presentation 준비.md",
