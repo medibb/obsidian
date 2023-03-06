@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/= HCI lecture.md",
+                "file": "Utility/⌨️Hotkeys.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/= HCI lecture.md",
+                "file": "Utility/⌨️Hotkeys.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/= HCI lecture.md",
+                "file": "Utility/⌨️Hotkeys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/= HCI lecture.md",
+                "file": "Utility/⌨️Hotkeys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/= HCI lecture.md"
+                "file": "Utility/⌨️Hotkeys.md"
               }
             }
           }
@@ -207,9 +207,12 @@
   },
   "active": "7f9176dfc909050c",
   "lastOpenFiles": [
+    "Dataview/;.md",
+    "Inbox/; 혁신형 의사과학자회의.md",
+    "Template/Conference.md",
+    "Inbox/= HCI lecture.md",
     "Utility/⌨️Hotkeys.md",
     "conflict-files-obsidian-git.md",
-    "Inbox/= HCI lecture.md",
     "Inbox/% ClinPain 임통춘계 hip 관절외병변.md",
     "Inbox/= ADHD 의 효율적인 presentation 준비.md",
     "Template/Peer-review.md",
@@ -224,7 +227,6 @@
     "Template/Manuscript.md",
     "Template/Paper.md",
     "Inbox/% 병원보 - 어깨의 운동치료.md",
-    "Inbox/; 혁신형 의사과학자회의.md",
     "Inbox/$ EAG by knee movement and loading - MOC.md",
     "Inbox/$ CT xray - MOC.md",
     "Inbox/= EAG - potentials.md",
