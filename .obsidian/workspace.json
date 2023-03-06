@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "41e9cf0be79c0de3",
+        "id": "9b923189e45026e7",
         "type": "tabs",
         "children": [
           {
-            "id": "298ac214e2703c07",
+            "id": "d980decfbef9b3de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utility/⌨️Hotkeys.md",
+                "file": "Inbox/$ EAG by knee movement and loading - MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.50403594970703,
-    "collapsed": true
+    "width": 224.50403594970703
   },
   "right": {
     "id": "c3d1ec123b944f56",
@@ -96,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Utility/⌨️Hotkeys.md",
+                "file": "Inbox/$ EAG by knee movement and loading - MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utility/⌨️Hotkeys.md",
+                "file": "Inbox/$ EAG by knee movement and loading - MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utility/⌨️Hotkeys.md",
+                "file": "Inbox/$ EAG by knee movement and loading - MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utility/⌨️Hotkeys.md"
+                "file": "Inbox/$ EAG by knee movement and loading - MOC.md"
               }
             }
           }
@@ -200,20 +199,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "298ac214e2703c07",
+  "active": "d980decfbef9b3de",
   "lastOpenFiles": [
-    "Inbox/; 혁신형 의사과학자회의.md",
+    "Inbox/$ EAG by knee movement and loading - MOC.html",
+    "Inbox/= HCI lecture.md",
     "Inbox/= BACPAC.md",
     "Utility/⌨️Hotkeys.md",
-    "Dataview/;.md",
-    "Template/Conference.md",
-    "Inbox/= HCI lecture.md",
-    "conflict-files-obsidian-git.md",
     "Inbox/% ClinPain 임통춘계 hip 관절외병변.md",
     "Inbox/= ADHD 의 효율적인 presentation 준비.md",
     "Template/Peer-review.md",
@@ -228,10 +222,13 @@
     "Template/Manuscript.md",
     "Template/Paper.md",
     "Inbox/% 병원보 - 어깨의 운동치료.md",
+    "Inbox/; 혁신형 의사과학자회의.md",
     "Inbox/$ EAG by knee movement and loading - MOC.md",
+    "conflict-files-obsidian-git.md",
     "Inbox/$ CT xray - MOC.md",
     "Inbox/= EAG - potentials.md",
     "Inbox/= EAG - cell biology.md",
-    "Inbox/electroarthrography.md"
+    "Inbox/electroarthrography.md",
+    "Template/MOC.md"
   ]
 }

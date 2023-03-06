@@ -10,5 +10,6 @@
   "obsidian-kanban",
   "dataview",
   "table-editor-obsidian",
-  "obsidian-textgenerator-plugin"
+  "obsidian-textgenerator-plugin",
+  "obsidian-pandoc"
 ]

@@ -16,14 +16,14 @@ EAG는 관절연골에서 발생하는 전위를 기록하는 것
 Early diagnosis of cartilage pathology - 현재는 laboratory biomarker (MMP3, CTX II, COMP)가 있으나, 침습적 - 이에 대한 참고문헌조사필요
 비하여 비침습적이면서 연골의 측면에서는 chondrocyte cell biology, 그리고 EAG가 knee joint의 전기생리학적인 변화를 반영하는 지 여부를 확인한다.
 
-knee movment 는 다리펴기 / 스쿼트 에 해당하는 두가지 가장 흔한 운동 동작
+knee movement 는 다리펴기 / 스쿼트 에 해당하는 두가지 가장 흔한 운동 동작
 
 
 ### 1.1 Objectives
 knee EAG가 무릎 운동에서 어떻게 측정되는 지 평가하고자 함.
 이를 위해 최적의 센서 위치를 찾고 
 무릎관절 운동 중 각도 변화에 의해 유발되는 기저 EAG값(연골의 얕은 접촉과 변형) vs 추가 부하(근수축과 관절의 moment에 따른 연골의 깊은 접촉과 변형)에 따른  EAG값 비교
-	이 후 최대 부하(최대의 근수축 혹은 weight 부하, e.g. 80% 1RM)에 따른 EAG 값 비교교
+	이 후 최대 부하(최대의 근수축 혹은 weight 부하, e.g. 80% 1RM)에 따른 EAG 값 비교 가능
 
 
 
