@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/% ClinPain 임통춘계 hip 관절외병변.md",
+                "file": "Utility/⌨️Hotkeys.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/% ClinPain 임통춘계 hip 관절외병변.md",
+                "file": "Utility/⌨️Hotkeys.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/% ClinPain 임통춘계 hip 관절외병변.md",
+                "file": "Utility/⌨️Hotkeys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/% ClinPain 임통춘계 hip 관절외병변.md",
+                "file": "Utility/⌨️Hotkeys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/% ClinPain 임통춘계 hip 관절외병변.md"
+                "file": "Utility/⌨️Hotkeys.md"
               }
             }
           }
@@ -206,8 +206,8 @@
   },
   "active": "7f9176dfc909050c",
   "lastOpenFiles": [
-    "Inbox/= ADHD 의 효율적인 presentation 준비.md",
     "Inbox/% ClinPain 임통춘계 hip 관절외병변.md",
+    "Inbox/= ADHD 의 효율적인 presentation 준비.md",
     "Template/Peer-review.md",
     "Inbox/% peer reivew for ARM-23-016.md",
     "Inbox/% 0308 PRML lab meeting.md",
