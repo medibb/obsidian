@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9b923189e45026e7",
+        "id": "41e9cf0be79c0de3",
         "type": "tabs",
         "children": [
           {
-            "id": "7f9176dfc909050c",
+            "id": "298ac214e2703c07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Inbox/; 혁신형 의사과학자회의.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c787485d2dafcea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/= BACPAC.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -109,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/= BACPAC.md",
+                "file": "Inbox/; 혁신형 의사과학자회의.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -152,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/= BACPAC.md",
+                "file": "Inbox/; 혁신형 의사과학자회의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/= BACPAC.md",
+                "file": "Inbox/; 혁신형 의사과학자회의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/= BACPAC.md"
+                "file": "Inbox/; 혁신형 의사과학자회의.md"
               }
             }
           }
@@ -218,10 +205,10 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "2c787485d2dafcea",
+  "active": "298ac214e2703c07",
   "lastOpenFiles": [
-    "Inbox/; 혁신형 의사과학자회의.md",
     "Inbox/= BACPAC.md",
+    "Inbox/; 혁신형 의사과학자회의.md",
     "Utility/⌨️Hotkeys.md",
     "Dataview/;.md",
     "Template/Conference.md",
