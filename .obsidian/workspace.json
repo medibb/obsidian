@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/; 혁신형 의사과학자회의.md",
-                "mode": "preview",
+                "file": "Utility/⌨️Hotkeys.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -96,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/; 혁신형 의사과학자회의.md",
+                "file": "Utility/⌨️Hotkeys.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/; 혁신형 의사과학자회의.md",
+                "file": "Utility/⌨️Hotkeys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/; 혁신형 의사과학자회의.md",
+                "file": "Utility/⌨️Hotkeys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/; 혁신형 의사과학자회의.md"
+                "file": "Utility/⌨️Hotkeys.md"
               }
             }
           }
@@ -207,8 +207,8 @@
   },
   "active": "298ac214e2703c07",
   "lastOpenFiles": [
-    "Inbox/= BACPAC.md",
     "Inbox/; 혁신형 의사과학자회의.md",
+    "Inbox/= BACPAC.md",
     "Utility/⌨️Hotkeys.md",
     "Dataview/;.md",
     "Template/Conference.md",
