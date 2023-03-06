@@ -121,7 +121,9 @@ knee EAG가 무릎 운동에서 어떻게 측정되는 지 평가하고자 함.
 		- 가설 4: 자세를 유지하는 동안의 적은량의 전위변화가 SGP 가능성
 		- 관절운동에 따른 변화는 또 다른 mechanotransduction 이 일어나는 것일 수도 있다. - synovial fluid의 이동?
 		- 
-- 
+
+---
+
 Maximal differences for 7 sec
 
 Amplitude difference from 90 ->180
