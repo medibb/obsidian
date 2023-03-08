@@ -47,10 +47,11 @@ knee EAG가 무릎 운동에서 어떻게 측정되는 지 평가하고자 함.
 		1. EAG의 발생
 			- Cartilage 는 부하에 의해서 전위를 만들어 냄. - strain generated potential, SGP 를 만든다. 
 			- SGP는 1966년에 먼저 발견되었고, 1972년에 몇가지 연골에서 발견되었으며, stress-induced remodelling of soft tissue에 대해서 말하고 있다. 심지어 폐조직에서도 보고되었음 ([[= EAG - potentials]])
+		2. EAG의 크기와 방향
 			- 관절 전도의 크기는 Buschmann  논문에서  0.25mv 로 관찰되었으며, 퍼듀대학 의공학 교실[bobb2022](babbsOriginElectroarthrogramStreaming) 에서 수학적 모델링으로 0.175mv일 것으로 예상했다.
 			- 이 논문에서는 내부의 electrostatic potential 로 diapole 이 형성되어서 해당 전위를 외부에서 측정하는 것으로 해석하고 모델링 하였다.
 			- ![[babbsOriginElectroarthrogramStreaming#img]]
-		2. EAG의 크기
+		3. EAG의 크기와 부하와의 관계
 			- 크기가 부하(무게, 중심을잡기 위한 근육, 수축운동에따른 근육수축)에 따라서 얼마나 변하는가?
 			- 부하가 증가한다고 연골두께가 계속해서 줄어드는 것은 아니므로 부하 양과의 비선형적 관계가 있을 것 
 			- non-lieaner 관계의 대략적 추측 - 이에 대하여 loading 의 양에 따라 얼마나 변하는지 을 추측해볼 수 있을 것이다.
@@ -88,12 +89,7 @@ knee EAG가 무릎 운동에서 어떻게 측정되는 지 평가하고자 함.
 			- 비선형적 변화가 초기에 클 경우, 수동신전과 능동신전의 전위차가 매우 작을 가능성이 있다.
 		- 수동굴곡 / 능동굴곡 / 스쿼트에 걸리는 strain값은?
 
-### 2.2.3. Cartilage
-- EAG를 streaming potential 의 측정에 국한하지 않고, joint motion에 따른 knee joint의 electric potential 을 모두 평가하는 큰범위에서의 EAG로 이야기 할 수 있음
-	- 무릎 관절연골에서 발생하고 활액과 무릎 주변 연조직을 통해 표면전극 까지 전달되는 전위는 사전 연구에서 보고하는 streaming potential 이외의 요소들이 많이 작용.
-	- 이렇다면, early OA 의 평가에 국한되지 않을 수 있다.
-	- digital goniometer로서의 활용, 무릎의 굴곡 mechanism 의 문제의 발견, patellar gliding 에 대한 평가를 시행할 수 있다.
-		- 다만 가설과 근거를 robust 하게 만들어야함
+### 2.2.3. Cartilage deformation
 - 관절연골의 deformation이 unloading 이후에도 사라지지 않는다면 electrostatic potential 이 남아있을 수 있겠지만, 기존연구와 선행연구에서 모두 unloading 과 함께 즉시 potential 이 사라지는 것이 관찰됨
 	- unloading 과 함께 cartilage ECM에서 convection 되었던 Na 등 cation 들이 즉시 이동되면서 electrostatic field 가 없어진다고 해석해야함.
 	- 기존문헌에서 지속적인 부하 및 밤에 cartilage 높이가 줄어든다는 보고 및 Buschmann이 보고했던 10번의 반복적인 부하에 따라 EAG 전위가 점차 감소한다는 내용은 국소적인 deformation이 지속된다기 보다 cartilage 자체에서 fluid 가 빠져나가는 것으로 해석할 수 있겠다. 즉, 즉각적인 변형은 회복되는 탄성을 가졌으나 수분의 감소와 높이 소실이 일어난 것은 시간이 지나야 회복된다.
@@ -118,8 +114,9 @@ knee EAG가 무릎 운동에서 어떻게 측정되는 지 평가하고자 함.
 	- 정적인 상태
 		- 전위의 크기가 큰 위치
 		- 전극의 위치가 많이 변해도 되는 위치, 즉 전위가 잘 나오는 범위 공간의 중심위치		
-		- 실제 관절각도 변화에 따른 전위 변화는 SGP로 발생가능한 크기에 비해 매우 크다 (현재 y축의 mV 환산값과 비교)
-		- 가설 4: 자세를 유지하는 동안의 적은량의 전위변화가 SGP 가능성
+		- 실제 관절각도 변화에 따른 전위 변화는 SGP로 발생가능한 크기에 비해 매우 크다 
+			- 현재 y축의 mV 환산값과 비교
+			- 자세를 유지하는 동안의 적은량의 전위변화가 SGP 가능성
 		- 관절운동에 따른 변화는 또 다른 mechanotransduction 이 일어나는 것일 수도 있다. - synovial fluid의 이동?
 	- 운동 중 상태
 		- 운동 중에는 부하의 변화에 더하여, 표면 전극과 내부 연골 사이의 상대적인 위치(상대적 방향과 거리)가 지속적으로 변화
@@ -136,26 +133,26 @@ knee EAG가 무릎 운동에서 어떻게 측정되는 지 평가하고자 함.
 - 대퇴-슬개 관절의 부하가 만들어 내는 전위
 	- 현재 전극 위치 중 슬개골을 둘러싼 전극 및 상부의 전극들
 
-
-
-
-		- 
-
----
+- EAG를 streaming potential 의 측정에 국한하지 않고, joint motion에 따른 knee joint의 electric potential 을 모두 평가하는 큰범위에서의 EAG로 이야기 할 수 있음
+	- 무릎 관절연골에서 발생하고 활액과 무릎 주변 연조직을 통해 표면전극 까지 전달되는 전위는 사전 연구에서 보고하는 streaming potential 이외의 요소들이 많이 작용할 수도 있음
+	-  early OA 의 평가에 국한하지 않고, digital goniometer로서의 활용, 무릎의 굴곡 mechanism 의 문제의 발견, patellar gliding 에 대한 평가를 시행할 수 있다.
+		- 다만 가설과 근거를 robust 하게 만들어야함
 
 
 
 
-
-### 3.2 Target journal
+### 3.4 Target journal
 ---
 
 
 ## 4. Method
 
+### 4.1. parameters
 Outlier의 기준?
 신호 유사성의 비교 - 센서의 개수를 줄이거나, 위치를 추가할 수 있는 가능성
 
+
+### 4.2. Experiments
 parameter 정의
 Maximal differences for 7 sec
 
@@ -180,20 +177,34 @@ Correlation between ultrasonographic parameters versus EAG signals
 	- cartilage, loading area 로 부터, outer cartilage 및 surface 까지의 거리에 따른 전위의 크기 및 역전
 	- Synovial fluid 의 영향
 
-### 4.1. Data analysis ([[= EAG - Data Analysis]])
+### 4.3. Data analysis ([[= EAG - Data Analysis]])
 
-#### Data processing
- - Env: 파이참, AWS(ID: sense0906@gmail.com / PW: )
- - code(setting.py & main.py) 실행
- - 측정순서.txt에서 각 동작 확인
- - GUI 사용
-	 - 능동신전 =   leg stretch(1) (7-14)
-	 - 수동신전 (완전굴곡포함) = leg bend(2) (by each angle) (28-35)
-	 - 스쿼트 = squat (14-21)
-	 - 텍스트추출(Win + Shift + T) & paste to 엑셀파일
-	 - 
+# Stage 0 Analysis of amplitude
+## stage 0.1 Analysis of Maximal diff.
 
-스쿼트 (14-21) squat
+### Potential values versus movement 
+  - whole data look-up
+  - raw data 분석에서 move별 boxplot 겹쳐그리기
+  - outlier - 제거 코드사용 1.5 IQR  사용하기에는 많이 튀는 값 먼저 제거
+
+### Potential values versus channel in same movments
+
+### Absolute value versus movement
+  - AP 데이터에서 move 별 boxplot 겹쳐그리기
+  - raw data & AP 데이터에서 각 move별로 channel 들의 유의한 차이 통계
+  - absolute & outlier 제거 코드(현재 에러남) 로도 구해보는 것 좋을
+
+### Propotional values versus movement
+
+### Absolute & propotional values versus movement
+
+
+## stage 0.2 Analysis of Hypothetical diff.
+
+
+#### Stage 1 Interpretation of signals by components
+- stage 1.1 Analysis of initial & end noise potentials
+- stage 1.2 Analysis of Signal reversal
 
 
 #### Statistical analysis

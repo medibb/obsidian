@@ -5,10 +5,25 @@
 -   `Formation Date:` [[2023-02-01]]
 ---
 
-## EAG - Data Analysis
+# EAG - Data Analysis
 >The data was colleced following the [[= Knee - biomechanics]].  After collection, the data was anlysed following a multi-stageinductive analysis of the data.
 
 The results of each stage are available below:
+
+
+
+# Data processing
+ - Env: 파이참, AWS(ID: sense0906@gmail.com / PW: )
+ - code(setting.py & main.py) 실행
+ - 측정순서.txt에서 각 동작 확인
+ - GUI 사용
+	 - 능동신전 =   leg stretch(1) (7-14)
+	 - 수동신전 (완전굴곡포함) = leg bend(2) (by each angle) (28-35)
+	 - 스쿼트 = squat (14-21)
+	 - 텍스트추출(Win + Shift + T) & paste to 엑셀파일
+	 - 
+
+스쿼트 (14-21) squat
 
 
 # Stage 3
