@@ -95,15 +95,15 @@ knee EAG가 무릎 운동에서 어떻게 측정되는 지 평가하고자 함.
 	- 기존문헌에서 지속적인 부하 및 밤에 cartilage 높이가 줄어든다는 보고 및 Buschmann이 보고했던 10번의 반복적인 부하에 따라 EAG 전위가 점차 감소한다는 내용은 국소적인 deformation이 지속된다기 보다 cartilage 자체에서 fluid 가 빠져나가는 것으로 해석할 수 있겠다. 즉, 즉각적인 변형은 회복되는 탄성을 가졌으나 수분의 감소와 높이 소실이 일어난 것은 시간이 지나야 회복된다.
 	- ![[poillotStraingeneratedElectricalPotential2021#^ab5369]]
 		- 일 전에 1시간 정도 앉아있다가 측정하는 추가 실험의 필요성은 크지 않겠다.
+		
 - 연골접촉면(contact point of femoral condyle)의 피봇
 	- contact point 가 뒤로 가는데, medial condyle 은 작게 움직이고 lateral condyle 은 많이 움직인다. 그러다보니까 medial pivot 하는 모양새
 - 경골회전(tibia rotation)
 	- 굴곡시 int rotation / 신전시 lateral rotation of tibia
 	- int rotation 이 시계반대방향
 	- 다리펴기에서는 신전할때 경골이 시계방향으로 돌면서 바깥쪽이 더욱 뒤로 이동
-	- 스쿼트시에는 앉았다가 일어나는 신전에서 
-	- 굴곡시에는 contact point 가 뒤로 가는데, tibia 가 int. rotation 하면서 femoral condyle입장에서는 앞으로 가는 셈
-	- 스쿼트에서는 
+	- 스쿼트시에는 앉을때 femoral condyle이  ext. rotation 일어나면서 무릎이 바깥쪽으로 벌어지려고함. 일어날때는 femoral condyle이 int. rotation
+		- 영향에 대한 분석은 어렵지만 위쪽에 붙은 센서일수록 스쿼트 시 이동이 많고, 아래쪽에 붙은 센서일 수록 다리펴기에서 이동이 많을 수 있다. 반대쪽 설명도 가능 
 
 ---
 
@@ -172,14 +172,20 @@ EAG by 능동신전에서 관절각도변화와 근수축에 의한 부하
 EAG by 수동신전에서 관절각도 변화와 그에 따른 연조직 긴장에의한 수동적인 부하
 
 - 실험 3-1 수동신전과 능동신전의 EAG 값 비교
+	- 현재 실험: 8군데에서 측정함, 4군데는 patellar 주변의 retinaculum,  나머지는 joint line 을 따라서
 - 실험 3-2 수동스쿼트와 능동스쿼트의 EAG 값 비교
 
-### 4.2. parameters
-Outlier의 기준 필요
+- 실험 3-3 내부 해부학적 구조물과 EAG값의 상관 관계가 있다.
+	- cartilage, loading area 로 부터, outer cartilage 및 surface 까지의 거리가 미치는 영향 -  초음파 측정한 거리와 전위크기 비교
+	- 주변 구조물 및 연조직의 유무 - 직선 거리내에 있는 각 조직의 두께 측정
 
-### 4.2. Experiments
-parameter 정의
-Maximal differences for 7 sec
+
+
+
+
+### 4.2. parameters 설정
+parameter 
+EAG amplitude: Maximal differences for 7 sec
 
 Amplitude difference from 90 ->180
 
@@ -195,36 +201,31 @@ Immediate difference to the inflection point in 1sec
 Correlation between ultrasonographic parameters versus EAG signals
 
 
-- 능동신전/수동신전/스쿼트 에서 무릎관절의 각도변화에 따른 EAG를 측정하고자 함.
-- 8군데에서 측정함, 4군데는 patellar 주변의 retinaculum,  나머지는 joint line 을 따라서
-- 명료화해야하는 부분
-	- 수동신전에서도 연골변형이 생기는지 - 논문찾기
-	- cartilage, loading area 로 부터, outer cartilage 및 surface 까지의 거리에 따른 전위의 크기 및 역전
-	- Synovial fluid 의 영향
+
 
 ### 4.3. Data analysis ([[= EAG - Data Analysis]])
 
-# Stage 0 Analysis of amplitude
-## stage 0.1 Analysis of Maximal diff.
+#### Stage 0 Data processing
 
 ### Potential values versus movement 
-  - whole data look-up
-  - raw data 분석에서 move별 boxplot 겹쳐그리기
-  - outlier - 제거 코드사용 1.5 IQR  사용하기에는 많이 튀는 값 먼저 제거
+  - outlier - 제거, 1.5 IQR  사용
+  - Proportional value - 각 대상자의 전위의 전체 합으로 나눔
+  - absolute value - 크기만 비교하기 
 
+#### Stage 1 Analysis of amplitude
+- Raw data 
+
+- 
 ### Potential values versus channel in same movments
-
-### Absolute value versus movement
-  - AP 데이터에서 move 별 boxplot 겹쳐그리기
-  - raw data & AP 데이터에서 각 move별로 channel 들의 유의한 차이 통계
-  - absolute & outlier 제거 코드(현재 에러남) 로도 구해보는 것 좋을
-
 ### Propotional values versus movement
-
 ### Absolute & propotional values versus movement
 
 
-## stage 0.2 Analysis of Hypothetical diff.
+  - raw data & AP 데이터에서 각 move별로 channel 들의 유의한 차이 통계
+  - absolute & outlier 제거 코드(현재 에러남) 로도 구해보는 것 좋을
+
+
+
 
 
 #### Stage 1 Interpretation of signals by components
@@ -234,12 +235,6 @@ Correlation between ultrasonographic parameters versus EAG signals
 
 #### Statistical analysis
 
--   raw data 분석에서 move별 boxplot 겹쳐그리기
--   absolute & outlier 제거 코드(현재 에러남) 로도 구해보는 것 좋을
--   AP 데이터에서 move 별 boxplot 겹쳐그리기
--   raw data & AP 데이터에서 각 move별로 channel 들의 유의한 차이 통계
 
 
 # 5. 고찰요소
-- 전극위치: 표면해부학에 따라서 제시해 주기
-- 
