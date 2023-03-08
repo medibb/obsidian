@@ -44,53 +44,55 @@ knee EAG가 무릎 운동에서 어떻게 측정되는 지 평가하고자 함.
 		3. 반복된 weight shift 에서 신호값이 줄어듦 - ==cyclic loading 에 의해 연골이 전기적 상태가 변함==
 			- [[zhuDecreaseElectricalPotentials2016]]  - 시간에 따라 줄어드는 량 - mechanobiology와 관련될듯.
 	2. Elbow EAG에 대해 1가지 논문을 발표한 인도 그룹
-	3. EAG의 발생과, 크기  cartilage streaming potential 및 strain-generated potential 에 대한 기초연구들 
+	3. EAG의 발생과, 크기, 방향에 대한 기초연구들 
 		1. EAG의 발생
-		- Cartilage 는 부하에 의해서 전위를 만들어 냄. - strain generated potential, SGP 를 만든다. 
-		- SGP는 1966년에 먼저 발견되었고, 1972년에 몇가지 연골에서 발견되었으며, stress-induced remodelling of soft tissue에 대해서 말하고 있다. 심지어 폐조직에서도 보고되었음 ([[= EAG - potentials]])
-		- 관절 전도의 크기는 Buschmann  논문에서  0.25mv 로 관찰되었으며, 퍼듀대학 의공학 교실[bobb2022](babbsOriginElectroarthrogramStreaming) 에서 수학적 모델링으로 0.175mv일 것으로 예상했다.
-		- 이 논문에서는 내부의 electrostatic potential 로 diapole 이 형성되어서 해당 전위를 외부에서 측정하는 것으로 해석하고 모델링 하였다.
-		- ![[babbsOriginElectroarthrogramStreaming#img]]
-		- 크기가 부하(무게, 중심을잡기 위한 근육, 수축운동에따른 근육수축)에 따라서 얼마나 변하는가?
+			- Cartilage 는 부하에 의해서 전위를 만들어 냄. - strain generated potential, SGP 를 만든다. 
+			- SGP는 1966년에 먼저 발견되었고, 1972년에 몇가지 연골에서 발견되었으며, stress-induced remodelling of soft tissue에 대해서 말하고 있다. 심지어 폐조직에서도 보고되었음 ([[= EAG - potentials]])
+			- 관절 전도의 크기는 Buschmann  논문에서  0.25mv 로 관찰되었으며, 퍼듀대학 의공학 교실[bobb2022](babbsOriginElectroarthrogramStreaming) 에서 수학적 모델링으로 0.175mv일 것으로 예상했다.
+			- 이 논문에서는 내부의 electrostatic potential 로 diapole 이 형성되어서 해당 전위를 외부에서 측정하는 것으로 해석하고 모델링 하였다.
+			- ![[babbsOriginElectroarthrogramStreaming#img]]
+		2. EAG의 크기
+			- 크기가 부하(무게, 중심을잡기 위한 근육, 수축운동에따른 근육수축)에 따라서 얼마나 변하는가?
 			- 부하가 증가한다고 연골두께가 계속해서 줄어드는 것은 아니므로 부하 양과의 비선형적 관계가 있을 것 
 			- non-lieaner 관계의 대략적 추측 - 이에 대하여 loading 의 양에 따라 얼마나 변하는지 을 추측해볼 수 있을 것이다.
 				- 초기에 실험했던 의자를 잡아서 COG 가 많이 흔들리지 않게 하는  실험, 무게를 체중의 3~40% 추가 및 제거했던 실험
+				- 이 후 최대 부하(최대의 근수축 혹은 weight 부하, e.g. 80% 1RM)에 따른 EAG 값 검출 가능 - 윤리적 문제
+				- 다리펴기는 수동다리펴기와 스쿼트는 wall squat 혹은 다른 다리가 붙어있는 수동검사와 비교해야할수 있다.
 
+## 2.2 knee joints physiology
 
+### 2.2.1. Knee anatomy
+- 관절연골은 세군데 있다.
+	- 슬개골(무릎 뼈) 연골 : Patellar cartilage 
+	- 대퇴골 연골 ( 좌 / 우)
+	- 경골 연골 (좌 / 우)
+- 관절은 두군데서 일어난다
+	- 대퇴 - 슬개 관절
+	- 대퇴 - 경골 관절
 
-	- 다리펴기는 수동다리펴기와 스쿼트는 wall squat 혹은 다른 다리가 붙어있는 수동검사와 비교해야할수 있다.
-
-- 무릎의 biokinematics에 대하여 
-	- 관절연골은 세군데 있다.
-		- 슬개골(무릎 뼈) 연골 : Patellar cartilage 
-		- 대퇴골 연골 ( 좌 / 우)
-		- 경골 연골 (좌 / 우)
-	- 관절은 두군데서 일어난다
-		- 대퇴 - 슬개 관절
-		- 대퇴 - 경골 관절
-		  
-	- 다리펴기 (leg extension, Q-setting)
-		- 대퇴사두근의 수축으로 대퇴사두골에 포함되어 있는 슬개골연골이 대퇴골 연골을 누르면서 rolling contact 를 하게 되면서 미끄러져 올라가고 경골이 따라 올라옴
-		- 주로 대퇴-슬개 관절에 부하가 많이 걸리며, quadriceps muscles 이 약하면 부하가 더 많이 걸리고, full extension 에서 부하가 제일 많이 생긴다.
+### 2.2.2. Knee biomechanics
+- 다리펴기 (leg extension, Q-setting)
+	- 대퇴사두근의 수축으로 대퇴사두골에 포함되어 있는 슬개골연골이 대퇴골 연골을 누르면서 rolling / sliding contact 를 하게 되면서 미끄러져 올라가고 경골이 따라 올라옴
+	- 주로 대퇴-슬개 관절에 부하가 많이 걸리며, quadriceps muscles 이 약하면 부하가 더 많이 걸리고, full extension 에서 부하가 제일 많이 생긴다.
+	- ==대퇴-슬개관절==에 대한 연구는 전혀 보고되지 않았음
 		  
 	- 스쿼트
 		- 무릎이 앞으로 나가는 경우와 나가지 않는 경우의 차이가 존재 - 무릎 앞을 물체로 차단하는 방법도 있다.
 		- 무릎이 많이 나가지 않으면, 즉 발목이 많이 굴곡되지 않으면, 앉는 깊이에 따라 즉 무릎의 굴곡각도에 따라 loading 이 증가함
-		- 주로 대퇴-경골 관절의 부하가 일어남
+		- 주로 ==대퇴-경골 관절==의 부하가 주로 일어남
 - 
 	- 수동관절운동에서도 연골부하는 일어난다
 		- 근육의 activation(motor unit firing)은 없어도, 근육과 그외 연조직은 viscoelastic tissue 이므로 lengthening & shortening 에 의한 tension이 발생
-			- muscle intringic tension 및 수동굴곡시 loading 에 대한 ==기존 문헌조사==
-			- 선행연구의 finding 인 관절 각도의 변화에 따른 전위 차가 발생에 대한 설명
-		- 가설1: 수동 굴곡시에도 loading에 따른 strain 은 나타날 가능성
+			- muscle intringic tension 및 수동굴곡시 loading 에 대한 ==기존 문헌 추가 조사 필요==
+			- 기존 finding인 수동관절 운동에서 발생하는 전위에 EAG가 기여하고 있음. 
+			- 비선형적 변화가 초기에 클 경우, 수동신전과 능동신전의 전위차가 매우 작을 가능성이 있다.
 		- 수동굴곡 / 능동굴곡 / 스쿼트에 걸리는 strain값은?
-
 
 ---
 
 ## 3. Future work
 
-### 3.1. Knowledge gap
+### 3.1. Knowledge gap summary
 
 - 기존 연구에서 보고되지 않았던 운동에 따른, 즉 관절부하 + 관절각도변화에 따른 EAG 변화를 관찰한다.
 - 무릎 관절연골에서 발생하고 활액과 무릎 주변 연조직을 통해 표면전극 까지 전달되는 전위는 사전 연구에서 보고하는 streaming potential 이외의 요소들이 많이 작용할 것이다.
@@ -118,6 +120,20 @@ knee EAG가 무릎 운동에서 어떻게 측정되는 지 평가하고자 함.
 
 ---
 
+
+
+
+
+### 3.2 Target journal
+---
+
+
+## 4. Method
+
+Outlier의 기준?
+신호 유사성의 비교 - 센서의 개수를 줄이거나, 위치를 추가할 수 있는 가능성
+
+parameter 정의
 Maximal differences for 7 sec
 
 Amplitude difference from 90 ->180
@@ -133,21 +149,6 @@ Immediate difference to the inflection point in 1sec
 
 Correlation between ultrasonographic parameters versus EAG signals
 
-신호역전의 원인 탐색(역전횟수탐색?)
-
-각 센서의 비율의 비교 - 개인에 따른 비율로 변환, 각 위치에서 측정되는 신호혹은 2번 노이즈의 절대값 크기나 방향, 3번 신호의 방향이 대충 예상 가능할지,
-
-3번 신호의 상승하강량 조사
-
-신호 유사성의 비교 - 센서의 개수를 줄이거나, 위치를 추가할 수 있는 가능성
-
-Outlier의 기준?
-
-### 3.2 Target journal
----
-
-
-## 4. Method
 
 - 능동신전/수동신전/스쿼트 에서 무릎관절의 각도변화에 따른 EAG를 측정하고자 함.
 - 8군데에서 측정함, 4군데는 patellar 주변의 retinaculum,  나머지는 joint line 을 따라서
