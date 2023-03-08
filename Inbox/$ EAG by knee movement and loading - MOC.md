@@ -88,6 +88,20 @@ knee EAG가 무릎 운동에서 어떻게 측정되는 지 평가하고자 함.
 			- 비선형적 변화가 초기에 클 경우, 수동신전과 능동신전의 전위차가 매우 작을 가능성이 있다.
 		- 수동굴곡 / 능동굴곡 / 스쿼트에 걸리는 strain값은?
 
+### 2.2.3. Cartilage
+- EAG를 streaming potential 의 측정에 국한하지 않고, joint motion에 따른 knee joint의 electric potential 을 모두 평가하는 큰범위에서의 EAG로 이야기 할 수 있음
+	- 무릎 관절연골에서 발생하고 활액과 무릎 주변 연조직을 통해 표면전극 까지 전달되는 전위는 사전 연구에서 보고하는 streaming potential 이외의 요소들이 많이 작용.
+	- 이렇다면, early OA 의 평가에 국한되지 않을 수 있다.
+	- digital goniometer로서의 활용, 무릎의 굴곡 mechanism 의 문제의 발견, patellar gliding 에 대한 평가를 시행할 수 있다.
+		- 다만 가설과 근거를 robust 하게 만들어야함
+- 관절연골의 deformation이 unloading 이후에도 사라지지 않는다면 electrostatic potential 이 남아있을 수 있겠지만, 기존연구와 선행연구에서 모두 unloading 과 함께 즉시 potential 이 사라지는 것이 관찰됨
+	- unloading 과 함께 cartilage ECM에서 convection 되었던 Na 등 cation 들이 즉시 이동되면서 electrostatic field 가 없어진다고 해석해야함.
+	- 기존문헌에서 지속적인 부하 및 밤에 cartilage 높이가 줄어든다는 보고 및 Buschmann이 보고했던 10번의 반복적인 부하에 따라 EAG 전위가 점차 감소한다는 내용은 국소적인 deformation이 지속된다기 보다 cartilage 자체에서 fluid 가 빠져나가는 것으로 해석할 수 있겠다. 즉, 즉각적인 변형은 회복되는 탄성을 가졌으나 수분의 감소와 높이 소실이 일어난 것은 시간이 지나야 회복된다.
+	- ![[poillotStraingeneratedElectricalPotential2021#^ab5369]]
+		- 일 전에 1시간 정도 앉아있다가 측정하는 추가 실험의 필요성은 크지 않겠다.
+
+
+
 ---
 
 ## 3. Objective development
@@ -103,7 +117,10 @@ knee EAG가 무릎 운동에서 어떻게 측정되는 지 평가하고자 함.
 1) 최적의 센서 위치 찾기(연골 부하 및 연골과 전극의 상대적 거리/위치변화 고려)
 	- 정적인 상태
 		- 전위의 크기가 큰 위치
-		- 전극의 위치가 많이 변해도 되는 위치, 즉 전위가 잘 나오는 범위 공간의 중심위치
+		- 전극의 위치가 많이 변해도 되는 위치, 즉 전위가 잘 나오는 범위 공간의 중심위치		
+		- 실제 관절각도 변화에 따른 전위 변화는 SGP로 발생가능한 크기에 비해 매우 크다 (현재 y축의 mV 환산값과 비교)
+		- 가설 4: 자세를 유지하는 동안의 적은량의 전위변화가 SGP 가능성
+		- 관절운동에 따른 변화는 또 다른 mechanotransduction 이 일어나는 것일 수도 있다. - synovial fluid의 이동?
 	- 운동 중 상태
 		- 운동 중에는 부하의 변화에 더하여, 표면 전극과 내부 연골 사이의 상대적인 위치(상대적 방향과 거리)가 지속적으로 변화
 		- 수동 운동 중에는 부하의 영향을 최소화 할 수 있음
@@ -111,6 +128,7 @@ knee EAG가 무릎 운동에서 어떻게 측정되는 지 평가하고자 함.
 		- 가설 2: 상대적위치가 변하지만, 방향은 변하지 않고 거리만 변하거나(정면, 정후면), 거리는 거의 일정하고 방향이 많이 변하는(관절면), 즉 운동이 진행되는 과정(굴곡 혹은 신전 각도의 점진적 진행)를 대표할 수 있는 위치를 특정할 수 있다.
 2) 무릎관절 운동 중 각도 변화에 의해 유발되는 EAG값들의 통계적 차이가 있다
 	- 가설 3: 능동신전에서 관절각도변화와 근수축에 의한 부하가 가해진 연골의 전위는 수동신전에서 관절각도 변화와 그에 따른 연조직 긴장에의한 수동적인 부하만 있는 연골보다 더 큰 전위 변화를 일으킬 것이다.
+	-  관절의 운동 중에 발생하는 복합적인 관절연골 접촉면의 이동과 전극과의 상대거리 변화는 관찰에 어려움을 만들 수 있다.
 
 
 
@@ -119,25 +137,8 @@ knee EAG가 무릎 운동에서 어떻게 측정되는 지 평가하고자 함.
 	- 현재 전극 위치 중 슬개골을 둘러싼 전극 및 상부의 전극들
 
 
-- 
 
 
-	- 관절연골의 deformation이 unloading 이후에도 사라지지 않는다면 electrostatic potential 이 남아있을 수 있겠지만, 기존연구와 선행연구에서 모두 unloading 과 함께 즉시 potential 이 사라지는 것이 관찰됨
-		- unloading 과 함께 cartilage ECM에서 convection 되었던 Na 등 cation 들이 즉시 이동되면서 electrostatic field 가 없어진다고 해석해야함.
-		- cartilage 높이가 줄어든다는 내용은 국소적인 deformation이 지속된다기 보다 cartilage 자체에서 fluid 가 빠져나가는 것으로 해석할 수 있겠다.
-	  ![[poillotStraingeneratedElectricalPotential2021#^ab5369]]
-
-- 일단 수동관절운동과 능동관절운동의 차이가 있는 지 확인해보자
-	- 가설 3: 수동과 능동 관절 각도변화는 EAG 차이가 있다. 추가로 각도 변화를 EAG를 통해 측정할 수 있다. 접촉면의 rolling 과 그에 따른 전위의 변화
-
-- EAG를 streaming potential 의 측정에 국한하지 않고, joint motion에 따른 knee joint의 electric potential 을 모두 평가하는 큰범위에서의 EAG로 이야기 할 수 있음
-	- 무릎 관절연골에서 발생하고 활액과 무릎 주변 연조직을 통해 표면전극 까지 전달되는 전위는 사전 연구에서 보고하는 streaming potential 이외의 요소들이 많이 작용.
-	- 이렇다면, early OA 의 평가에 국한되지 않을 수 있다.
-	- digital goniometer로서의 활용, 무릎의 굴곡 mechanism 의 문제의 발견, patellar gliding 에 대한 평가를 시행할 수 있다.
-		- 다만 가설과 근거를 robust 하게 만들어야함
-	- 실제 관절각도 변화에 따른 전위 변화는 SGP로 발생가능한 크기에 비해 매우 크다.
-		- 가설 4: 자세를 유지하는 동안의 적은량의 전위변화가 SGP 가능성
-		- 관절운동에 따른 변화는 또 다른 mechanotransduction 이 일어나는 것일 수도 있다. - synovial fluid의 이동?
 		- 
 
 ---
@@ -201,3 +202,8 @@ Correlation between ultrasonographic parameters versus EAG signals
 -   absolute & outlier 제거 코드(현재 에러남) 로도 구해보는 것 좋을
 -   AP 데이터에서 move 별 boxplot 겹쳐그리기
 -   raw data & AP 데이터에서 각 move별로 channel 들의 유의한 차이 통계
+
+
+# 5. 고찰요소
+- 전극위치: 표면해부학에 따라서 제시해 주기
+- 
