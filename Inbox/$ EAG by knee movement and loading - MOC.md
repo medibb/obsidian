@@ -35,22 +35,21 @@ knee EAG가 무릎 운동에서 어떻게 측정되는 지 평가하고자 함.
 ## 2.0 Introductive factors
 - From related work: 기존 연구는 3가지로 나뉠 수 있다.
 	1. Buschmann et al. 의 메인 연구그룹의 논문들
-		1. OA 와 prosthetic knee 에서의 EAG 감소 및 소실보고 - ==가장 큰 의의, 제일 첫 논문== 
+		1. OA 와 prosthetic knee 에서의 EAG 감소 및 소실보고 - ==가장 큰 의의, 임상실험한 제일 첫 논문== 
 			- [[previlleElectroarthrographyNovelMethod2013]]
+			- Task로 weight shift 사용 - ==연골 부하 위치가 비슷, 전극과 연골의 상대적 거리가 변하지 않음==
+			- 전극 위치는 joint line area - computer modeling함 - ==관찰정보가 아니고(30군데에서 측정했다고 하지만), PF joint 의 정보는 없음==
 		2. TFL & GCM 등의 knee joint crossing muscle  들이 COG 의 변화에 따라 자세유지를 위해 수축하는 것과 관련, 직접적인 수축에도 관련 - ==근 수축이 EAG신호를 바꾼다== 
+			- 무게중심(COG) 에 따른 변화 - 균형잡는 task와의 관련성
 			- [[zhuMechanicalLoadingKnee2016]] - 개별 근 수축 관련
-			- COG 에 따른 변화
 		3. 반복된 weight shift 에서 신호값이 줄어듦 - ==cyclic loading 에 의해 연골이 전기적 상태가 변함==
-			- [[zhuDecreaseElectricalPotentials2016]]  - 시간에 따라 줄어드는 량 - mechanobiology와 관련될듯..
-		4. movement는 weight shift 사용 - ==연골 부하 위치가 비슷==
-		5. sensor point 는 joint line area - computer modeling하였음 - ==PF joint 의 정보는 없음==
+			- [[zhuDecreaseElectricalPotentials2016]]  - 시간에 따라 줄어드는 량 - mechanobiology와 관련될듯.
 	2. Elbow EAG에 대해 1가지 논문을 발표한 인도 그룹
 	3. 예전 cartilage streaming potential 및 strain-generated potential 에 대한 기초연구들
-	- Tibiofemoral cartilage loading 에 따라서 joint line 에서 연골전위가 측정된다. Cartilage 는 SGP - strain generated potential 을 만든다.
-
-- 관절전도 전위의 크기, 방향에 대하여
-	- 관절 전도의 크기는 Buschmann  논문에서  0.25mv 로 관찰되었으며, 퍼듀대학 의공학 교실[bobb2022](babbsOriginElectroarthrogramStreaming) 에서 수학적 모델링으로 0.175mv일 것으로 예상했다.
-	- 내부의 electrostatic potential 로 diapole 이 형성되어서 해당 전위를 외부에서 측정하는 것으로 해석하고 모델링 하였다.
+		- Cartilage 는 부하에 의해서 전위를 만들어 냄. - strain generated potential, SGP 를 만든다.		- 
+	- 관절전도 전위의 크기, 방향에 대하여
+		- 관절 전도의 크기는 Buschmann  논문에서  0.25mv 로 관찰되었으며, 퍼듀대학 의공학 교실[bobb2022](babbsOriginElectroarthrogramStreaming) 에서 수학적 모델링으로 0.175mv일 것으로 예상했다.
+		- 내부의 electrostatic potential 로 diapole 이 형성되어서 해당 전위를 외부에서 측정하는 것으로 해석하고 모델링 하였다.
 	- ![[babbsOriginElectroarthrogramStreaming#img]]
 	- 크기가 COG 나 근육수축에 따라서 얼마나 변하는가? - non-lieaner 관계의 대략적 추측 필요 - 이에 대하여 loading 의 양을 추측해볼 수 있을 것이다.
 	- 초기에 했던 의자를 잡아서 COG 가 많이 흔들리지 않게 하는  finding
