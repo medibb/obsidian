@@ -181,60 +181,40 @@ EAG by 수동신전에서 관절각도 변화와 그에 따른 연조직 긴장�
 
 
 
-
-
 ### 4.2. parameters 설정
 parameter 
-EAG amplitude: Maximal differences for 7 sec
+Amplitude when knee joint angle from 90 -> 0
+- initial EAG: baseline amplitude before movement
+- end EAG: final amplitude after movement
+- EAG diff: differences of initial & end amplitude
 
-Amplitude difference from 90 ->180
-
-The amplitude of potentials changes at active extension versus passive extension
-
-
-Amplitude difference from 180-> 90
-
-Loading on knee cartilage phase (knee extension 90->180 versus squat 180->90)
-
-Immediate difference to the inflection point in 1sec
-
-Correlation between ultrasonographic parameters versus EAG signals
-
+movement: active extension, passive extension, squat
+flex: 1(90degree) / 2(0degree)
 
 
 
 ### 4.3. Data analysis ([[= EAG - Data Analysis]])
 
 #### Stage 0 Data processing
-
-### Potential values versus movement 
   - outlier - 제거, 1.5 IQR  사용
   - Proportional value - 각 대상자의 전위의 전체 합으로 나눔
-  - absolute value - 크기만 비교하기 
+  - absolute value - 크기만 비교
 
 #### Stage 1 Analysis of amplitude
-- Raw data 
+- initial, end, diff EAG values versus movement 
+- initial, end, diff EAG values versus channel
+- ...
 
-- 
-### Potential values versus channel in same movments
-### Propotional values versus movement
-### Absolute & propotional values versus movement
+#### Stage 2 : EAG values versus USG parameters
 
-
-  - raw data & AP 데이터에서 각 move별로 channel 들의 유의한 차이 통계
-  - absolute & outlier 제거 코드(현재 에러남) 로도 구해보는 것 좋을
-
-
-
-
-
-#### Stage 1 Interpretation of signals by components
-- stage 1.1 Analysis of initial & end noise potentials
-- stage 1.2 Analysis of Signal reversal
 
 
 #### Statistical analysis
 
 
+
+#### Future: Interpretation of signals by components
+- stage Analysis of initial & end noise potentials
+- stage Analysis of Signal reversal
 
 # 5. 고찰요소
