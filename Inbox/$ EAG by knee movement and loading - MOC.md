@@ -8,7 +8,9 @@
 This is the MOC about EAG by knee movement and loading
 
 ---
-## 1. definition
+# 1. Introduction
+
+## 1.1 definition
 
 EAG는 관절연골에서 발생하는 전위를 기록하는 것
 
@@ -20,19 +22,16 @@ EAG는 관절연골에서 발생하는 전위를 기록하는 것
 
 knee movement 에 따른 EAG를 알아보는 것은 다리펴기 / 스쿼트 에 해당하는 두가지 가장 흔한 재활운동 동작에 대한 이전에 시행되지 않았던 평가를 시행하는 것이다 - 운동의 부하 감시는 즉 운동의 안전성 감시가 될 수 있다.
 
-
-### 1.1 Objectives
+## 1.2 Objectives
 knee EAG가 무릎 운동에서 어떻게 측정되는 지 평가하고자 함.
 이를 위해 1) 최적의 센서 위치를 찾고, 2) 무릎관절 운동 중 각도 변화에 의해 유발되는 기저 EAG값(연골의 얕은 접촉과 변형) vs 추가 부하(근수축과 관절의 moment에 따른 연골의 깊은 접촉과 변형)에 따른  EAG값 비교
-	이 후 최대 부하(최대의 근수축 혹은 weight 부하, e.g. 80% 1RM)에 따른 EAG 값 비교 가능
-
 
 
 ---
-## 2.  # Background knowledge
+## 2.  Background knowledge
 
 
-## 2.0 Introductive factors
+## 2.1 Related Works
 - From related work: 기존 연구는 3가지로 나뉠 수 있다.
 	1. Buschmann et al. 의 메인 연구그룹의 논문들
 		1. OA 와 prosthetic knee 에서의 EAG 감소 및 소실보고 - ==가장 큰 의의, 임상실험한 제일 첫 논문== 
@@ -45,15 +44,20 @@ knee EAG가 무릎 운동에서 어떻게 측정되는 지 평가하고자 함.
 		3. 반복된 weight shift 에서 신호값이 줄어듦 - ==cyclic loading 에 의해 연골이 전기적 상태가 변함==
 			- [[zhuDecreaseElectricalPotentials2016]]  - 시간에 따라 줄어드는 량 - mechanobiology와 관련될듯.
 	2. Elbow EAG에 대해 1가지 논문을 발표한 인도 그룹
-	3. 예전 cartilage streaming potential 및 strain-generated potential 에 대한 기초연구들
-		- Cartilage 는 부하에 의해서 전위를 만들어 냄. - strain generated potential, SGP 를 만든다.		- 
-	- 관절전도 전위의 크기, 방향에 대하여
+	3. EAG의 발생과, 크기  cartilage streaming potential 및 strain-generated potential 에 대한 기초연구들 
+		1. EAG의 발생
+		- Cartilage 는 부하에 의해서 전위를 만들어 냄. - strain generated potential, SGP 를 만든다. 
+		- SGP는 1966년에 먼저 발견되었고, 1972년에 몇가지 연골에서 발견되었으며, stress-induced remodelling of soft tissue에 대해서 말하고 있다. 심지어 폐조직에서도 보고되었음 ([[= EAG - potentials]])
 		- 관절 전도의 크기는 Buschmann  논문에서  0.25mv 로 관찰되었으며, 퍼듀대학 의공학 교실[bobb2022](babbsOriginElectroarthrogramStreaming) 에서 수학적 모델링으로 0.175mv일 것으로 예상했다.
-		- 내부의 electrostatic potential 로 diapole 이 형성되어서 해당 전위를 외부에서 측정하는 것으로 해석하고 모델링 하였다.
-	- ![[babbsOriginElectroarthrogramStreaming#img]]
-	- 크기가 COG 나 근육수축에 따라서 얼마나 변하는가? - non-lieaner 관계의 대략적 추측 필요 - 이에 대하여 loading 의 양을 추측해볼 수 있을 것이다.
-	- 초기에 했던 의자를 잡아서 COG 가 많이 흔들리지 않게 하는  finding
-	- 실제 joint line 보다 앞에서 크기가 더 컸던 사례등 - 최적화 전극 에 대한 finding  일 수 있음
+		- 이 논문에서는 내부의 electrostatic potential 로 diapole 이 형성되어서 해당 전위를 외부에서 측정하는 것으로 해석하고 모델링 하였다.
+		- ![[babbsOriginElectroarthrogramStreaming#img]]
+		- 크기가 부하(무게, 중심을잡기 위한 근육, 수축운동에따른 근육수축)에 따라서 얼마나 변하는가?
+			- 부하가 증가한다고 연골두께가 계속해서 줄어드는 것은 아니므로 부하 양과의 비선형적 관계가 있을 것 
+			- non-lieaner 관계의 대략적 추측 - 이에 대하여 loading 의 양에 따라 얼마나 변하는지 을 추측해볼 수 있을 것이다.
+				- 초기에 실험했던 의자를 잡아서 COG 가 많이 흔들리지 않게 하는  실험, 무게를 체중의 3~40% 추가 및 제거했던 실험
+
+
+
 	- 다리펴기는 수동다리펴기와 스쿼트는 wall squat 혹은 다른 다리가 붙어있는 수동검사와 비교해야할수 있다.
 
 - 무릎의 biokinematics에 대하여 
@@ -81,16 +85,6 @@ knee EAG가 무릎 운동에서 어떻게 측정되는 지 평가하고자 함.
 		- 가설1: 수동 굴곡시에도 loading에 따른 strain 은 나타날 가능성
 		- 수동굴곡 / 능동굴곡 / 스쿼트에 걸리는 strain값은?
 
-
-### 2.1 Related work
-- Buschmann et al. 등의 EAG 연구
-- Knee kinetics 와 biomechanis 연구
-	- loading 의 크기와 위치에 대한 배경지식으로 가설 정립
-- EMG, EEG 등 bioelectric potential 관련 연구
-	- biologic tissue 들의 신체 표면으로 전도되는 것에 관련된 연구
-	- Streaming potential 등 기존 cartilage potential 에 대한 연구
-		- EAG potentials([[= EAG - potentials]])
-- 그 외 synovial fluid or intra-articular pressure 의 작용
 
 ---
 
