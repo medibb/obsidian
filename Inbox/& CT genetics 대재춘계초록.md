@@ -49,14 +49,16 @@ they were treated with local steroid injection or barbotage, which provided sign
 
 Discussion
 
-We performed WES analysis on three patients with multifocal, recurrent calcific tendinitis and identified gene mutations associated with ectopic calcification in all three patients.
+We performed WES analysis on three patients with multifocal, recurrent calcific tendinitis and identified gene mutations associated with ectopic calcification in all three patients. 
 
+although VUS에 대한 내용
+해당 gene 들의 알려지지 않은 phenotype 이 calcific tendinitis 일 수 있고, 더 포괄적인 genetic predisposition 에 대한 검사가 필요하다. 왜냐면 석회는 퇴행성 질환과 다르게, 휴지기를 갖다가 활성화되고 없어지고 다시 재발하는 자연경과를 보여주고 있기 때문이다.
 
 This finding suggests that genetics may contribute to the development of calcific tendinopathy. And further studies are needed to establish correlations between gene mutations associated with ectopic calcification and their phenotypes in order to identify the genetic risk factors and potential biomarkers associated with calcific tendinopathy
 
 
 
-Figure 1. Radiologic imaging of Patient #2
+Figure 1. Radiologic imaging of Patient #2 - 모양에 대한 내용 추가
 
 A. The left anterolateral shoulder radiograph shows calcium deposition adjacent to left greater tuberosity of the humerus.
 
