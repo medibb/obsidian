@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "41e9cf0be79c0de3",
+        "id": "9b923189e45026e7",
         "type": "tabs",
         "children": [
           {
-            "id": "298ac214e2703c07",
+            "id": "c09c7269dcba3913",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/% 류마티스학회 자가운동법.md",
+                "file": "Inbox/& CT genetics 대재춘계초록.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.50403594970703,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c3d1ec123b944f56",
@@ -96,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/% 류마티스학회 자가운동법.md",
+                "file": "Inbox/& CT genetics 대재춘계초록.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/% 류마티스학회 자가운동법.md",
+                "file": "Inbox/& CT genetics 대재춘계초록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/% 류마티스학회 자가운동법.md",
+                "file": "Inbox/& CT genetics 대재춘계초록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/% 류마티스학회 자가운동법.md"
+                "file": "Inbox/& CT genetics 대재춘계초록.md"
               }
             }
           }
@@ -188,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5,
-    "collapsed": true
+    "width": 206.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,23 +198,24 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "298ac214e2703c07",
+  "active": "c09c7269dcba3913",
   "lastOpenFiles": [
-    "Utility/⌨️Hotkeys.md",
     "Inbox/% 류마티스학회 자가운동법.md",
+    "Inbox/& CT genetics 대재춘계초록.md",
+    "Inbox/$ EAG by knee movement and loading - MOC.md",
+    "Inbox/= Knee - biomechanics.md",
+    "Inbox/= EAG - Data Analysis.md",
+    "Inbox/= EAG - potentials.md",
+    "Inbox/의학통계학 수업.md",
+    "Inbox/~$$ EAG by knee movement and loading - MOC.pptx",
     "Inbox/$ EAG by knee movement and loading - MOC.pptx",
     "Inbox/$ EAG by knee movement and loading - MOC.html",
-    "Inbox/; 혁신형 의사과학자회의.md",
-    "Inbox/= BACPAC.md",
-    "Dataview/;.md",
-    "Template/Conference.md",
     "Inbox/= HCI lecture.md",
-    "conflict-files-obsidian-git.md",
+    "Inbox/= BACPAC.md",
+    "Utility/⌨️Hotkeys.md",
     "Inbox/% ClinPain 임통춘계 hip 관절외병변.md",
     "Inbox/= ADHD 의 효율적인 presentation 준비.md",
     "Template/Peer-review.md",
@@ -231,9 +230,7 @@
     "Template/Manuscript.md",
     "Template/Paper.md",
     "Inbox/% 병원보 - 어깨의 운동치료.md",
-    "Inbox/$ EAG by knee movement and loading - MOC.md",
-    "Inbox/$ CT xray - MOC.md",
-    "Inbox/= EAG - potentials.md",
-    "Inbox/= EAG - cell biology.md"
+    "Inbox/; 혁신형 의사과학자회의.md",
+    "conflict-files-obsidian-git.md"
   ]
 }
