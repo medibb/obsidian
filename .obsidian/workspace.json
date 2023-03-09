@@ -15,6 +15,7 @@
               "state": {
                 "file": "Inbox/& CT genetics 대재춘계초록.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -70,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c3d1ec123b944f56",
