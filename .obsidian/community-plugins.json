@@ -11,5 +11,6 @@
   "dataview",
   "table-editor-obsidian",
   "obsidian-textgenerator-plugin",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "obsidian-languagetool-plugin"
 ]
