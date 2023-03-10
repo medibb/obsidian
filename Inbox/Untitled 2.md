@@ -86,18 +86,58 @@ Overall, renderPlot() is a powerful tool for creating interactive data visualiza
 
 
 
-이 코드는 Shiny 애플리케이션에서 사용되며, 사용자가 그래프를 클릭할 때마다 실행되는 이벤트를 처리합니다.
+아래 shiny code에서 그림 가장자리에 click 이 안되는 문제 해결해줘
 
-observeEvent() 함수는 이벤트(여기서는 input$plot_click)가 발생할 때 실행할 코드를 정의합니다. input$plot_click은 사용자가 그래프 위를 클릭한 위치에 대한 정보를 담고 있는 객체입니다.
-
-click_x와 click_y 변수는 input$plot_click에서 추출한 x 및 y 좌표의 값을 반올림하여 저장합니다.
-
-if 문은 클릭한 위치가 (2,2)에서 (8,8) 범위 내에 있는지 확인합니다. 만약 그렇다면, clicked_points라는 빈 데이터 프레임에 클릭한 x 및 y 좌표를 추가합니다.
-
-isolate() 함수는 Shiny 애플리케이션에서 입력값을 처리하고 출력값을 생성하는 방식을 제어하는 데 사용됩니다. 여기서는 clicked_points 데이터 프레임이 변경될 때마다 observeEvent() 함수가 다시 실행되지 않도록 isolate() 함수로 감싸줍니다.
-
-아래 코드 설명해줘
-   observeEvent(input$plot_click,{
+server <- function(input, output) {
+  
+  # Load pain diagram image
+  img_url <- "./pain_diagram.png"
+  img <- readPNG(img_url)
+  
+  # Initialize variables
+  clicked_points <- reactiveValues()
+  
+  # Draw plot with image
+  output$plot1 <- renderPlot({
+    plot(1:5, type = "n", axes = FALSE, xlab = "", ylab = "")
+    rasterImage(img, xleft = 0.5, ybottom = 0.5, xright = 9.5, ytop = 9.5)
+    
+    # Add points if clicked by user
+    if (!is.null(clicked_points$x)) {
+      points(clicked_points$x, clicked_points$y, col = "red", pch = 16)
+    }
+    
+    # Clear points if button is clicked
+    observeEvent(input$clear,{
+      clicked_points$x <- NULL
+      clicked_points$y <- NULL
+    })
+    
+    # Save image if button is clicked
+    output$downloadData <- downloadHandler(
+      filename = function() {
+        paste0("pain_diagram_", Sys.Date(), ".png")
+      },
+      
+      content = function(file) {
+        png(file)
+        plot(1:5, type = "n", axes = FALSE, xlab = "", ylab = "")
+        rasterImage(img, xleft = 0.5, ybottom = 0.5, xright = 9.5, ytop=9.5)
+        if (!is.null(clicked_points$x)) {
+          points(clicked_points$x,
+                 clicked_points$y,
+                 col="red",
+                 pch=16)
+        }
+        dev.off()
+      }
+      
+    )
+    
+  })
+  
+  # Record clicks on plot and store in reactiveValues object 
+  observeEvent(input$plot_click,{
     click_x <- round(input$plot_click$x)
     click_y <- round(input$plot_click$y)
     if(click_x <8 & click_x>2 & click_y <8 & click_y>2){
@@ -111,3 +151,74 @@ isolate() 함수는 Shiny 애플리케이션에서 입력값을 처리하고 출
     
   })
 }
+
+해결 방법은 `plotOutput` 함수의 `clickable` 인자를 `TRUE`로 설정하는 것입니다. 이렇게 하면 그림 가장자리도 클릭할 수 있습니다.
+
+아래는 수정된 코드입니다.
+
+```{r}
+server <- function(input, output) {
+  
+  # Load pain diagram image
+  img_url <- "./pain_diagram.png"
+  img <- readPNG(img_url)
+  
+  # Initialize variables
+  clicked_points <- reactiveValues()
+  
+  # Draw plot with image
+  output$plot1 <- renderPlot({
+    plot(1:5, type = "n", axes = FALSE, xlab = "", ylab = "")
+    rasterImage(img, xleft = 0.5, ybottom = 0.5, xright = 9.5, ytop = 9.5)
+    
+    # Add points if clicked by user
+    if (!is.null(clicked_points$x)) {
+      points(clicked_points$x, clicked_points$y, col = "red", pch = 16)
+    }
+    
+    # Clear points if button is clicked
+    observeEvent(input$clear,{
+      clicked_points$x <- NULL
+      clicked_points$y <- NULL
+    })
+    
+    # Save image if button is clicked
+    output$downloadData <- downloadHandler(
+      filename = function() {
+        paste0("pain_diagram_", Sys.Date(), ".png")
+      },
+      
+      content = function(file) {
+        png(file)
+        plot(1:5, type = "n", axes = FALSE, xlab = "", ylab = "")
+        rasterImage(img, xleft = 0.5, ybottom = 0.5, xright = 9.5, ytop=9.5)
+        if (!is.null(clicked_points$x)) {
+          points(clicked_points$x,
+                 clicked_points$y,
+                 col="red",
+                 pch=16)
+        }
+        dev.off()
+      }
+      
+    )
+    
+  }, clickable=TRUE)   ## clickable 인자 추가
+  
+  
+  # Record clicks on plot and store in reactiveValues object 
+  observeEvent(input$plot_click,{
+    click_x <- round(input$plot_click$x)
+    click_y <- round(input$plot_click$y)
+    if(click_x <8 & click_x>2 & click_y <8 & click_y>2){
+      isolate({
+        clicked_points$x<-c(clicked_points$x,
+                            input$plot_click$x)
+        clicked_points$y<-c(clicked_points$y,
+                            input$plot_click$y)}
+      )
+    }
+    
+  })
+}
+```
