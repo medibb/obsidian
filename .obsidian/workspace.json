@@ -4,17 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "41e9cf0be79c0de3",
+        "id": "30b7c7a26b22f1fd",
         "type": "tabs",
         "children": [
           {
-            "id": "9573627292600a75",
+            "id": "c577dec78dcda4e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Inbox/Exercise in rheumatic disease.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b077107a1e999934",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/% 류마티스학회 자가운동법.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -203,8 +215,11 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "9573627292600a75",
+  "active": "c577dec78dcda4e6",
   "lastOpenFiles": [
+    "Inbox/% 류마티스학회 자가운동법.md",
+    "Inbox/Exercise in rheumatic disease.md",
+    "Dataview/✏️ Workbench.md",
     "textgenerator/prompts/default/rewrite.md",
     "textgenerator/prompts/default/getEmailNeg.md",
     "textgenerator/prompts/default/getParagraph.md",
@@ -217,14 +232,11 @@
     "textgenerator/prompts/default/getEmailPos.md",
     "textgenerator/prompts/default",
     "textgenerator/prompts/local/getoutline.md",
-    "Inbox/Exercise in rheumatic disease.md",
     "textgenerator/prompts/local",
     "textgenerator/prompts",
     "textgenerator",
-    "Dataview/✏️ Workbench.md",
     "Dataview/💳️ Kanban.md",
     "Dataview/$.md",
-    "Inbox/% 류마티스학회 자가운동법.md",
     "Inbox/& CT genetics 대재춘계초록.md",
     "Utility/⌨️Hotkeys.md",
     "Inbox/$ EAG by knee movement and loading - MOC.pptx",

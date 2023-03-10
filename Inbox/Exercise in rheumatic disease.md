@@ -28,16 +28,19 @@ write an outline about {{title}}
 ```
 
 Introduction
-- Explanation of rheumatic disease
 - The benefits of exercise for people with rheumatic disease
+- Importance of exercise in managing rheumatic disease
 
-Section 1: Types of Rheumatic Disease
-- Overview of different types of rheumatic disease and how they affect the body
-- How exercise can help manage symptoms
+Section 1: Benefits of exercise for people with rheumatic disease
+-   Increased joint mobility and flexibility
+-   Reduced inflammation and pain
+-   Improved muscle strength and endurance
+-   Better overall physical function and quality of life
 
 Conclusion
 - Recap of the benefits of exercise for people with rheumatic disease 
 - Encouragement for individuals with rheumatic disease to incorporate exercise into their management plan
+-
 Section 2: Recommended Exercises for Rheumatic Disease
 - Low impact exercises that are gentle on joints and muscles
 - Specific exercises for different types of rheumatic diseases, such as yoga for arthritis or aquatic therapy for lupus
