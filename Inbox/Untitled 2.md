@@ -153,6 +153,8 @@ Note that we also need to update the `img` and `clicked_points` variables since 
 
 The full modified code is shown below:
 
+below code dosen't work, show me another code:
+
 ```
 library(shiny)
 
@@ -227,4 +229,104 @@ server <- function(input, output) {
 }
 
 # Run the application 
-shinyApp(ui=
+shinyApp(ui=ui , server=server )
+
+
+Here's an alternative code with a working example of a drawing app using Shiny:
+
+```
+
+```
+
+library(shiny)
+
+# Define UI
+ui <- fluidPage(
+  titlePanel("Pain Diagram"),
+
+  sidebarLayout(
+    sidebarPanel(
+      actionButton(inputId = "clear", label = "Clear"),
+      br(),
+      downloadButton(inputId = "downloadData", label = "Download")
+    ),
+
+    mainPanel(
+      plotOutput(outputId = "canvas", 
+                 click = "plot_click",
+                 brush = brushOpts(
+                   id = "plot_brush",
+                   resetOnNew = TRUE,
+                   clipShape="polygon"
+                 ))
+    )
+  )
+)
+
+# Define server logic
+server <- function(input, output) {
+  
+  # Set up reactive values
+  rv <- reactiveValues(data=NULL)
+  
+  # Clear canvas when clear button is clicked
+  observeEvent(input$clear, {
+    rv$data <- NULL
+  })
+  
+  # Draw on canvas when plot is clicked or brushed
+  observeEvent(c(input$plot_click, input$plot_brush), {
+    brush <- input$plot_brush
+    
+    if(!is.null(brush)) {
+      rv$data <- rbind(rv$data, data.frame(x=brush$xmin:brush$xmax,
+                                           y=brush$ymin:brush$ymax))
+      
+    } else {
+      x <- round(input$plot_click$x)
+      y <- round(input$plot_click$y)
+      
+      rv$data <- rbind(rv$data, data.frame(x=x, y=y))
+    }
+    
+  })
+  
+  # Output the canvas with points plotted
+  output$canvas <- renderPlot({
+    
+    if(!is.null(rv$data)) {
+      
+      plot(rv$data$x, rv$data$y,
+           xlim=c(0,700), ylim=c(0,700),
+           pch=20, col="red", cex=2)
+      
+    } else {
+      
+      plot(NA, xlim=c(0,700), ylim=c(0,700))
+      
+    }
+    
+  })
+  
+}
+
+# Run the application 
+shinyApp(ui=ui , server=server )
+```
+
+error: argument "outputId" is missing, with no default, occur in above code
+
+The error occurs because the `plotOutput` function in the UI section is missing the `outputId` argument. This argument is required to identify the output object that will be rendered by the server. 
+
+To fix the error, simply add a value for `outputId`, such as "canvas":
+
+```
+plotOutput(outputId = "canvas", 
+                 click = "plot_click",
+                 brush = brushOpts(
+                   id = "plot_brush",
+                   resetOnNew = TRUE,
+                   clipShape="polygon"
+                 ))
+```
+
