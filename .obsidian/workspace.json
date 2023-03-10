@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/% 류마티스학회 자가운동법.md",
+                "file": "Inbox/& CT genetics 대재춘계초록.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#🧠️/📝️/🌱️",
+                "query": "apatite",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -96,7 +97,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/% 류마티스학회 자가운동법.md",
+                "file": "Inbox/& CT genetics 대재춘계초록.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/% 류마티스학회 자가운동법.md",
+                "file": "Inbox/& CT genetics 대재춘계초록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/% 류마티스학회 자가운동법.md",
+                "file": "Inbox/& CT genetics 대재춘계초록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/% 류마티스학회 자가운동법.md"
+                "file": "Inbox/& CT genetics 대재춘계초록.md"
               }
             }
           }
@@ -188,8 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5,
-    "collapsed": true
+    "width": 283.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,8 +207,12 @@
   },
   "active": "b077107a1e999934",
   "lastOpenFiles": [
-    "Inbox/exercise in rheumatic arthritis.md",
+    "Inbox/= Calcific tendinitis - pathophysiology and life cycle.md",
+    "Inbox/$ Calcific tendinitis.md",
+    "Inbox/$ CT xray - MOC.md",
+    "Inbox/& CT genetics 대재춘계초록.md",
     "Inbox/% 류마티스학회 자가운동법.md",
+    "Inbox/exercise in rheumatic arthritis.md",
     "Utility/⌨️Hotkeys.md",
     "Inbox/Exercise in rheumatic disease.md",
     "Inbox/= Exercise immunology.md",
@@ -230,14 +234,10 @@
     "textgenerator",
     "Dataview/💳️ Kanban.md",
     "Dataview/$.md",
-    "Inbox/& CT genetics 대재춘계초록.md",
     "Inbox/$ EAG by knee movement and loading - MOC.pptx",
     "Inbox/$ EAG by knee movement and loading - MOC.html",
     "Inbox/; 혁신형 의사과학자회의.md",
     "Inbox/= BACPAC.md",
-    "Dataview/;.md",
-    "Template/Conference.md",
-    "Inbox/= HCI lecture.md",
-    "conflict-files-obsidian-git.md"
+    "Dataview/;.md"
   ]
 }
