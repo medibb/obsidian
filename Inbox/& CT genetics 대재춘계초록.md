@@ -24,7 +24,7 @@ Recent studies have suggested that genetic factors may play a role in the pathog
 Case report
 
 Three patients aged between 50 and 70 with recurrent episodes of pain at multiple tendons are currently receiving treatment at the outpatient department of rehabilitation medicine. Radiograph and ultrasound imaging revealed calcification in ≥4 tendons around the shoulder and hip joints in all three patients. 
--> 이것은 치료 받고 있다는 내용.. 이중에서 골랐다는.. inclusion 에 대해 설명하기, 환자의 통증이 석회로 인한 통증이 분명했다는 내용(xray 혹은 초음파에서 둘 중에 하나 이상은, 그리고 부분적으로는 resorptive phase 로 보였다. 초음파에서의 모양 및 hypoechogenic pericalcific edema가 보였다는 내용과 x-ray 에서 gartner grade 제시)
+->  inclusion 에 대해 설명하기, 환자의 통증이 석회로 인한 통증이 분명했다는 내용(xray 혹은 초음파에서 둘 중에 하나 이상은, 그리고 부분적으로는 resorptive phase 로 보였다. 초음파에서의 모양 및 hypoechogenic pericalcific edema가 보였다는 내용과 x-ray 에서 gartner grade 제시)
 
 ~~And they were treated with local steroid injection or barbotage, which provided significant pain relief. (The patients received either local steroid injection or barbotage as a therapeutic intervention for acute pain, which provided immediate pain relief and reported over 60% improvement in pain levels after several weeks.~~
 -> 치료 경과에 대한 내용은 case-report 마지막에 경과에 대한 이야기하기
