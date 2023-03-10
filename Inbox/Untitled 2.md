@@ -64,3 +64,50 @@ shinyApp(ui, server)
 
 In this code, we use an observer that checks if there are more than two selected values and updates the checkbox group accordingly. The `verbatimTextOutput()` displays the selected options in a text format. You can modify this code to suit your specific requirements.
 
+
+shiny renderPlot?
+
+As an AI language model, I can explain that the renderPlot function is a part of the Shiny framework in R programming language. It is used to create a plot or chart in a web application created using Shiny.
+
+The syntax for using the renderPlot function is:
+
+```
+output$plot <- renderPlot({
+  # code to create plot
+})
+```
+
+Here, `output$plot` refers to the output object that will contain the plot, and the code inside `renderPlot()` creates the actual plot. The code inside `renderPlot()` can use any plotting functions available in R, such as `ggplot2` or `base graphics`.
+
+Once the plot is created using `renderPlot()`, it can be displayed in the Shiny app using an appropriate UI element such as `plotOutput()`.
+
+Overall, renderPlot() is a powerful tool for creating interactive data visualizations in Shiny web apps.
+
+
+
+
+이 코드는 Shiny 애플리케이션에서 사용되며, 사용자가 그래프를 클릭할 때마다 실행되는 이벤트를 처리합니다.
+
+observeEvent() 함수는 이벤트(여기서는 input$plot_click)가 발생할 때 실행할 코드를 정의합니다. input$plot_click은 사용자가 그래프 위를 클릭한 위치에 대한 정보를 담고 있는 객체입니다.
+
+click_x와 click_y 변수는 input$plot_click에서 추출한 x 및 y 좌표의 값을 반올림하여 저장합니다.
+
+if 문은 클릭한 위치가 (2,2)에서 (8,8) 범위 내에 있는지 확인합니다. 만약 그렇다면, clicked_points라는 빈 데이터 프레임에 클릭한 x 및 y 좌표를 추가합니다.
+
+isolate() 함수는 Shiny 애플리케이션에서 입력값을 처리하고 출력값을 생성하는 방식을 제어하는 데 사용됩니다. 여기서는 clicked_points 데이터 프레임이 변경될 때마다 observeEvent() 함수가 다시 실행되지 않도록 isolate() 함수로 감싸줍니다.
+
+아래 코드 설명해줘
+   observeEvent(input$plot_click,{
+    click_x <- round(input$plot_click$x)
+    click_y <- round(input$plot_click$y)
+    if(click_x <8 & click_x>2 & click_y <8 & click_y>2){
+      isolate({
+        clicked_points$x<-c(clicked_points$x,
+                            input$plot_click$x)
+        clicked_points$y<-c(clicked_points$y,
+                            input$plot_click$y)}
+      )
+    }
+    
+  })
+}
