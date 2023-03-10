@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Untitled 1.md",
-                "mode": "source",
+                "file": "Dataview/✏️ Workbench.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -95,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/Untitled 1.md",
+                "file": "Dataview/✏️ Workbench.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Untitled 1.md",
+                "file": "Dataview/✏️ Workbench.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Untitled 1.md",
+                "file": "Dataview/✏️ Workbench.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Untitled 1.md"
+                "file": "Dataview/✏️ Workbench.md"
               }
             }
           }
@@ -205,8 +205,10 @@
   },
   "active": "6d6369e6db218741",
   "lastOpenFiles": [
-    "Inbox/% 류마티스학회 자가운동법.md",
+    "Dataview/💳️ Kanban.md",
+    "Dataview/$.md",
     "Inbox/Untitled 1.md",
+    "Inbox/% 류마티스학회 자가운동법.md",
     "Inbox/& CT genetics 대재춘계초록.md",
     "Utility/⌨️Hotkeys.md",
     "Inbox/$ EAG by knee movement and loading - MOC.pptx",
@@ -225,13 +227,11 @@
     "Dataview/&.md",
     "Inbox/& 2023-02-28 peer review for ARM-23-016.md",
     "Inbox/Untitled.md",
-    "Dataview/💳️ Kanban.md",
     "Dataview/✏️ Workbench.md",
     "Template/Presentation.md",
     "Template/Manuscript.md",
     "Template/Paper.md",
     "Inbox/% 병원보 - 어깨의 운동치료.md",
-    "Inbox/$ EAG by knee movement and loading - MOC.md",
-    "Inbox/$ CT xray - MOC.md"
+    "Inbox/$ EAG by knee movement and loading - MOC.md"
   ]
 }
