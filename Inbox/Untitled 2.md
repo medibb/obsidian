@@ -1,100 +1,75 @@
-r과 shiny로 서명받는 앱 만드는 법 알려줘
+r, shiny, HTML5 Canvas로 그림그리는 앱 만드는 법 알려줘
 
-서명을 받는 앱을 만들기 위해서는 다음과 같은 단계를 따르면 됩니다.
+1. R Shiny 앱을 만들기 위해 RStudio를 열고 새 프로젝트를 생성합니다.
 
-1. R 설치
-
-우선 R을 설치해야 합니다. R은 데이터 분석 및 통계에 사용되는 오픈 소스 프로그래밍 언어입니다. R을 다운로드하려면 https://cran.r-project.org/ 에 접속하면 됩니다.
-
-2. Shiny 패키지 설치
-
-Shiny는 R에서 웹 애플리케이션을 개발할 수 있는 패키지입니다. Shiny를 설치하려면 아래와 같은 명령어를 입력하세요.
+2. Shiny 패키지를 설치합니다.
 
 ```
 install.packages("shiny")
 ```
 
-3. 서명 기능 구현
+3. 앱을 위한 파일을 생성합니다.
 
-서명 기능은 htmlwidgets 패키지에서 제공하는 signature_pad 위젯을 사용하여 구현할 수 있습니다.
+- ui.R : 사용자 인터페이스를 정의하는 파일입니다.
+- server.R : 서버 측 로직을 정의하는 파일입니다.
 
-```
+4. ui.R 파일에서 HTML5 Canvas를 추가하기 위해 다음 코드를 추가합니다.
+
+```R
 library(shiny)
-library(htmlwidgets)
 
-ui <- fluidPage(
-  tags$head(tags$script(src="https://cdn.jsdelivr.net/npm/signature_pad@2.3.3/signature_pad.min.js")),
-  tags$div(id = 'signature', style = "width:500px; height:250px;")
-)
-
-server <- function(input, output) {
-  observe({
-    signature <- htmlwidgets::createWidget("signature_pad", list(), width = 500, height = 250)
-    session$sendCustomMessage(type = 'signature', list(signature))
-  })
-}
-
-shinyApp(ui, server)
+shinyUI(fluidPage(
+  tags$canvas(id = "myCanvas", width = "500", height = "500")
+))
 ```
 
-위 코드에서는 Shiny의 UI 부분에서 signature_pad 위젯을 불러오고, 서버 부분에서 observe 함수를 이용하여 signature_pad 위젯의 값을 받아오게 됩니다.
+5. server.R 파일에서 그림 그리기 기능을 추가하기 위해 다음 코드를 추가합니다.
 
-4. 서명 저장하기
-
-서명이 완료되면 저장 버튼을 눌러서 서버에 저장합니다.
-
-```
+```R
 library(shiny)
-library(htmlwidgets)
 
-ui <- fluidPage(
-  tags$head(tags$script(src="https://cdn.jsdelivr.net/npm/signature_pad@2.3.3/signature_pad.min.js")),
-  tags$div(id = 'signature', style = "width:500px; height:250px;"),
-  actionButton("save", "Save")
-)
-
-server <- function(input, output) {
+shinyServer(function(input, output) {
   
   observe({
-    signature <- htmlwidgets::createWidget("signature_pad", list(), width = 500, height = 250)
-    session$sendCustomMessage(type = 'signature', list(signature))
-    
-    observeEvent(input$save, {
-      dataURI <- signature$get()
-      dataURI <- gsub("^data:image/png;base64,", "", dataURI) # PNG 이미지 데이터 추출
-      writeBin(base64Decode(dataURI), "signature.png") # 파일로 저장
-    })
-    
+    session$sendCustomMessage("clearCanvas", "")
   })
-}
-
-shinyApp(ui, server)
+  
+  observe({
+    session$sendCustomMessage("drawLine", list(x1 = input$x0, y1 = input$y0, x2 = input$x1, y2 = input$y1))
+  })
+})
 ```
 
-위 코드에서는 Save 버튼 클릭 시 서명 이미지를 PNG 형식으로 저장합니다.
+6. JavaScript 코드를 추가하기 위해 www 폴더를 만듭니다.
 
-5. 서명 기록 확인하기
+7. www 폴더에 app.js 파일을 생성하고 다음 코드를 작성합니다.
 
-마지막으로 서명 기록 확인 기능을 추가해 보겠습니다.
-
+```JavaScript
+$(document).ready(function(){
+  
+  var canvas = document.getElementById("myCanvas");
+  var context = canvas.getContext("2d");
+  
+  // Clear canvas
+  Shiny.addCustomMessageHandler("clearCanvas",
+    function(message) {
+      context.clearRect(0, 0, canvas.width, canvas.height);
+    }
+  );
+  
+  // Draw line
+  Shiny.addCustomMessageHandler("drawLine",
+    function(message) {
+      context.beginPath();
+      context.moveTo(message.x1, message.y1);
+      context.lineTo(message.x2, message.y2);
+      context.stroke();
+    }
+  );
+  
+});
 ```
-library(shiny)
-library(htmltools)
 
-ui <- fluidPage(
-  
-  tags$head(tags$script(src="https://cdn.jsdelivr.net/npm/signature_pad@2.3.3/signature_pad.min.js")),
-  
-  tags$h1("서명"),
-  
-  tags$div(id = 'signature', style = "width:500px; height:250px;"),
-  
-  actionButton("save", "Save"),
-  
-  br(),
-  
-   uiOutput("signatures")
-)
+8. 앱을 실행하고 그림 그리기 기능을 사용해보세요!
 
-
-server <- function(input
+이제 R Shiny와 HTML5 Canvas로 간단한 그림 그리기 앱을 만들어 보았습니다! 이 방법은 다양한 기능과 사용자 인터페이스를 포함할 수 있으므로 확장할 수 있습니다.
