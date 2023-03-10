@@ -27,16 +27,129 @@ server <- function(input, output) {
 
 
 
-shiny  앱 크기 자동조절
+아래 코드에서 clear 버튼을 누르고 나면 다시 click이 추가되지 않는 이유와 해결법 알려줘줘
+ # Initialize variables
+  clicked_points <- reactiveValues()
+  
+  # Draw plot with image
+  output$plot1 <- renderPlot({
+    plot(1:10, type = "n", axes = FALSE, xlab = "", ylab = "")
+    rasterImage(img, xleft = 0, ybottom = 0.5, xright = 10, ytop=10)
+    
+    # Clear points if button is clicked
+    observeEvent(input$clear,{
+      clicked_points$x <- NULL
+      clicked_points$y <- NULL
+    })
+    
+    # Add points if clicked by user
+    if (!is.null(clicked_points$x)) {
+      points(clicked_points$x, clicked_points$y, col = "red", pch = 16)
+    }
+    
 
-Shiny 앱의 크기를 자동 조절하는 방법은 여러 가지가 있습니다.
+    
+    # Save image if button is clicked
+    output$downloadData <- downloadHandler(
+      filename = function() {
+        paste0("pain_diagram_", Sys.Date(), ".png")
+      },
+      
+      content = function(file) {
+        png(file)
+        plot(1:10, type = "n", axes = FALSE, xlab = "", ylab = "")
+        rasterImage(img, xleft = 0, ybottom = 0.5, xright = 10, ytop=10)
+        if (!is.null(clicked_points$x)) {
+          points(clicked_points$x,
+                 clicked_points$y,
+                 col="red",
+                 pch=16)
+        }
+        dev.off()
+      }
+      
+    )
+    
+  })
+  
+  # Record clicks on plot and store in reactiveValues object 
+  observeEvent(input$plot_click,{
+    click_x <- round(input$plot_click$x)
+    click_y <- round(input$plot_click$y)
+    isolate({
+      clicked_points$x<-c(clicked_points$x,
+                          input$plot_click$x)
+      clicked_points$y<-c(clicked_points$y,
+                          input$plot_click$y)}
+    )
 
-1. CSS 미디어 쿼리 사용: CSS 미디어 쿼리를 사용하여 브라우저의 크기에 따라 Shiny 앱의 스타일을 변경할 수 있습니다. 예를 들어, 브라우저가 모바일 장치인 경우에는 Shiny 앱의 요소들을 작게 만들고, 데스크톱 장치인 경우에는 크게 만들 수 있습니다.
+  })
+}
 
-2. Fluid Layout 사용: Shiny UI에서 fluidPage() 함수를 사용하여 fluid layout을 생성할 수 있습니다. 이렇게 하면 Shiny 앱이 브라우저 창의 크기에 따라 자동으로 조정됩니다.
 
-3. JavaScript를 사용하여 크기 자동 조절: JavaScript를 사용하여 Shiny 앱이 브라우저 창의 크기에 따라 자동으로 조정되도록 할 수도 있습니다. 이 방법은 jQuery나 다른 JavaScript 프레임워크와 함께 사용할 수 있습니다.
+clear 버튼을 누르면 observeEvent() 함수가 실행되어 clicked_points$x와 clicked_points$y가 NULL로 초기화됩니다. 그리고 다시 클릭해도 if문에서 is.null(clicked_points$x)이 TRUE가 되어 points() 함수가 실행되지 않습니다.
 
-4. Bootstrap 그리드 시스템 사용: Bootstrap 그리드 시스템을 사용하여 Shiny 앱을 반응형으로 만들 수 있습니다. 이렇게 하면 Shiny 앱이 모든 장치에서 일관된 모습으로 나타납니다.
+해결법은 clear 버튼을 눌러도 observeEvent() 함수를 실행하지 않고, 대신 actionButton() 함수를 사용하여 버튼 클릭 시 clicked_points$x와 clicked_points$y를 초기화하는 것입니다. 즉, 아래와 같이 코드를 변경합니다.
 
-5. HTML iframe 태그 사용: HTML iframe 태그를 사용하여 Shiny 앱을 다른 웹 페이지 내부에 포함시킬 수 있습니다. 이 방법은 다른 웹 페이지와 함께 동작하므로, 해당 웹 페이지의 크기에 따라 Shiny 앱도 자동으로 조정됩니다.
+```{r}
+# Initialize variables
+clicked_points <- reactiveValues()
+
+# Draw plot with image
+output$plot1 <- renderPlot({
+  # Clear points if button is clicked
+  observeEvent(input$clear,{
+    clicked_points$x <- NULL
+    clicked_points$y <- NULL
+  })
+  
+  # Add points if clicked by user
+  if (!is.null(clicked_points$x)) {
+    points(clicked_points$x, clicked_points$y, col = "red", pch = 16)
+  }
+  
+  plot(1:10, type = "n", axes = FALSE, xlab = "", ylab = "")
+  rasterImage(img, xleft = 0, ybottom = 0.5, xright = 10, ytop=10)
+  
+})
+
+# Record clicks on plot and store in reactiveValues object 
+observeEvent(input$plot_click,{
+  click_x <- round(input$plot_click$x)
+  click_y <- round(input$plot_click$y)
+  isolate({
+    clicked_points$x<-c(clicked_points$x,
+                        input$plot_click$x)
+    clicked_points$y<-c(clicked_points$y,
+                        input$plot_click$y)}
+  )
+})
+
+# Clear button to reset points
+output$clear_button <- renderUI({
+   actionButton("clear", "Clear Points")
+})
+
+# Save image if button is clicked
+output$downloadData <- downloadHandler(
+ filename = function() {
+   paste0("pain_diagram_", Sys.Date(), ".png")
+ },
+ 
+ content = function(file) {
+   png(file)
+   plot(1:10, type = "n", axes = FALSE, xlab = "", ylab = "")
+   rasterImage(img, xleft = 0, ybottom = 0.5, xright = 10, ytop=10)
+   if (!is.null(clicked_points$x)) {
+     points(clicked_points$x,
+            clicked_points$y,
+            col="red",
+            pch=16)
+   }
+   dev.off()
+ }
+ 
+)
+```
+
+위 코드에서는 actionButton() 함수를 사용하여 clear 버튼을 만들고 renderUI() 함수로 UI 요소로 만듭니다. renderPlot() 함수에서는 observeEvent() 함수 대신에 input$clear를 사용하여 클릭 시점을 감지합니다. 이렇게 하면 clear 버튼을 눌러도 click 이벤트가 발생하지 않으므로 문제가 해결됩니다.
