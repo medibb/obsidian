@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utility/⌨️Hotkeys.md",
+                "file": "Inbox/% 류마티스학회 자가운동법.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Utility/⌨️Hotkeys.md",
+                "file": "Inbox/% 류마티스학회 자가운동법.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utility/⌨️Hotkeys.md",
+                "file": "Inbox/% 류마티스학회 자가운동법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utility/⌨️Hotkeys.md",
+                "file": "Inbox/% 류마티스학회 자가운동법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utility/⌨️Hotkeys.md"
+                "file": "Inbox/% 류마티스학회 자가운동법.md"
               }
             }
           }
@@ -207,6 +207,7 @@
   },
   "active": "b077107a1e999934",
   "lastOpenFiles": [
+    "Utility/⌨️Hotkeys.md",
     "Inbox/% 류마티스학회 자가운동법.md",
     "Inbox/Exercise in rheumatic disease.md",
     "Inbox/= Exercise immunology.md",
@@ -229,7 +230,6 @@
     "Dataview/💳️ Kanban.md",
     "Dataview/$.md",
     "Inbox/& CT genetics 대재춘계초록.md",
-    "Utility/⌨️Hotkeys.md",
     "Inbox/$ EAG by knee movement and loading - MOC.pptx",
     "Inbox/$ EAG by knee movement and loading - MOC.html",
     "Inbox/; 혁신형 의사과학자회의.md",
