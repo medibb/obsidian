@@ -1,8 +1,4 @@
-show me the  r & shiny code acting as follow: showing 'pain diagram' to user, user draw a simple annotation, and save the picture
-
-Unfortunately, as an AI language model, I am not able to provide visual outputs. However, I can give you the code for a basic R Shiny app that allows the user to draw on an image and save it as a file. 
-
-Here's an example code for you:
+change code below from click to draw line:
 
 ```
 library(shiny)
@@ -91,38 +87,144 @@ server <- function(input, output) {
 shinyApp(ui=ui , server=server )
 ```
 
-This code will display a pain diagram image in the center of the app window and allow the user to draw on it using their mouse cursor. Whenever the user clicks on the image with their mouse cursor in a specific area (between (2-8), (2-8)), a red dot will be placed at that location.
 
-The 'Clear' button allows users to clear all previous annotations made on the picture.
+To change the code from click to draw line, we can modify the following parts:
 
-The 'Download' button saves an image of the annotated pain diagram as a PNG file with a filename following `pain_diagram_<date>.png` where `<date>` is replaced by today's date.
+1. Replace `plotOutput("plot1", click = "plot_click")` with `uiOutput("canvas")` in the UI section.
 
-Users can use this code to create their own Shiny app that displays any other images they want to annotate and save annotations made by users as
+2. Add a JavaScript function to create a canvas element and handle the mouse events to draw lines in the `ui` section:
 
-
-error: package ‘readPNG’ is not available for this version of R
-
-As an AI language model, I do not have information on the version of R you are using. However, this error message suggests that the R package 'readPNG' is not available or compatible with the version of R you are using. You may need to update your R version or use a different package to read PNG files. Alternatively, try installing the package from a different repository or source. You can check the CRAN website for more information on available packages and their compatibility with different versions of R.
-
-reading png package work in r 4.2.2. version
-
-As an AI language model, I do not have a personal experience of using R 4.2.2 version. However, the png package is a commonly used package in R and should work in version 4.2.2 as well. You can install the package using the following command:
-
-``` r
-install.packages("png")
+```
+tags$head(tags$script(HTML('
+  $(document).on("shiny:connected", function() {
+    var canvas = document.getElementById("myCanvas");
+    var ctx = canvas.getContext("2d");
+    var lastX;
+    var lastY;
+    
+    canvas.addEventListener("mousedown", function(e) {
+      lastX = e.offsetX;
+      lastY = e.offsetY;
+      
+      canvas.addEventListener("mousemove", mouseMove);
+      $(document).one("mouseup", function() {
+        canvas.removeEventListener("mousemove", mouseMove);
+      });
+    });
+    
+    function mouseMove(e) {
+      ctx.beginPath();
+      ctx.moveTo(lastX, lastY);
+      ctx.lineTo(e.offsetX, e.offsetY);
+      ctx.strokeStyle = "red";
+      ctx.stroke();
+      
+      lastX = e.offsetX;
+      lastY = e.offsetY;
+    }
+  });
+')))
 ```
 
-Once installed, you can load the package using the library() function:
+3. Replace the server logic with a new server function that returns the canvas element in place of the plot output:
 
-``` r
-library(png)
+```
+server <- function(input, output) {
+  
+  # Load pain diagram image
+  img_url <- "https://d3i71xaburhd42.cloudfront.net/c75951e94fc951f7224891b9a1906869265877d5/3-Figure1-1.png"
+  img <- readPNG(img_url)
+  
+  # Initialize variables
+  clicked_points <- reactiveValues()
+  
+  # Generate canvas element
+  output$canvas <- renderUI({
+    tags$canvas(id="myCanvas",
+                width=700,
+                height=700,
+                style="border:1px solid #000000;")
+  })
+  
+}
 ```
 
-And then use its functions to read or write PNG files:
+Note that we also need to update the `img` and `clicked_points` variables since they are no longer used in this version of the app. 
 
-``` r
-img <- readPNG("myimage.png")
-writePNG(img, "newimage.png")
+The full modified code is shown below:
+
 ```
+library(shiny)
 
-Note that you may need to install additional dependencies for the png package to work properly, such as libpng on Linux systems.
+# Define UI
+ui <- fluidPage(
+  tags$head(tags$script(HTML('
+    $(document).on("shiny:connected", function() {
+      var canvas = document.getElementById("myCanvas");
+      var ctx = canvas.getContext("2d");
+      var lastX;
+      var lastY;
+
+      canvas.addEventListener("mousedown", function(e) {
+        lastX = e.offsetX;
+        lastY = e.offsetY;
+
+        canvas.addEventListener("mousemove", mouseMove);
+        $(document).one("mouseup", function() {
+          canvas.removeEventListener("mousemove", mouseMove);
+        });
+      });
+
+      function mouseMove(e) {
+        ctx.beginPath();
+        ctx.moveTo(lastX, lastY);
+        ctx.lineTo(e.offsetX, e.offsetY);
+        ctx.strokeStyle = "red";
+        ctx.stroke();
+
+        lastX = e.offsetX;
+        lastY = e.offsetY;
+      }
+    });
+  '))),
+  
+  titlePanel("Pain Diagram"),
+  
+  sidebarLayout(
+    
+    sidebarPanel(
+      
+       actionButton(inputId="clear",
+                    label="Clear"),
+       br(),
+       
+       downloadButton(inputId="downloadData",
+                      label="Download")
+       
+    ),
+    
+    mainPanel(
+      
+       uiOutput(outputId="canvas")
+       
+       
+     )
+     
+   )
+)
+
+# Define server logic
+server <- function(input, output) {
+
+   # Generate canvas element
+   output$canvas <- renderUI({
+     tags$canvas(id="myCanvas",
+                 width=700,
+                 height=700,
+                 style="border:1px solid #000000;")
+   })
+
+}
+
+# Run the application 
+shinyApp(ui=
