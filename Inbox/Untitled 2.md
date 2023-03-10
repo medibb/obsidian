@@ -26,7 +26,7 @@ ui <- fluidPage(
 server <- function(input, output) {
   
   # Load pain diagram image
-  img_url <- "https://www.painscale.com/media/uploads/pain_scale_diagram_2.jpg"
+  img_url <- "https://d3i71xaburhd42.cloudfront.net/c75951e94fc951f7224891b9a1906869265877d5/3-Figure1-1.png"
   img <- readPNG(img_url)
   
   # Initialize variables
@@ -98,3 +98,31 @@ The 'Clear' button allows users to clear all previous annotations made on the pi
 The 'Download' button saves an image of the annotated pain diagram as a PNG file with a filename following `pain_diagram_<date>.png` where `<date>` is replaced by today's date.
 
 Users can use this code to create their own Shiny app that displays any other images they want to annotate and save annotations made by users as
+
+
+error: package ‘readPNG’ is not available for this version of R
+
+As an AI language model, I do not have information on the version of R you are using. However, this error message suggests that the R package 'readPNG' is not available or compatible with the version of R you are using. You may need to update your R version or use a different package to read PNG files. Alternatively, try installing the package from a different repository or source. You can check the CRAN website for more information on available packages and their compatibility with different versions of R.
+
+reading png package work in r 4.2.2. version
+
+As an AI language model, I do not have a personal experience of using R 4.2.2 version. However, the png package is a commonly used package in R and should work in version 4.2.2 as well. You can install the package using the following command:
+
+``` r
+install.packages("png")
+```
+
+Once installed, you can load the package using the library() function:
+
+``` r
+library(png)
+```
+
+And then use its functions to read or write PNG files:
+
+``` r
+img <- readPNG("myimage.png")
+writePNG(img, "newimage.png")
+```
+
+Note that you may need to install additional dependencies for the png package to work properly, such as libpng on Linux systems.
