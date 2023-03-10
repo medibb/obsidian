@@ -86,7 +86,7 @@ Overall, renderPlot() is a powerful tool for creating interactive data visualiza
 
 
 
-아래 shiny code에서 그림 가장자리에 click 이 안되는 문제 해결해줘
+아래 shiny code를 해석해주고 왜 그림 가장자리에 click 이 안되지, 해결방법은 있는지 알려줘
 
 server <- function(input, output) {
   
@@ -152,11 +152,20 @@ server <- function(input, output) {
   })
 }
 
-해결 방법은 `plotOutput` 함수의 `clickable` 인자를 `TRUE`로 설정하는 것입니다. 이렇게 하면 그림 가장자리도 클릭할 수 있습니다.
+해당 shiny 코드는 아래와 같은 기능을 수행합니다.
 
-아래는 수정된 코드입니다.
+1. pain_diagram.png 이미지를 로드합니다.
+2. 클릭한 위치에 빨간 점을 추가합니다.
+3. clear 버튼을 누르면 추가된 점들을 삭제합니다.
+4. downloadData 버튼을 누르면 그려진 그림과 추가된 점들이 포함된 이미지를 다운로드 합니다.
+5. 그림의 가장자리를 클릭해도 점이 추가되지 않습니다.
 
-```{r}
+가장자리를 클릭해도 점이 추가되지 않는 이유는 observeEvent(input$plot_click, {...})에서 조건문이 설정되어 있기 때문입니다. 조건문에서 click_x < 8 & click_x > 2 & click_y < 8 & click_y > 2 로 설정되어 있어, (2,2) ~ (8,8) 영역 내에서만 클릭한 위치에 빨간 점이 추가됩니다.
+
+해결 방법으로는 해당 조건문을 수정하거나 삭제하면 됩니다. 예를 들어, 모든 위치에서 클릭한 위치에 빨간 점을 추가하고 싶다면 조건문을 삭제하면 됩니다.
+
+아래는 가장자리를 클릭해도 점이 추가되도록 수정한 코드입니다.
+
 server <- function(input, output) {
   
   # Load pain diagram image
@@ -191,7 +200,7 @@ server <- function(input, output) {
       content = function(file) {
         png(file)
         plot(1:5, type = "n", axes = FALSE, xlab = "", ylab = "")
-        rasterImage(img, xleft = 0.5, ybottom = 0.5, xright = 9.5, ytop=9.5)
+        rasterImage(img, xleft = 0.5, ybottom = 0.5, xright=9.5,ytop=9.5)
         if (!is.null(clicked_points$x)) {
           points(clicked_points$x,
                  clicked_points$y,
@@ -203,22 +212,16 @@ server <- function(input, output) {
       
     )
     
-  }, clickable=TRUE)   ## clickable 인자 추가
-  
+  })
   
   # Record clicks on plot and store in reactiveValues object 
   observeEvent(input$plot_click,{
-    click_x <- round(input$plot_click$x)
-    click_y <- round(input$plot_click$y)
-    if(click_x <8 & click_x>2 & click_y <8 & click_y>2){
-      isolate({
-        clicked_points$x<-c(clicked_points$x,
-                            input$plot_click$x)
-        clicked_points$y<-c(clicked_points$y,
-                            input$plot_click$y)}
-      )
-    }
+    isolate({
+      clicked_points$x<-c(clicked_points$x,
+                          input$plot_click$x)
+      clicked_points$y<-c(clicked_points$y,
+                          input$plot_click$y)}
+    )
     
   })
 }
-```
