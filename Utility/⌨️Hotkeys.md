@@ -16,9 +16,17 @@
 - Shift + ESC , Enter : 표 밖으로 커서 꺼내기
 - Crtl + Enter: 쪽 나누기 
 
-
+---
 
 # Microsoft
+## Window
+- window + SPACE : 입력기 전환 (==한영전환 안될때==)
+- window + b : 알림영역
+	- window + b + -> + SPACE + End  : ==음소거할때==
+- window + u : 접근성 센터 ('추가 디스플레이 설정 클릭'으로 ==디스플레이 설정 들어갈때==)
+- window + a : 알림창
+- window + Shift + 화살표: 한번에 모니터 끼리 이동
+
 ## Windows Explorer
 - Ctrl + Shift + n : 새폴더 생성
 - F2 : 이름바꾸기 
@@ -34,18 +42,12 @@
 - Ctrl + Shift + C: 서식 복사
 - Ctrl + Shift + V: 서식 붙여넣기
 
-## Window
-- window + SPACE : 입력기 전환 (==한영전환 안될때==)
-- window + b : 알림영역
-	- window + b + -> + SPACE + End  : ==음소거할때==
-- window + u : 접근성 센터 ('추가 디스플레이 설정 클릭'으로 ==디스플레이 설정 들어갈때==)
-- window + a : 알림창
-- window + Shift + 화살표: 한번에 모니터 끼리 이동
+## PPT
+- Alt + 숫자(빠른실행메뉴) : (ESC + Enter 로 글자색 변경에 사용)
 
-
-# Google
 ---
 
+# Google
 ## Chrome / Edge
 -  F6 : 주소창 혹은 툴바로 포커스 전환 (==북마크바로 이동할때 3번 클릭==)
 - Alt + D : 주소창으로 바로 이동
@@ -68,8 +70,7 @@
 	- (숨은)참조추가 Ctrl + Shift + c(b)
 	- 전달 f
 
-
-
+---
 
 # Zotero
 - Ctrl + Shift + C : 내보내기 설정 스타일로 복사
