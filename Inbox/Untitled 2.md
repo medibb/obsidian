@@ -24,3 +24,43 @@ server <- function(input, output) {
 위의 코드에서 `renderText()` 함수는 입력 값인 "name" 값을 가져와서 출력하는 기능을 합니다. 
 
 이렇게 하면 shiny 앱 내에서 원하는 위치에 빈칸을 만들고 사용자로부터 숫자나 문자를 입력받을 수 있습니다.
+
+
+How do I create a checkbox menu with specific number of selection in Shiny?
+
+To create a checkbox menu with a specific number of selections in Shiny, you can use the `checkboxGroupInput()` function and set the `choices` argument to the options you want to display. To limit the number of selections, you can set the `selected` argument to an empty vector and use the `updateCheckboxGroupInput()` function inside an observer or event handler to update the selected values based on user input.
+
+Here is an example code that creates a checkbox menu with three options and allows the user to select up to two options:
+
+```
+library(shiny)
+
+ui <- fluidPage(
+  checkboxGroupInput("options", "Select up to two options:",
+                     choices = c("Option 1", "Option 2", "Option 3"),
+                     selected = ""),
+  
+  verbatimTextOutput("selected")
+)
+
+server <- function(input, output, session) {
+  
+  observe({
+    # limit selection to two values
+    if (length(input$options) > 2) {
+      updateCheckboxGroupInput(session, "options",
+                               choices = c("Option 1", "Option 2", "Option 3"),
+                               selected = input$options[1:2])
+    }
+  })
+  
+  output$selected <- renderPrint({
+    paste("Selected options:", input$options)
+  })
+}
+
+shinyApp(ui, server)
+```
+
+In this code, we use an observer that checks if there are more than two selected values and updates the checkbox group accordingly. The `verbatimTextOutput()` displays the selected options in a text format. You can modify this code to suit your specific requirements.
+
