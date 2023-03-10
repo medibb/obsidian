@@ -21,6 +21,22 @@ Recent studies have suggested that genetic factors may play a role in the pathog
 ---
 - metabolic etiology 단어를 다른 단어로.. mrd 에 대한 해석 넣기..
 
+[Frontiers | Case Report: Whole Exome Sequencing Revealed Disease-Causing Variants in Two Genes in a Patient With Autism Spectrum Disorder, Intellectual Disability, Hyperactivity, Sleep and Gastrointestinal Disturbances (frontiersin.org)](https://www.frontiersin.org/articles/10.3389/fgene.2021.625564/full#B27)
+
+''From the output file, a list of possible 23 variants, we kept only those genes/variants characterized by pathogenicity confidence score higher than 99%. These selected genes underwent through a manual revision considering literature and available databases. Briefly, we analyzed all the selected output variants for deleterious prediction through Varsome''
+
+Selected variants in the candidate genes were all validated by co-segregation analysis using polymerase chain reaction (PCR), and bi-directional Sanger sequencing using the ABI 3730 automated sequencer (Applied Biosystems, Forster City, CA, USA).
+
+The list of candidate variants was obtained by 현재까지 알려진 calcific tendinitis에 대한 gene 들과 ectopic calcification 에 대한 gene 들이었다. 
+
+filtering was also based on annotation in public databases as Mouse Genome Database (MGD),
+
+
+
+우리는 OMIM, PubMed, ClinVar. 등으 public database 에서 부터 gene 후보를 얻었으며,  Following this procedure we obtained a list of 71 candidate variants를 얻었고 Covering 이 괜찮았으며  to be used as WES analysis
+
+[GRCh37 - hg19 - Genome - Assembly - NCBI (nih.gov)](https://www.ncbi.nlm.nih.gov/assembly/GCF_000001405.13/)
+
 Case report
 
 Three patients aged between 50 and 70 with recurrent episodes of pain at multiple tendons are currently receiving treatment at the outpatient department of rehabilitation medicine. Radiograph and ultrasound imaging revealed calcification in ≥4 tendons around the shoulder and hip joints in all three patients. 
