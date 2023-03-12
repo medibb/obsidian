@@ -82,12 +82,11 @@ knee EAG가 무릎 운동에서 어떻게 측정되는 지 평가하고자 함.
 		- 주로 ==대퇴-경골 관절==의 부하가 주로 일어남
 
 - 수동적 관절펴기 (knee passive extension) 
-- 수동관절 운동에서도 연골부하는 일어난다
+- ==수동관절 운동에서도 연골부하는 일어난다==
 		- 근육의 activation(motor unit firing)은 없어도, 근육은 정상적으로 normal tone 이 있고 더하여 근육을 포함한 무릎관절 주변의 모든 연조직(e.g. 십자인대)은 viscoelastic tissue 이므로 lengthening & shortening 에 의한 tension이 발생
-			- muscle intringic tension 및 수동굴곡시 loading 에 대한 ==기존 문헌 추가 조사 필요==
+			- muscle intringic tension 및 수동굴곡시 loading 에 대한 기존 문헌 추가 조사 필요
 			- 기존 finding인 수동관절 운동에서 발생하는 전위에 EAG가 기여하고 있음. 
 			- 비선형적 변화가 초기에 클 경우, 수동신전과 능동신전의 전위차가 매우 작을 가능성이 있다.
-		- 수동굴곡 / 능동굴곡 / 스쿼트에 걸리는 strain값은?
 
 ### 2.2.3. Cartilage deformation
 - 관절연골의 deformation이 unloading 이후에도 사라지지 않는다면 electrostatic potential 이 남아있을 수 있겠지만, 기존연구와 선행연구에서 모두 unloading 과 함께 즉시 potential 이 사라지는 것이 관찰됨
@@ -166,16 +165,14 @@ JOR
 		- 그 외 관절 후방부가 잘나오면 실험 1-3 으로 시행 가능
 	
 
-실험3 - 무릎관절 운동 중 각도 변화에 의해 유발되는 EAG값들의 통계적 차이 관찰
+실험2 - 무릎관절 운동 중 각도 변화에 의해 유발되는 EAG값들의 통계적 차이 관찰
 
-EAG by 능동신전에서 관절각도변화와 근수축에 의한 부하
-EAG by 수동신전에서 관절각도 변화와 그에 따른 연조직 긴장에의한 수동적인 부하
+EAG by 능동신전에서 관절각도변화와 근수축에 의한 부하 VS EAG by 수동신전에서 관절각도 변화와 그에 따른 연조직 긴장에의한 수동적인 부하
+	- 실험 2-1 수동신전과 능동신전의 EAG 값 비교
+		- 현재 실험: 8군데에서 측정함, 4군데는 patellar 주변의 retinaculum,  나머지는 joint line 을 따라서
+	- 실험 2-2 수동스쿼트(hip & knee 90도 굴곡) vs 능동스쿼트의 EAG 값 비교
 
-- 실험 3-1 수동신전과 능동신전의 EAG 값 비교
-	- 현재 실험: 8군데에서 측정함, 4군데는 patellar 주변의 retinaculum,  나머지는 joint line 을 따라서
-- 실험 3-2 수동스쿼트와 능동스쿼트의 EAG 값 비교
-
-- 실험 3-3 내부 해부학적 구조물과 EAG값의 상관 관계가 있다.
+- 실험 3 내부 해부학적 구조물과 EAG값의 상관 관계가 있다.
 	- cartilage, loading area 로 부터, outer cartilage 및 surface 까지의 거리가 미치는 영향 -  초음파 측정한 거리와 전위크기 비교
 	- 주변 구조물 및 연조직의 유무 - 직선 거리내에 있는 각 조직의 두께 측정
 
