@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Untitled 2.md",
+                "file": "Inbox/% 류마티스학회 자가운동법.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/Untitled 2.md",
+                "file": "Inbox/% 류마티스학회 자가운동법.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Untitled 2.md",
+                "file": "Inbox/% 류마티스학회 자가운동법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Untitled 2.md",
+                "file": "Inbox/% 류마티스학회 자가운동법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Untitled 2.md"
+                "file": "Inbox/% 류마티스학회 자가운동법.md"
               }
             }
           }
@@ -206,7 +206,8 @@
   },
   "active": "bfd713f8cb4b4521",
   "lastOpenFiles": [
-    "Inbox/Untitled 2.md",
+    "Inbox/= shiny app for firstassessment.md",
+    "Template/Notes.md",
     "Inbox/Untitled 1.md",
     "Inbox/& CT genetics 대재춘계초록.md",
     "textgenerator/prompts/default/summarize.md",
@@ -237,7 +238,6 @@
     "Inbox/$ EAG by knee movement and loading - MOC.html",
     "Inbox/= HCI lecture.md",
     "Inbox/= BACPAC.md",
-    "Utility/⌨️Hotkeys.md",
-    "Inbox/% ClinPain 임통춘계 hip 관절외병변.md"
+    "Utility/⌨️Hotkeys.md"
   ]
 }
