@@ -1,5 +1,5 @@
 ### Metadata:
--   Title: [[& CT genetics 대재춘계초록]]
+-   Title: [[& CT genetics 초록]]
 -   `Type:`  [[&]]
 -   `Author:`
     -   `Notable Authors:`
