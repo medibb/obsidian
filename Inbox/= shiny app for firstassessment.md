@@ -253,20 +253,32 @@ selectInput("fruits", "Select a fruit:", c("Apple","Banana","Cherry"), selected 
 
 
 #  shiny radioButtons multiple choice 설정
-`choiceNames`와 `choiceValues` 인수를 사용하여 여러 개의 선택 항목을 지정해야 합니다.
 
-```{r}
-radioButtons(
-  inputId = "my_radio_buttons",
-  label = "Select multiple choices:",
-  choiceNames = c("Choice 1", "Choice 2", "Choice 3"),
-  choiceValues = c("choice1", "choice2", "choice3"),
-  selected = c("choice1", "choice2")
-)
+shiny의 `radioButtons` 함수를 사용하여 다중 선택을 가능하게 하려면 `choiceNames` 및 `choiceValues` 매개 변수에 여러 값을 포함하는 벡터를 전달해야합니다. 예를 들어, 다음과 같이 작성할 수 있습니다.
+
+```R
+radioButtons(inputId = "myRadioButton",
+             label = "Choose multiple options:",
+             choiceNames = c("Option 1", "Option 2", "Option 3"),
+             choiceValues = c("1", "2", "3"),
+             selected = NULL,
+             inline = FALSE)
 ```
 
-위 코드에서 `choiceNames`는 사용자가 보는 라벨을 나타내고, `choiceValues`는 선택 항목의 값이며, `selected`는 기본 선택 항목입니다. 
+위 코드에서는 `choiceNames` 매개 변수에 다중 선택 가능한 옵션의 이름을 포함하는 벡터를 전달하고, `choiceValues` 매개 변수에 해당 옵션의 값을 포함하는 벡터를 전달합니다. 이러한 값은 사용자가 선택한 옵션을 식별하는 데 사용됩니다.
 
-여러 개의 선택항목을 지정하기 위해 `selected`에 벡터를 전달할 수 있습니다. 이 예제에서는 첫 번째와 두 번째 선택 항목이 기본으로 선택됩니다. 
+만약 `inline` 매개 변수를 TRUE로 설정하면, 옵션 버튼이 가로로 표시됩니다. 그렇지 않으면 세로 방향으로 표시됩니다. 
 
-사용자가 선택한 값은 `input$my_radio_buttons`로 접근할 수 있습니다.
+사용자가 선택한 값을 얻으려면, 이벤트 핸들러에서 `input$myRadioButton`을 사용합니다. 예를 들어:
+
+```R
+observeEvent(input$myRadioButton, {
+  selectedOptions <- input$myRadioButton
+  # do something with selectedOptions
+})
+```
+
+위 코드에서는 `observeEvent()` 함수를 사용하여 사용자가 라디오 버튼에서 옵션을 선택할 때마다 실행되는 이벤트 핸들러를 정의합니다. 핸들러 내부에서는 `input$myRadioButton`을 사용하여 선택된 값(들)에 액세스합니다. 이것은 선택된 옵션의 choiceValues와 일치합니다.
+
+참고: `radioButtons` 함수는 단일 선택만 가능하며, 다중 선택이 필요한 경우 대체로 checkboxGroupInput 함수를 사용해야합니다.
+
