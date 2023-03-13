@@ -282,3 +282,122 @@ observeEvent(input$myRadioButton, {
 
 참고: `radioButtons` 함수는 단일 선택만 가능하며, 다중 선택이 필요한 경우 대체로 checkboxGroupInput 함수를 사용해야합니다.
 
+
+
+
+server <- function(input, output) {
+  
+  # 데이터를 저장하는 함수
+  save_data <- function(data, filename) {
+    write.csv(data, file = filename, row.names = FALSE)
+  }
+  
+  # 데이터를 저장할 경로
+  save_path <- "pain_data.txt"
+  
+  # 저장 버튼 클릭 이벤트
+  observeEvent(input$save, {
+    # 데이터를 생성합니다.
+    data <- paste("S)", "\n",
+                  "onset:", input$onset,"ago", "(날짜:", input$date, ")", "\n",
+                  "mode: ", input$mode,"생긴 통증", "\n",
+                  "area: ", input$area, "Shoulder", input$cc,"통증", "\n",
+                  "현재 증상: ", input$mode, "생긴", input$cc,"통증", "\n",
+                  "통증nRS: ", input$nrs, "\n",
+                  "resting nRS: ", input$nrsR, "\n",
+                  "severe nRS: ", input$nrsS, "\n",
+                  "Agg factor: ", input$agg, "\n",
+                  "운동: ", input$exercise, "\n",
+                  "생활습관: ", input$lifestyle, "\n",
+                  "직업: ", input$job, "\n",
+                  "ROM(Flx-Abd-ES-IS-ER) :", input$Flx,"-",input$Abd,"-",input$ES,"-",input$IS,"-",input$ER,"\n",
+                  "flexion & abduction pain (", input$Fpain, " / ", input$Abpain,")", "\n",
+                  "Hawkin's / Neer / Empty-can / belly press: (", input$Hawkins, " / ", input$Neer, " / ", input$Emptycan, " / ",input$bellypress ,")", "\n",
+                  "horizontal add (", input$Hadd, ")", "\n",
+                  "AC joint Td (", input$ACJtd, ")", "\n",
+                  "painful arc / resistive abduction (", input$Parc,")", "\n",
+                  "\n",
+                  "instability test / apprehension test (", input$instability, "/", input$apprehension, ")", "\n",
+                  "\n",
+                  "spurling (", input$spurling, ")","\n",
+                  "\n",
+                  "o)", "\n",
+                  "LBTS :", input$LBTS, "effusion","\n",
+                  "SSc:", input$SSc,"\n",
+                  "AC :", input$AC,"\n",
+                  "SST :",input$SST,"\n",
+                  "Shortaxis:",input$shortaxis,"\n",
+                  "SASD bursa :", input$SASD,"\n",
+                  "IST :", input$IST,"\n",
+                  )
+    # 데이터를 저장합니다.
+    save_data(data, save_path)
+    writeClipboard(data)
+    # 저장 완료 메시지를 출력합니다.
+    showModal(modalDialog("초진기록이 잘 저장되었습니다."))
+    })
+
+}
+위 샤이니 코드 오류 찾고 해결해줘
+
+코드 상에는 특별한 오류가 보이지 않습니다만, 일부 변수명이나 입력값이 잘못되어 저장되는 데이터가 올바르지 않을 수 있습니다. 예를 들어, "S)"라는 문자열은 어떤 의미인지 알 수 없으며, "Shoulder"와 같은 입력값도 사용자에 따라 다를 수 있습니다. 
+
+따라서 아래와 같이 코드를 수정하여 변수명과 입력값을 명확하게 지정하고, 저장될 데이터의 형식을 일관성 있게 유지할 것을 권장합니다. 
+
+```
+server <- function(input, output) {
+  
+  # 데이터를 저장하는 함수
+  save_data <- function(data, filename) {
+    write.csv(data, file = filename, row.names = FALSE)
+  }
+  
+  # 데이터를 저장할 경로
+  save_path <- "pain_data.txt"
+  
+  # 저장 버튼 클릭 이벤트
+  observeEvent(input$save, {
+    # 데이터를 생성합니다.
+    data <- paste("Pain Record", "\n",
+                  "Onset: ", input$onset," days ago (Date: ", input$date, ")", "\n",
+                  "Type of pain: ", input$mode,"\n",
+                  "Affected area: ", input$area,"\n",
+                  "CC: ", input$cc,"\n",
+                  "Current symptom: ", input$symptom,"\n",
+                  "Pain nRS: ", input$nrs, "\n",
+                  "Resting nRS: ", input$nrsR, "\n",
+                  "Severe nRS: ", input$nrsS, "\n",
+                  "Aggravating factor(s): ", input$agg, "\n",
+                  "Exercise(s): ", input$exercise, "\n",
+                  "Lifestyle habits: ", input$lifestyle, "\n",
+                  "Occupation: ", input$job, "\n\n",
+                  
+                  "--- Examination ---", "\n\n", 
+                  
+                  "* ROM (Flx-Abd-ES-IS-ER):", 
+                    paste(input$Flx,input$Abd,input$ES,input$IS,input$ER,collapse="-"),"\n", 
+                  
+                  "* Flexion & abduction pain (F/A):", paste(input$Fpain,input$Abpain,collapse=" / "),"\n\n", 
+                  
+                  
+                  "* Special tests:", 
+                    paste("Hawkin's =",input$Hawkins,"| Neer =",input$Neer,
+                          "| Empty-can =",input$Emptycan,"| Belly press =",input$belleypress,
+                          "| Horizontal adduction =",input$hadd,
+                          "| AC joint Td =",input$jtd,
+                          "| Painful arc/Resistive abduction =",input$painfularc,"\n\n"),
+                  
+                  
+                  "* Instability test / apprehension test:", 
+                    paste("Instability test =",input$instability,"| Apprehension test =",input$apprehension,"\n\n"),
+                    
+                  
+                   "* Other tests:", 
+                    paste("Spurling's test =",input$spluringtest,"\n\n"),
+                    
+                   
+                   "--- Imaging ---","\n\n", 
+                   
+                   "* LBTS:",paste(input$lbtseffusion,"effusion","\n"),
+                   "* SSC:",paste(input$scc,"\n"),
+                   "* AC:",paste(input$arcomed
