@@ -100,3 +100,60 @@ shinyApp(ui, server)
 
 
 🔗LINKS TO THIS PAGE
+
+
+Subjectives) 
+shoulder pain onset: 
+Chief complaint
+side: Rt or Lt.
+area: anterior. or lateral or posterior
+painseverity
+- resting nRS:
+- severe nRS:
+- Agg factor:
+lifestyle:
+exercise:
+
+Objectives)
+ROM(Flx-Abd-ES-IS-ER) :
+ER pain ( - )
+flexion & abduction pain ( - / - )
+Hawkin's / Neer / Empty-can / belly press: ( - / - / - / - )
+horizontal add (-)
+AC joint Td (-)
+painful arc / resistive abduction ( - / - )
+instability test
+apprehension test
+spurling test
+
+위 내용을 자동화해서 입력할 수 있는 코드를 r과 샤이니로 알려줘
+
+
+r 샤이니에서 글자 색깔 크기 변경하는 방법
+
+R 샤이니에서 글자 색상과 크기를 변경하려면 다음과 같이 코드를 작성할 수 있습니다.
+
+1. 글자 색상 변경:
+
+```{r}
+# 예시 데이터프레임 생성
+df <- data.frame(x = c("A", "B", "C"), y = c(1, 2, 3))
+
+# UI 부분에서 탭 이름을 변경할 때 사용하는 코드 예시
+tabPanel("탭 이름", 
+         style = "color:blue;", # 글자 색상 설정
+         ...)
+```
+
+위 코드에서 `style` 속성을 사용하여 `color` 값을 지정해주면 해당 탭의 글자 색상이 변경됩니다.
+
+2. 글자 크기 변경:
+
+```{r}
+# UI 부분에서 탭 이름을 변경할 때 사용하는 코드 예시
+tabPanel("탭 이름", 
+         style = "font-size:20px;", # 글자 크기 설정
+         ...)
+```
+
+위 코드에서 `style` 속성을 사용하여 `font-size` 값을 지정해주면 해당 탭의 글자 크기가 변경됩니다. 값의 단위는 px, em 등을 사용할 수 있습니다.
