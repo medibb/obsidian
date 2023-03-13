@@ -233,3 +233,40 @@ with open("output.pdf", "wb") as f:
 
 PyPDF2 라이브러리를 사용하여 이미지와 텍스트가 포함된 PDF 파일을 읽어들여서 추출하는 것도 가능합니다. 이 경우엔 PyPDF2 라이브러리에서 제공하는 PdfFileReader 클래스와 extractText() 메소드 등을 활용하여 구현할 수 있습니다.
 
+r shiny에서 selectinput 에서 default 값 설정
+
+selectInput() 함수의 선택된 기본값을 설정하려면 다음과 같이 하면 됩니다:
+
+```{r}
+selectInput(inputId, label, choices, selected = "default_value")
+```
+
+예를 들어, "Fruits"라는 selectInput()이 있고 기본값으로 "Apple"을 선택하려면 다음과 같이 코드를 작성할 수 있습니다:
+
+```{r}
+selectInput("fruits", "Select a fruit:", c("Apple","Banana","Cherry"), selected = "Apple")
+```
+
+위 코드에서 `selected = "Apple"`은 선택된 기본값을 설정하는 인수입니다. 이것은 처음에 애플이 선택되도록합니다.
+
+
+
+
+#  shiny radioButtons multiple choice 설정
+`choiceNames`와 `choiceValues` 인수를 사용하여 여러 개의 선택 항목을 지정해야 합니다.
+
+```{r}
+radioButtons(
+  inputId = "my_radio_buttons",
+  label = "Select multiple choices:",
+  choiceNames = c("Choice 1", "Choice 2", "Choice 3"),
+  choiceValues = c("choice1", "choice2", "choice3"),
+  selected = c("choice1", "choice2")
+)
+```
+
+위 코드에서 `choiceNames`는 사용자가 보는 라벨을 나타내고, `choiceValues`는 선택 항목의 값이며, `selected`는 기본 선택 항목입니다. 
+
+여러 개의 선택항목을 지정하기 위해 `selected`에 벡터를 전달할 수 있습니다. 이 예제에서는 첫 번째와 두 번째 선택 항목이 기본으로 선택됩니다. 
+
+사용자가 선택한 값은 `input$my_radio_buttons`로 접근할 수 있습니다.
