@@ -157,3 +157,90 @@ tabPanel("탭 이름",
 ```
 
 위 코드에서 `style` 속성을 사용하여 `font-size` 값을 지정해주면 해당 탭의 글자 크기가 변경됩니다. 값의 단위는 px, em 등을 사용할 수 있습니다.
+
+
+
+r 코드에서 point 크기변경
+
+R 코드에서 point(점)의 크기를 변경하는 방법은 다음과 같습니다.
+
+1. plot 함수를 사용하여 그래프를 그립니다.
+2. cex 옵션을 사용하여 점의 크기를 조정합니다.
+
+예시 코드:
+
+```R
+# 데이터 생성
+x <- c(1, 2, 3, 4, 5)
+y <- c(3, 5, 2, 6, 7)
+
+# 그래프 그리기
+plot(x, y)
+
+# 점의 크기 조정
+points(x, y, cex=2)
+```
+
+위 코드에서 `cex=2`는 점의 크기를 두 배로 키우는 것을 의미합니다. 이 값을 조정하여 원하는 크기로 점을 설정할 수 있습니다.
+
+r 샤이니에서 output으로 저장한 그림과 텍스트를 같은 파일로 출력하는 코드
+
+다음은 R 샤이니에서 output으로 저장한 그림과 텍스트를 같은 파일로 출력하는 코드의 예시입니다.
+
+```{r}
+library(shiny)
+
+# Define UI
+ui <- fluidPage(
+  titlePanel("Output file example"),
+  sidebarLayout(
+    sidebarPanel(
+      selectInput("plot_type", "Select plot type:", choices = c("Scatter", "Line")),
+      downloadButton("download_output", "Download output")
+    ),
+    mainPanel(
+      plotOutput("plot")
+    )
+  )
+)
+
+# Define server
+server <- function(input, output) {
+  
+  # Generate plot
+  output$plot <- renderPlot({
+    if (input$plot_type == "Scatter") {
+      plot(mtcars$wt, mtcars$mpg, xlab = "Weight", ylab = "Miles per gallon")
+    } else {
+      plot(mtcars$wt, mtcars$mpg, type = "l", xlab = "Weight", ylab = "Miles per gallon")
+    }
+  })
+  
+  # Generate text file
+  output$text_file <- downloadHandler(
+    filename = function() {
+      paste0("output_", input$plot_type, ".txt")
+    },
+    content = function(file) {
+      write.table(mtcars, file)
+    }
+  )
+  
+  # Download output file
+  output$download_output <- downloadHandler(
+    filename = function() {
+      paste0("output_", input$plot_type, ".html")
+    },
+    content = function(file) {
+      temp_file <- tempfile(fileext=".html")
+      htmltools::save_html(htmltools::tagList(output$plot(), tags$a(href=output$text_file), includeHTML=TRUE), temp_file)
+      file.rename(temp_file, file)
+    }
+  )
+}
+
+# Run app
+shinyApp(ui, server)
+```
+
+위 코드에서는 `downloadHandler` 함수를 사용하여 파일을 생성하고 다운로드할 수 있습니다. `text_file` 출력 객체는 텍스트 파일을 생성하고 `download_output` 출력 객체는 HTML 파일을 생성합니다. HTML 파일에는 `output$text_file` 링크가 포함되어 있어 텍스트 파일도 함께 다운로드할 수 있습니다.
