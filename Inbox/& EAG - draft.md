@@ -4,6 +4,8 @@
 -   `Tags:` #🧠️/📝️/🌞️ 
 -   `Formation Date:` [[2023-02-01]]
 ---
+# Data analysis
+[[= EAG - Data Analysis]]
 
 # Title page
 

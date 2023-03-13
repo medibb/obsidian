@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dataview/Tag Taxonomy.md",
+                "file": "Inbox/& EAG - draft.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dataview/Tag Taxonomy.md",
+                "file": "Inbox/& EAG - draft.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dataview/Tag Taxonomy.md",
+                "file": "Inbox/& EAG - draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dataview/Tag Taxonomy.md",
+                "file": "Inbox/& EAG - draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dataview/Tag Taxonomy.md"
+                "file": "Inbox/& EAG - draft.md"
               }
             }
           }
@@ -205,15 +205,19 @@
   },
   "active": "b077107a1e999934",
   "lastOpenFiles": [
-    "Dataview/INDEX.md",
+    "Inbox/= EAG - Data Analysis.md",
+    "Inbox/& EAG - draft.md",
+    "Dataview/&.md",
+    "Inbox/Untitled.md",
     "Inbox/$ EAG  - MOC.md",
+    "Dataview/Tag Taxonomy.md",
+    "Dataview/INDEX.md",
     "Inbox/; 혁신형 의사과학자회의.md",
     "physiology.md",
     "muscle.md",
     "Utility/🕓️ Timeline.md",
     "Utility/🔌️ Plugins.md",
     "Utility/⌨️Hotkeys.md",
-    "Dataview/Tag Taxonomy.md",
     "Dataview/Pasted image 20230201093840.png",
     "Inbox/Map Of Content.md",
     "Inbox/$ CT xray - MOC.md",
@@ -228,10 +232,6 @@
     "Inbox/= Exercise immunology.md",
     "Dataview/✏️ Workbench.md",
     "textgenerator/prompts/default/rewrite.md",
-    "textgenerator/prompts/default/getEmailNeg.md",
-    "textgenerator/prompts/default/getParagraph.md",
-    "textgenerator/prompts/default/getTags.md",
-    "textgenerator/prompts/default/getOutline.md",
     "textgenerator/prompts/default",
     "textgenerator/prompts/local",
     "textgenerator/prompts",
