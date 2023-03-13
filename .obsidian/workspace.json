@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/$ EAG by knee movement and loading - MOC.md",
+                "file": "Dataview/Tag Taxonomy.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/$ EAG by knee movement and loading - MOC.md",
+                "file": "Dataview/Tag Taxonomy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/$ EAG by knee movement and loading - MOC.md",
+                "file": "Dataview/Tag Taxonomy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/$ EAG by knee movement and loading - MOC.md",
+                "file": "Dataview/Tag Taxonomy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/$ EAG by knee movement and loading - MOC.md"
+                "file": "Dataview/Tag Taxonomy.md"
               }
             }
           }
@@ -206,6 +206,7 @@
   "active": "b077107a1e999934",
   "lastOpenFiles": [
     "Dataview/INDEX.md",
+    "Inbox/$ EAG  - MOC.md",
     "Inbox/; 혁신형 의사과학자회의.md",
     "physiology.md",
     "muscle.md",
@@ -231,7 +232,6 @@
     "textgenerator/prompts/default/getParagraph.md",
     "textgenerator/prompts/default/getTags.md",
     "textgenerator/prompts/default/getOutline.md",
-    "textgenerator/prompts/default/getIdeas.md",
     "textgenerator/prompts/default",
     "textgenerator/prompts/local",
     "textgenerator/prompts",

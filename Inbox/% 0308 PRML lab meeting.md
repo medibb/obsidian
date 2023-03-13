@@ -224,4 +224,4 @@ contact point 의 이동하면서 점차 큰 moment?
 
 
 🔗LINKS TO THIS PAGE
-[[$ EAG by knee movement and loading - MOC]]
+[[$ EAG  - MOC]]

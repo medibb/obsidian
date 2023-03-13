@@ -1,4 +1,4 @@
--   `Title:` [[$ EAG by knee movement and loading - MOC]]
+-   `Title:` [[$ EAG  - MOC]]
 -   `Type:` [[$]]
 -   `Tags:` #🧠️/📝️/🌞️ 
 -   `organizer:`   
@@ -96,11 +96,11 @@ knee EAG가 무릎 운동에서 어떻게 측정되는 지 평가하고자 함.
 		- 일 전에 1시간 정도 앉아있다가 측정하는 추가 실험의 필요성은 크지 않겠다.
 		
 - 연골접촉면(contact point of femoral condyle)의 피봇
-	- contact point 가 뒤로 가는데, medial condyle 은 작게 움직이고 lateral condyle 은 많이 움직인다. 그러다보니까 medial pivot 하는 모양새
+	- contact point 가 뒤로 가는데, medial condyle 은 작게 움직이고 lateral condyle 은 많이 움직인다. 그러다 보니까 medial pivot 하는 모양새
 - 경골회전(tibia rotation)
 	- 굴곡시 int rotation / 신전시 lateral rotation of tibia
 	- int rotation 이 시계반대방향
-	- 다리펴기에서는 신전할때 경골이 시계방향으로 돌면서 바깥쪽이 더욱 뒤로 이동
+	- 다리펴기에서는 신전할 때 경골이 시계방향으로 돌면서 바깥쪽이 더욱 뒤로 이동
 	- 스쿼트시에는 앉을때 femoral condyle이  ext. rotation 일어나면서 무릎이 바깥쪽으로 벌어지려고함. 일어날때는 femoral condyle이 int. rotation
 		- 영향에 대한 분석은 어렵지만 위쪽에 붙은 센서일수록 스쿼트 시 이동이 많고, 아래쪽에 붙은 센서일 수록 다리펴기에서 이동이 많을 수 있다. 반대쪽 설명도 가능 
 
@@ -165,16 +165,16 @@ JOR
 		- 그 외 관절 후방부가 잘나오면 실험 1-3 으로 시행 가능
 	
 
-실험2 - 무릎관절 운동 중 각도 변화에 의해 유발되는 EAG값들의 통계적 차이 관찰
+==실험2(현재 진행 중)== - 무릎관절 운동 중 각도 변화에 의해 유발되는 EAG값들의 통계적 차이 관찰
 
 EAG by 능동신전에서 관절각도변화와 근수축에 의한 부하 VS EAG by 수동신전에서 관절각도 변화와 그에 따른 연조직 긴장에의한 수동적인 부하
-	- 실험 2-1 수동신전과 능동신전의 EAG 값 비교
+	- ==실험 2-1(현재 진행중)== 수동신전과 능동신전의 EAG 값 비교
 		- 현재 실험: 8군데에서 측정함, 4군데는 patellar 주변의 retinaculum,  나머지는 joint line 을 따라서
 	- 실험 2-2 수동스쿼트(hip & knee 90도 굴곡) vs 능동스쿼트의 EAG 값 비교
 
-- 실험 3 내부 해부학적 구조물과 EAG값의 상관 관계가 있다.
+- 실험 3 내부 해부학적 구조와 EAG값의 상관 관계가 있다.
 	- cartilage, loading area 로 부터, outer cartilage 및 surface 까지의 거리가 미치는 영향 -  초음파 측정한 거리와 전위크기 비교
-	- 주변 구조물 및 연조직의 유무 - 직선 거리내에 있는 각 조직의 두께 측정
+	- 주변 구조물 및 연조직의 유무 - 직선 거리내에 있는 각 조직의 두께 측정값과 EAG 신호의 상관관계
 
 
 

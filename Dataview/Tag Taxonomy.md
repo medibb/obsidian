@@ -1,5 +1,25 @@
 #### Taxonomy
 
+---
+INPUTs
+| Papers | Books | People | YouTube | Articles | Conference |  
+| ------ | ----- | ------ | ------- | -------- | ---------- | 
+| [[!]]  | [[{]] | [[@]]  | [[+]]   | [[(]]    | [[;]]      |
+
+Development
+| Notes | |
+| ----- |----|
+| [[=]] ||
+
+Outputs
+| Manuscript | Presentation | MOC |
+| ---------- | ------------ | ----------------- |
+| [[&]]      | [[%]]        | [[$]]             |
+
+unused: `)}`
+
+---
+
 -   📥️ Seed box | Inputs | items that i am / will be actively working on
     -   📚️ Books
     -   🎥️ Youtube Videos
@@ -42,22 +62,6 @@
 
 ---
 
-INPUTs
-| Papers | Books | People | YouTube | Articles | Conference |  
-| ------ | ----- | ------ | ------- | -------- | ---------- | 
-| [[!]]  | [[{]] | [[@]]  | [[+]]   | [[(]]    | [[;]]      |
-
-Development
-| Notes | |
-| ----- |----|
-| [[=]] ||
-
-Outputs
-| Manuscript | Presentation | MOC |
-| ---------- | ------------ | ----------------- |
-| [[&]]      | [[%]]        | [[$]]             |
-
-unused: `)}`
 
 
 
