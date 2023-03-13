@@ -63,6 +63,39 @@ df <- data.frame()
 또한, 샤이니 앱의 경우 데이터베이스와 연동되어 있기 때문에 데이터베이스도 함께 백업해야 합니다. 데이터베이스 및 서버 구축과 관련된 내용은 별도의 가이드를 참고해 주시기 바랍니다.
 
 
+r과 샤이니로 만든 앱의 server에서 output을 txt파일로 저장하면서 clipboard에도 저장하는 코드 알려줘
+
+아래는 R 코드 예시입니다. 이 코드는 "output.txt"라는 파일에 출력 결과를 저장하고, 동시에 clipboard에도 저장합니다.
+
+```R
+library(shiny)
+
+ui <- fluidPage(
+  textInput("input_text", "Enter some text"),
+  actionButton("submit", "Submit")
+)
+
+server <- function(input, output) {
+  
+  observeEvent(input$submit, {
+    # Get the input value
+    input_value <- input$input_text
+    
+    # Save the output to a file
+    cat(input_value, file = "output.txt")
+    
+    # Copy the output to the clipboard
+    writeClipboard(input_value)
+  })
+}
+
+shinyApp(ui, server)
+```
+
+위 코드에서 `cat()` 함수를 사용하여 `input_value` 값을 "output.txt" 파일에 출력합니다. 그리고 `writeClipboard()` 함수를 사용하여 `input_value` 값을 clipboard에 복사합니다. 
+
+위 코드를 실행하면 앱에서 텍스트를 입력하고 "Submit" 버튼을 클릭하면 텍스트가 파일과 clipboard에 저장됩니다. 만약 여러 줄의 텍스트를 저장해야 한다면 `cat()` 함수 대신 `writeLines()` 함수를 사용할 수 있습니다.
+
 
 
 
