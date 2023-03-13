@@ -183,64 +183,53 @@ points(x, y, cex=2)
 
 위 코드에서 `cex=2`는 점의 크기를 두 배로 키우는 것을 의미합니다. 이 값을 조정하여 원하는 크기로 점을 설정할 수 있습니다.
 
-r 샤이니에서 output으로 저장한 그림과 텍스트를 같은 파일로 출력하는 코드
+r 샤이니에서 output으로 저장한 그림과 텍스트를 같은 파일로 출력하는 코드(html말고)
 
-다음은 R 샤이니에서 output으로 저장한 그림과 텍스트를 같은 파일로 출력하는 코드의 예시입니다.
+파이썬에서 이미지와 텍스트를 같은 파일로 저장하는 방법 중 하나는 PDF 문서로 저장하는 것입니다. 이를 위해 PyPDF2 라이브러리를 사용할 수 있습니다.
 
-```{r}
-library(shiny)
+먼저, PyPDF2 라이브러리를 설치합니다.
 
-# Define UI
-ui <- fluidPage(
-  titlePanel("Output file example"),
-  sidebarLayout(
-    sidebarPanel(
-      selectInput("plot_type", "Select plot type:", choices = c("Scatter", "Line")),
-      downloadButton("download_output", "Download output")
-    ),
-    mainPanel(
-      plotOutput("plot")
-    )
-  )
-)
-
-# Define server
-server <- function(input, output) {
-  
-  # Generate plot
-  output$plot <- renderPlot({
-    if (input$plot_type == "Scatter") {
-      plot(mtcars$wt, mtcars$mpg, xlab = "Weight", ylab = "Miles per gallon")
-    } else {
-      plot(mtcars$wt, mtcars$mpg, type = "l", xlab = "Weight", ylab = "Miles per gallon")
-    }
-  })
-  
-  # Generate text file
-  output$text_file <- downloadHandler(
-    filename = function() {
-      paste0("output_", input$plot_type, ".txt")
-    },
-    content = function(file) {
-      write.table(mtcars, file)
-    }
-  )
-  
-  # Download output file
-  output$download_output <- downloadHandler(
-    filename = function() {
-      paste0("output_", input$plot_type, ".html")
-    },
-    content = function(file) {
-      temp_file <- tempfile(fileext=".html")
-      htmltools::save_html(htmltools::tagList(output$plot(), tags$a(href=output$text_file), includeHTML=TRUE), temp_file)
-      file.rename(temp_file, file)
-    }
-  )
-}
-
-# Run app
-shinyApp(ui, server)
+```
+pip install PyPDF2
 ```
 
-위 코드에서는 `downloadHandler` 함수를 사용하여 파일을 생성하고 다운로드할 수 있습니다. `text_file` 출력 객체는 텍스트 파일을 생성하고 `download_output` 출력 객체는 HTML 파일을 생성합니다. HTML 파일에는 `output$text_file` 링크가 포함되어 있어 텍스트 파일도 함께 다운로드할 수 있습니다.
+다음으로, 이미지와 텍스트를 함께 저장할 PDF 문서의 기본 설정을 정의합니다.
+
+```python
+import io
+from reportlab.pdfgen import canvas
+from reportlab.lib.pagesizes import letter
+
+# PDF 문서 생성
+packet = io.BytesIO()
+can = canvas.Canvas(packet, pagesize=letter)
+```
+
+그런 다음, 이미지 파일을 캔버스에 추가합니다.
+
+```python
+# 이미지 추가
+img_path = "image.jpg"
+can.drawImage(img_path, 50, 50)
+```
+
+마지막으로, 텍스트를 캔버스에 추가하고 PDF 파일로 저장합니다.
+
+```python
+# 텍스트 추가
+text = "Hello World!"
+can.drawString(100, 100, text)
+
+# PDF 파일 생성
+can.save()
+
+# 저장할 파일명 지정 및 저장
+packet.seek(0)
+with open("output.pdf", "wb") as f:
+    f.write(packet.read())
+```
+
+위 코드는 "image.jpg" 파일을 캔버스에 추가하고 (50, 50) 위치에 이미지를 그립니다. 그리고 "Hello World!"라는 텍스트를 (100, 100) 위치에 추가한 후, "output.pdf"란 이름으로 PDF 파일로 저장합니다.
+
+PyPDF2 라이브러리를 사용하여 이미지와 텍스트가 포함된 PDF 파일을 읽어들여서 추출하는 것도 가능합니다. 이 경우엔 PyPDF2 라이브러리에서 제공하는 PdfFileReader 클래스와 extractText() 메소드 등을 활용하여 구현할 수 있습니다.
+
