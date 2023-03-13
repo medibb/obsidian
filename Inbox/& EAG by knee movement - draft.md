@@ -1,5 +1,5 @@
 
--   `Title:` [[& EAG - draft]]
+-   `Title:` [[& EAG by knee movement - draft]]
 -   `Type:` [[&]]
 -   `Tags:` #🧠️/📝️/🌞️ 
 -   `Formation Date:` [[2023-02-01]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/& EAG - draft.md",
+                "file": "Dataview/=.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/& EAG - draft.md",
+                "file": "Dataview/=.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -118,7 +118,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224449,
+                  "scale": 0.7132754626224451,
                   "close": true
                 }
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/& EAG - draft.md",
+                "file": "Dataview/=.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/& EAG - draft.md",
+                "file": "Dataview/=.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/& EAG - draft.md"
+                "file": "Dataview/=.md"
               }
             }
           }
@@ -205,11 +205,12 @@
   },
   "active": "b077107a1e999934",
   "lastOpenFiles": [
+    "Inbox/= Knee - biomechanics.md",
     "Inbox/= EAG - Data Analysis.md",
-    "Inbox/& EAG - draft.md",
+    "Inbox/$ EAG  - MOC.md",
+    "Inbox/& EAG by knee movement - draft.md",
     "Dataview/&.md",
     "Inbox/Untitled.md",
-    "Inbox/$ EAG  - MOC.md",
     "Dataview/Tag Taxonomy.md",
     "Dataview/INDEX.md",
     "Inbox/; 혁신형 의사과학자회의.md",
@@ -231,7 +232,6 @@
     "Inbox/Exercise in rheumatic disease.md",
     "Inbox/= Exercise immunology.md",
     "Dataview/✏️ Workbench.md",
-    "textgenerator/prompts/default/rewrite.md",
     "textgenerator/prompts/default",
     "textgenerator/prompts/local",
     "textgenerator/prompts",

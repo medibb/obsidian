@@ -72,4 +72,4 @@ The results of each stage are available below:
 
 
 🔗LINKS TO THIS PAGE
-[[& EAG - draft]]
+[[& EAG by knee movement - draft]]
