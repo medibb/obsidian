@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2a03241be9bb993d",
+        "id": "7a85db5987755345",
         "type": "tabs",
         "children": [
           {
-            "id": "bfd713f8cb4b4521",
+            "id": "0f2c170ff087db1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -203,8 +203,12 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "bfd713f8cb4b4521",
+  "active": "0f2c170ff087db1e",
   "lastOpenFiles": [
+    "Inbox/고신대.md",
+    "Inbox/= ADHD 의대교수 Life management.md",
+    "Inbox/$ EAG  - MOC.md",
+    "Inbox/전공의 리딩.md",
     "Inbox/= 고신대 재활 내규.md",
     "Dataview/✏️ Workbench.md",
     "Dataview/💳️ Kanban.md",
@@ -225,12 +229,8 @@
     "Inbox/= spinal stenosis.md",
     "Inbox/& EAG by knee movement - draft.md",
     "Inbox/& CT genetics 초록.md",
-    "Inbox/$ EAG  - MOC.md",
     "Template/Notes.md",
     "Inbox/Untitled 1.md",
-    "Inbox/& CT genetics 대재춘계초록.md",
-    "textgenerator/prompts/default/summarize.md",
-    "textgenerator/prompts/local/getoutline.md",
     "textgenerator/prompts/local",
     "textgenerator/prompts/default",
     "textgenerator/prompts",
