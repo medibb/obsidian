@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0f97b2c79ee62e34",
+            "id": "04968bb081daf412",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/= 업무자동화 (병원진료, 환자교육).md",
+                "file": "Inbox/= 고신대 재활 내규.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/= 업무자동화 (병원진료, 환자교육).md",
+                "file": "Inbox/= 고신대 재활 내규.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/= 업무자동화 (병원진료, 환자교육).md",
+                "file": "Inbox/= 고신대 재활 내규.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/= 업무자동화 (병원진료, 환자교육).md",
+                "file": "Inbox/= 고신대 재활 내규.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/= 업무자동화 (병원진료, 환자교육).md"
+                "file": "Inbox/= 고신대 재활 내규.md"
               }
             }
           }
@@ -205,14 +205,17 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "0f97b2c79ee62e34",
+  "active": "04968bb081daf412",
   "lastOpenFiles": [
     "Dataview/Tag Taxonomy.md",
+    "Inbox/= 고신대 재활 내규.md",
+    "Dataview/=.md",
+    "Dataview/💳️ Kanban.md",
+    "Inbox/= 업무자동화 (병원진료, 환자교육).md",
     "Inbox/= spinal stenosis.md",
     "Inbox/% peer reivew for ARM-23-016.md",
     "Inbox/& 2023-02-28 peer review for ARM-23-016.md",
     "Dataview/%.md",
-    "Dataview/=.md",
     "Inbox/= Knee - biomechanics.md",
     "Inbox/= EAG - Data Analysis.md",
     "Inbox/$ EAG  - MOC.md",
@@ -230,10 +233,7 @@
     "Inbox/$ CT xray - MOC.md",
     "Inbox/& CT genetics 초록.md",
     "Inbox/Untitled 1.md",
-    "Inbox/= 업무자동화 (병원진료, 환자교육).md",
     "Inbox/= Calcific tendinitis - pathophysiology and life cycle.md",
-    "Inbox/$ Calcific tendinitis.md",
-    "Inbox/% 류마티스학회 자가운동법.md",
     "textgenerator/prompts/default",
     "textgenerator/prompts/local",
     "textgenerator/prompts",
