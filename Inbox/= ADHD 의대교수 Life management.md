@@ -7,34 +7,44 @@
 
 # Work management
 
-## Workflow
-약속/일정의 관리:
-Todoist: second brain for short-term memory 
+## 1 Workflow
+### 1.1 약속/일정의 관리
+	Todoist: second brain for short-term memory 
 
-논문의 정리와 아이디어 확장
-Zotero 로 논문 input 수집과 annotation/label을 통한 정리
-Obsidian으로 지식의 소화와 새로운 아이디어 개발idea extraction : second brain for long-term memory
+### 1.2 논문의 정리와 아이디어 확장
+	Zotero 로 논문 input 수집과 annotation/label을 통한 정리
+	Obsidian으로 지식의 소화와 새로운 아이디어 추출: second brain for long-term memory
+	새로운 가설의 정의, 실험의 설계, 팀연구 진행
 
+### 1.3 의국관리
+	전공의 리딩
+	내규 문서화
+	진료 메뉴얼 문서화
 
-## Knowledge management
+### 1.4 병원진료
+	외래: 의무기록 작성과 외래진료행위의 자동화와 문서화, 진료 형식의 통일
+	환자교육: 환자의 운동교육 자료 개발 및 고도화
+	시술: 절차적으로 무결한 진행
+
+## 2 Knowledge management
 - 의학 지식의 축적, brain-storming 을 통한 idea의 발견, 확장 및 새로운 지식의 발굴
 - 그리고 그 전 과정을 통한 output (교육, 발표, 논문)
 	교욱: 견고한 정리 - input 늘리기 + 빠른 output이 가능한 PKM 활용
 	발표: 최신지견의 정리와 다양한 case 확보
 	논문: knowledge gap 의 인지 및 idea 의 확장, 참신한 이론과 가설 검증
 
-### 1 education - 의대생, 전공의
+### 2.1 education - 의대생, 전공의
 	교육을 위한 내용을 빠르게 인출할 수 있는 PKM system으로 정리.
 	최신지견에는 무게를 두지 않더라도 틀린내용은 절대 없도록
 	신뢰를 줄 수 있는 업적을 아주 조금 보여주는 것
 
-### 2 presentation 준비
+### 2.2 presentation 준비
 	Input이 많아야 output이 많아진다. 
 	but 2주 전부터 input 을 하나씩 모아놓아도, 어떻게 TOC  로 만들어 낼 것인지에 대한 준비가 되어 있지 않기 때문에 시간이 오래 걸림
 	주요 논문 4~5개를 찾아서 섞어가면서 PPT를 직접 만들면서 준비하는 것
 	story line 을 만들어 내는 것..
 
-### 3 research project leading
+### 2.3 research project leading
 	Leadership: 많은 연구 프로젝트 진행을 위해서는 여타 교수들 처럼 리더로서 업무를 분담할 수 있는 능력있는 전공의 및 공동연구자와 교류하는 것이 필요
 	- 힘을 써서 기존의 약해진 관계를 다시 활용하고, 확장하는 것도 필요하겠다.
 	
@@ -45,6 +55,8 @@ Obsidian으로 지식의 소화와 새로운 아이디어 개발idea extraction 
 	현재로서는 코드를 통계/시각화/정량적인 parameter의 발굴에만 활용하는 의학-공학 융합연구
 	인공지능을 실제 필드에 적용 혹은 연구에 사용할 수 있는 수준으로 발달이 필요
 	HCI
+
+
 
 ## 의국관리 & 리더쉽 (by chatGPT)
 
@@ -69,9 +81,17 @@ Obsidian으로 지식의 소화와 새로운 아이디어 개발idea extraction 
 7. 창의적인 해결책 제시: 문제 상황에서 기존에 사용되던 방법으로 해결할 수 없는 경우도 있습니다. 이때 리더는 창의적인 해결책을 제시하여 문제를 해결할 수 있도록 돕습니다. 이를 위해서는 다양한 아이디어와 접근 방식 등 다양한 영감과 아이디어를 제공하는 것이 중요합니다.
 
 
+
+
+
+
+
+
+
+
 # Life management
 
-## 시간의 관리 
+## 1 시간의 관리 
 - 낭비 줄이기 - 약효시간 이외의 상황에서 유튜브, 인스타 등 SNS 에 낭비되는 시간 관리 
 	- SNS 사용시간 모니터링 (은호처럼 30분 cap)
 - 자투리 시간의 활용 
@@ -84,7 +104,7 @@ Obsidian으로 지식의 소화와 새로운 아이디어 개발idea extraction 
 	- 서로 영향을 줄 수 있는 친절한 대화, 상대에게 실질적인 도움을 주거나 지혜/지식을 전달
 		- 1주일에 1번만 있어도 괜찮겠다.
 
-## 인간관계의 관리 
+## 2 인간관계의 관리 
 - 선한영향력을 받고 주도록 노력
 - 의대교수로서의 성장과 연결과 협업
 	- 지식과 인생의 스승, 멘토에게 존경과 예의의 표시
@@ -94,7 +114,7 @@ Obsidian으로 지식의 소화와 새로운 아이디어 개발idea extraction 
 		- 재활의학: 박재현, 김기욱, 박철현, 김범석, 강민구
 		- 그 외: 부경대 교수님들들 홍준표, 장원두 
 
-## 건강의 관리 
+## 3 건강의 관리 
 - 규칙적 운동
 
 ## 실수의 관리
