@@ -5,21 +5,23 @@
 -   `Formation Date:` [[2023-03-03]]
 ---
 
-# Work
+# Work management
 
 ## Workflow
-Todoist 로 약속&일정 관리 : second brain for short-term memory 
+약속/일정의 관리:
+Todoist: second brain for short-term memory 
 
-Obsidian으로 idea extraction : second brain for long-term memory
+논문의 정리와 아이디어 확장
+Zotero 로 논문 input 수집과 annotation/label을 통한 정리
+Obsidian으로 지식의 소화와 새로운 아이디어 개발idea extraction : second brain for long-term memory
 
-Zotero 로 논문 input 수집
 
 ## Knowledge management
-brain-storming 을 통한 idea의 발견, 확장.
-의학지식의 축적으로 부터 output (교육, 발표, 논문)
+- 의학 지식의 축적, brain-storming 을 통한 idea의 발견, 확장 및 새로운 지식의 발굴
+- 그리고 그 전 과정을 통한 output (교육, 발표, 논문)
 	교욱: 견고한 정리 - input 늘리기 + 빠른 output이 가능한 PKM 활용
 	발표: 최신지견의 정리와 다양한 case 확보
-	논문: knowledge gap 의 인지 및 idea 의 확장, 참신한 이론과 가설검증
+	논문: knowledge gap 의 인지 및 idea 의 확장, 참신한 이론과 가설 검증
 
 ### 1 education - 의대생, 전공의
 	교육을 위한 내용을 빠르게 인출할 수 있는 PKM system으로 정리.
@@ -27,7 +29,7 @@ brain-storming 을 통한 idea의 발견, 확장.
 	신뢰를 줄 수 있는 업적을 아주 조금 보여주는 것
 
 ### 2 presentation 준비
-	Input  이 많아야 output 이 많아진다. 
+	Input이 많아야 output이 많아진다. 
 	but 2주 전부터 input 을 하나씩 모아놓아도, 어떻게 TOC  로 만들어 낼 것인지에 대한 준비가 되어 있지 않기 때문에 시간이 오래 걸림
 	주요 논문 4~5개를 찾아서 섞어가면서 PPT를 직접 만들면서 준비하는 것
 	story line 을 만들어 내는 것..
@@ -39,9 +41,7 @@ brain-storming 을 통한 idea의 발견, 확장.
 	brain-storming 혹은 기존 input 으로 부터 연구 아이디어가 탐색
 	가설을 구체적으로 정의하고 검증하기 위한 실험을 아주 실제적이고 정교하게 구상
 	앞선 과정에서 빠진 연결고리와 지식들을 채우기 위한 새로운 input을 탐색
-	이후 통계와 정리 문서작성은 속도를 내서 진행할 수 있도록
-
-관심 연구 주제의 확장
+	이후 통계와 정리 문서작성은 속도를 내서 진행할 수 향
 	현재로서는 코드를 통계/시각화/정량적인 parameter의 발굴에만 활용하는 의학-공학 융합연구
 	인공지능을 실제 필드에 적용 혹은 연구에 사용할 수 있는 수준으로 발달이 필요
 	HCI
