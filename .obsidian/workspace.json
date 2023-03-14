@@ -11,8 +11,12 @@
             "id": "bfd713f8cb4b4521",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dataview/✏️ Workbench.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
@@ -66,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c3d1ec123b944f56",
@@ -92,6 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Dataview/✏️ Workbench.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:Dataview",
@@ -134,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dataview/✏️ Workbench.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,6 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dataview/✏️ Workbench.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dataview/✏️ Workbench.md"
+              }
             }
           }
         ],
@@ -197,8 +205,19 @@
   },
   "active": "bfd713f8cb4b4521",
   "lastOpenFiles": [
-    "Inbox/= shiny app for firstassessment.md",
+    "Dataview/💳️ Kanban.md",
     "Inbox/= 업무자동화 (병원진료, 환자교육).md",
+    "Dataview/✏️ Workbench.md",
+    "Dataview/=.md",
+    "Dataview/+.md",
+    "Dataview/%.md",
+    "Dataview/&.md",
+    "Dataview/@.md",
+    "Dataview/{.md",
+    "Dataview/(.md",
+    "Dataview/!.md",
+    "Dataview/;.md",
+    "Inbox/= shiny app for firstassessment.md",
     "Inbox/= 고신대 재활 내규.md",
     "Inbox/2023-03-14.md",
     "Inbox/% 류마티스학회 자가운동법.md",
@@ -212,21 +231,10 @@
     "Inbox/& CT genetics 대재춘계초록.md",
     "textgenerator/prompts/default/summarize.md",
     "textgenerator/prompts/local/getoutline.md",
-    "textgenerator/prompts/default/simplify.md",
-    "textgenerator/prompts/default/rewrite.md",
-    "textgenerator/prompts/default/getTags.md",
-    "textgenerator/prompts/default/getTitles.md",
-    "textgenerator/prompts/default/getParagraph.md",
-    "textgenerator/prompts/default/getOutline.md",
-    "textgenerator/prompts/default/getIdeas.md",
-    "textgenerator/prompts/default/getEmailPos.md",
-    "textgenerator/prompts/default/getEmailNeg.md",
     "textgenerator/prompts/local",
     "textgenerator/prompts/default",
     "textgenerator/prompts",
     "textgenerator",
-    "Inbox/= Exercise immunology.md",
-    "Inbox/= Calcific tendinitis - pathophysiology and life cycle.md",
     "Inbox/~$$ EAG by knee movement and loading - MOC.pptx",
     "Inbox/$ EAG by knee movement and loading - MOC.pptx",
     "Inbox/$ EAG by knee movement and loading - MOC.html"
