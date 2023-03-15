@@ -10,7 +10,7 @@
 - crtl + o - travel to another note
 - art + E - templator
 - ctrl + V - paste link in clipboard
-- crrl + + - emoji
+- ctrl + + - emoji
 
 # HWP
 - Shift + ESC , Enter : 표 밖으로 커서 꺼내기
@@ -144,7 +144,7 @@
 
     
 
-# dl dt dd 표현
+## dl dt dd 표현
 
 ---
 
@@ -160,7 +160,7 @@
   
   
 
-# table을 표현하는 법
+## table을 표현하는 법
 
 ---
 
@@ -181,7 +181,7 @@
    
   
 
-# 문장 요소 표현
+## 문장 요소 표현
 
 ---
 
@@ -205,7 +205,7 @@
   
   
 
-# 그 외 요소들(abbr, acronym, sub, sup, etc)
+## 그 외 요소들(abbr, acronym, sub, sup, etc)
 
 ---
 
@@ -232,7 +232,7 @@
   
     
 
-# 링크 표현하는 법
+## 링크 표현하는 법
 
 ---
 
