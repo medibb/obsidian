@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "10a83293f19624b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dataview/Tag Taxonomy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "stacked": true
@@ -206,22 +218,24 @@
   },
   "active": "0264e047684b30a9",
   "lastOpenFiles": [
-    "Utility/⌨️Hotkeys.md",
+    "Dataview/Tag Taxonomy.md",
+    "Dataview/%.md",
+    "Inbox/% ClinPain 임통춘계 hip 관절외병변.md",
     "Inbox/Assignment2 202256109 이재현.md",
+    "Inbox/Untitled.md",
+    "Utility/⌨️Hotkeys.md",
     "Inbox/~$ 202210569 이재현 인공지능융합학과.docx",
     "Inbox/과제 202210569 이재현 인공지능융합학과.docx",
     "Inbox/= 고신대 재활 내규.md",
     "Inbox/전공의 리딩.md",
     "Inbox/= ADHD 의대교수 Life management.md",
     "Inbox/2023-03-14.md",
-    "Dataview/Tag Taxonomy.md",
     "Dataview/=.md",
     "Dataview/💳️ Kanban.md",
     "Inbox/= 업무자동화 (병원진료, 환자교육).md",
     "Inbox/= spinal stenosis.md",
     "Inbox/% peer reivew for ARM-23-016.md",
     "Inbox/& 2023-02-28 peer review for ARM-23-016.md",
-    "Dataview/%.md",
     "Inbox/= Knee - biomechanics.md",
     "Inbox/= EAG - Data Analysis.md",
     "Inbox/$ EAG  - MOC.md",
@@ -232,7 +246,6 @@
     "physiology.md",
     "muscle.md",
     "Utility/🕓️ Timeline.md",
-    "Utility/🔌️ Plugins.md",
     "Dataview/Pasted image 20230201093840.png",
     "textgenerator/prompts/default",
     "textgenerator/prompts/local",
